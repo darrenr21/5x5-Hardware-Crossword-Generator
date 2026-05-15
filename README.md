@@ -3,6 +3,9 @@
 Algorithm for the 5x5 Hardware Crossword Puzzle — ECE 1896 Senior Design, Team 13
 **Author:** Darren Ravichandra | University of Pittsburgh
 
+**Team member**: Nicholas McFeeters, Chase Crandall, Collin Chambers
+Team members were other electrical and computer engineers; their work is shown in the final report attached to the repository.
+
 ---
 
 ## Overview
