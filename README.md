@@ -1,50 +1,54 @@
-# 5x5 Hardware Crossword Generator
+# 5x5 Crossword Puzzle Generator
 
-Algorithm for the 5x5 Hardware Crossword Puzzle — ECE 1896 Senior Design, Team 13  
+Algorithm for the 5x5 Hardware Crossword Puzzle — ECE 1896 Senior Design, Team 13
 **Author:** Darren Ravichandra | University of Pittsburgh
 
 ---
 
 ## Overview
 
-This is the crossword puzzle generation algorithm written in C++ for an ESP32 microcontroller. It runs on boot, loads a dictionary from the onboard LittleFS filesystem, selects a valid black square pattern, and uses **constraint satisfaction with backtracking** to fill a 5x5 crossword grid with real words and clues. The generated puzzle is then displayed on an OLED screen with an LCD panel for clues, a rotary encoder for letter selection, and push buttons for navigation.
+This is the crossword puzzle generation algorithm written in C++ for a desktop build (and ported separately to ESP32). It loads a word/clue dictionary from `.txt` files, selects a valid black square pattern, and uses **constraint satisfaction with backtracking** to fill a 5x5 crossword grid. Each run produces a different puzzle thanks to a time-seeded RNG.
 
 ---
 
 ## How It Works
 
 ### 1. Pattern Selection
-The generator starts with a set of predefined black square patterns for the 5x5 grid. Each pattern is validated before use — it must keep all white cells connected, have at least 2 across and 2 down word slots, and not create any runs of fewer than 3 letters.
+The generator picks from a set of 6 predefined black square patterns. Before using one, it validates it — all white cells must be connected, there must be at least 2 across and 2 down word slots, every white cell must belong to a slot, and no row or column can have a white run shorter than 3.
 
 ### 2. Dictionary Loading
-Words are loaded from `.txt` files stored in the `/dictionaries` folder on LittleFS. Each file corresponds to a specific word length (3, 4, or 5 letters) for a given language (e.g. `english_3.txt`, `english_4.txt`, `english_5.txt`). Each entry contains a word and its clue.
+Words are loaded from `.txt` files in the `dictionaries/` folder. Files are named `{language}_{length}.txt` (e.g. `english_3.txt`, `english_4.txt`, `english_5.txt`). Each line is formatted as `WORD,clue text`. The parser validates each entry — wrong length, non-alphabetic characters, and missing commas are all caught and logged.
 
 ### 3. Word Index
-A `WordIndex` is built from the loaded dictionary. It maps each word length and character position to the list of word indices that have a specific letter at that position. This dramatically speeds up candidate lookup during backtracking.
+A `WordIndex` is built from the loaded dictionary. It maps each word length and character position to the list of entries that have a specific letter at that position. This lets `get_candidates()` filter to matching words in one lookup instead of scanning the whole dictionary every time.
 
 ### 4. Constraint Satisfaction + Backtracking
-This is the core algorithm. At each step:
-- It selects the most constrained unfilled word slot (fewest valid candidates — MRV heuristic)
-- It retrieves candidate words that satisfy all letter constraints from intersecting already-placed words
-- It places a word and recurses
-- If no valid word exists for any slot, it backtracks and tries the next candidate
+This is the core algorithm in `backtrack()`:
+- Picks the most constrained unfilled slot using the **MRV heuristic** (minimum remaining values — fewest valid candidates)
+- Calls `get_candidates()` to find words that fit the letters already placed by crossing words
+- Places a word and recurses
+- If no word fits any slot, undoes the last placement and tries the next candidate
+- If the step budget (50,000 calls) or time budget (5 seconds) is exceeded, the attempt is abandoned and a new pattern is tried
 
-This continues until all slots are filled or all possibilities are exhausted, in which case a new pattern is tried.
+This budget system prevents the algorithm from getting stuck on pathological cases that would otherwise take minutes to exhaust.
 
 ### 5. Output
-Once a valid puzzle is generated, it prints the grid and clues to Serial and triggers the LCD/OLED display for the physical hardware interface.
+Once a valid puzzle is found, `print_puzzle()` prints the grid and all clues with answers to stdout.
 
 ---
 
-## Project Structure
+## File Structure
 
 ```
-├── main.cpp          # ESP32 entry point — runs setup() on boot
-├── algorithm.h       # Data structures, function declarations
-├── algorithm.cpp     # Core puzzle generation logic
+├── main.cpp          # entry point — loads dictionary, runs generator, prints result
+├── algorithm.h       # data structures and function declarations
+├── algorithm.cpp     # puzzle generation logic (backtracking, pattern validation, candidate filtering)
 ├── dictionary.h      # DictEntry and WordDB type definitions
-├── dictionary.cpp    # Dictionary loading and language detection
-└── /dictionaries     # LittleFS folder containing word/clue .txt files
+├── dictionary.cpp    # dictionary loading, parsing, and language detection
+└── dictionaries/     # folder containing word/clue .txt files
+    ├── english_3.txt
+    ├── english_4.txt
+    └── english_5.txt
 ```
 
 ---
@@ -52,36 +56,74 @@ Once a valid puzzle is generated, it prints the grid and clues to Serial and tri
 ## How to Run
 
 ### Requirements
-- ESP32 microcontroller
-- [PlatformIO](https://platformio.org/) or Arduino IDE with ESP32 board support
-- LittleFS filesystem with dictionary `.txt` files uploaded to the board
+- C++17 or later
+- A compiler with `std::filesystem` support (GCC 8+, Clang 7+, MSVC 2017+)
 
-### Setup
-1. Clone the repository
-2. Upload the `/dictionaries` folder to the ESP32 filesystem using the LittleFS upload tool
-3. Build and flash `main.cpp` to the ESP32
-4. Open the Serial Monitor at **115200 baud**
-
-### Expected Output
+### Build
+```bash
+g++ -std=c++17 -O2 -o crossword main.cpp algorithm.cpp dictionary.cpp
 ```
-=== Crossword Puzzle Generator ===
-[INFO] LittleFS mounted
+
+### Run
+```bash
+./crossword
+```
+
+### Dictionary File Format
+Each `.txt` file in `dictionaries/` should follow this format:
+```
+CAT,A common household pet
+DOG,Man's best friend
+# lines starting with # are ignored
+```
+Words are automatically converted to uppercase. Lines with missing commas, wrong lengths, or non-letter characters are skipped and logged as warnings.
+
+### Changing Language
+In `main.cpp`, change this line:
+```cpp
+std::string chosen_language = "english";
+```
+Any language with complete 3/4/5-letter files in `dictionaries/` will be detected automatically.
+
+---
+
+## Example Output
+
+```
 Available languages: english
-Loading dictionary: english
-Generating puzzle...
-Generation time: 312ms
-=== 5x5 CROSSWORD ===
-# # C A T
-# A L O E
-B R A I N
-E A S E #
-D E N # #
+
+Generating puzzle in: english
+[DICT] Loaded 412 words from english_3.txt
+[DICT] Loaded 891 words from english_4.txt
+[DICT] Loaded 1203 words from english_5.txt
+
+[ATTEMPT] Attempt 1 failed (steps: 3241), retrying...
+[INFO] Puzzle generated (attempt 2/20, steps: 847)
+Generation time: 0.38s
+
+5x5 CROSSWORD PUZZLE
+Language: english
+
+  +---+---+---+---+---+
+  |###|###| C | A | T |
+  +---+---+---+---+---+
+  |###| A | L | O | E |
+  +---+---+---+---+---+
+  | B | R | A | I | N |
+  +---+---+---+---+---+
+  | E | A | S | E |###|
+  +---+---+---+---+---+
+  | D | E | N |###|###|
+  +---+---+---+---+---+
 
 ACROSS:
-  1. Feline pet -> CAT
+  1. (R0C2, 3 letters) Feline animal
+     Answer: CAT
   ...
+
 DOWN:
-  1. Tropical plant -> ALOE
+  1. (R1C1, 4 letters) Tropical succulent plant
+     Answer: ALOE
   ...
 ```
 
@@ -91,22 +133,13 @@ DOWN:
 
 | Technology | Purpose |
 |---|---|
-| C++ (ESP32/Arduino) | Core language |
-| LittleFS | Onboard filesystem for dictionary storage |
-| Constraint Satisfaction + Backtracking | Puzzle generation algorithm |
-| Minimum Remaining Values (MRV) | Heuristic for slot selection |
+| C++17 | Core language |
+| `std::filesystem` | Dictionary file discovery and validation |
+| Constraint Satisfaction + Backtracking | Core puzzle generation algorithm |
+| MRV Heuristic | Slot selection to minimize search space |
 | WordIndex (positional letter index) | Fast candidate filtering |
-| ESP32 `esp_random()` | Seeded RNG for varied puzzle output |
-
----
-
-## Algorithm Complexity
-
-The backtracking algorithm is exponential in the worst case but is kept fast in practice by:
-- The MRV heuristic (always filling the most constrained slot first)
-- The positional word index (O(1) lookup per constraint instead of scanning all words)
-- Randomized candidate ordering (produces varied puzzles across runs)
-- Multiple pattern attempts with a configurable `max_attempts` limit (default: 20)
+| Mersenne Twister (`std::mt19937`) | Seeded RNG for varied puzzle output |
+| Step + time budgets | Prevents pathological long runs |
 
 ---
 
@@ -117,4 +150,4 @@ This algorithm is one component of a larger embedded crossword puzzle system bui
 - LCD panel for displaying clues
 - Rotary encoder for letter selection
 - Push buttons for clue navigation and menu control
-- Multi-language dictionary support via LittleFS
+- ESP32 port of this algorithm running on-device via LittleFS
