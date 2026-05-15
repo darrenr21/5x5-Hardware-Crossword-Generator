@@ -1,10 +1,7 @@
 #pragma once
-// =============================================================================
 // algorithm.h
 // ECE 1896 Senior Design - Team 13
 // Author: Darren Ravichandra
-// Modified for ESP32 — char* DictEntry, WordIndex stores int indices
-// =============================================================================
 
 #include "dictionary.h"
 
@@ -25,9 +22,9 @@ using Pattern = std::set<Cell>;
 
 struct WordSlot {
     std::string direction;
-    int         start_row;
-    int         start_col;
-    int         length;
+    int start_row;
+    int start_col;
+    int length;
     std::string answer;
     std::string clue;
 
@@ -36,7 +33,7 @@ struct WordSlot {
 
 struct PuzzleGrid {
     std::string language;
-    char        grid[GRID_SIZE][GRID_SIZE];
+    char grid[GRID_SIZE][GRID_SIZE];
     std::vector<WordSlot> slots;
 
     PuzzleGrid(const Pattern& pattern, const std::string& language = "english");
