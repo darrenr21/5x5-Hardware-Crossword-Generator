@@ -4,15 +4,14 @@
 // Author: Darren Ravichandra
 
 #include "dictionary.h"
-
 #include <string>
 #include <vector>
 #include <set>
 #include <map>
 #include <optional>
+#include <cstdint>
 
-
-//DATA STRUCTURES
+// grid constants
 const int  GRID_SIZE = 5;
 const char BLACK_SQ  = '#';
 const char EMPTY_SQ  = '\0';
@@ -42,16 +41,18 @@ struct PuzzleGrid {
     void set_cell(int row, int col, char value) { grid[row][col] = value; }
 };
 
-//BLACK SQUARE PATTERNS
 extern const std::vector<Pattern> PATTERNS;
+
+// checks connectivity, slot count, and no 2-letter runs
 bool is_valid_pattern(const Pattern& pattern);
 
-// Algorithm: CONSTRAINT SATISFACTION + BACKTRACKING
-using WordIndex = std::map<int, std::vector<std::map<char, std::vector<int>>>>;
+// WordIndex maps word length -> position -> letter -> list of matching entries
+// used to quickly find candidate words during backtracking without scanning the whole dictionary
+using WordIndex = std::map<int, std::vector<std::map<char, std::vector<DictEntry>>>>;
 
 WordIndex build_index(const WordDB& word_db);
 
-std::vector<int> get_candidate_indices(
+std::vector<DictEntry> get_candidates(
     const WordSlot& slot,
     const char grid[GRID_SIZE][GRID_SIZE],
     const WordDB& word_db,
@@ -59,12 +60,17 @@ std::vector<int> get_candidate_indices(
     const WordIndex* index = nullptr
 );
 
+// backtracking solver — step_counter and deadline_ms are used to bail out early
+// if the current pattern is taking too long, so we can try a different one
 bool backtrack(
     std::vector<WordSlot>& slots,
     char grid[GRID_SIZE][GRID_SIZE],
     const WordDB& word_db,
     std::set<std::string>& used_words,
-    const WordIndex* word_index = nullptr
+    const WordIndex* word_index,
+    int& step_counter,
+    int step_limit,
+    uint32_t deadline_ms
 );
 
 std::optional<PuzzleGrid> generate_puzzle(
@@ -73,7 +79,6 @@ std::optional<PuzzleGrid> generate_puzzle(
     int max_attempts = 20
 );
 
-//CLUE MANAGEMENT
 const WordSlot* get_active_clue(
     const PuzzleGrid& puzzle,
     int selected_row,
@@ -81,7 +86,6 @@ const WordSlot* get_active_clue(
     const std::string& direction = "across"
 );
 
-//DISPLAY/OUTPUT
 void print_grid(const PuzzleGrid& puzzle);
 void print_clues(const PuzzleGrid& puzzle);
 void print_puzzle(const PuzzleGrid& puzzle);
