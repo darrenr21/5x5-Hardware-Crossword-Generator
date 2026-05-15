@@ -5,7 +5,7 @@ Algorithm for the 5x5 Hardware Crossword Puzzle — ECE 1896 Senior Design, Team
 
 **Team member**: Nicholas McFeeters, Chase Crandall, Collin Chambers
 
-Team members were other electrical and computer engineers; their work is shown in the final report attached to the repository.
+Team members were other electrical and computer engineers; their work, as well as the fully built project, is shown in the final report attached to the repository.
 
 ---
 
