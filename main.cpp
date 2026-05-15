@@ -1,12 +1,8 @@
-// =============================================================================
 // main.cpp
 // ECE 1896 Senior Design - Team 13
 // Author: Darren Ravichandra
-//
-// ESP32 entry point — equivalent to the original main.cpp but for Arduino.
 // setup() runs once on boot — loads dictionary, generates puzzle, prints it.
 // loop() is empty — puzzle generation happens on demand not continuously.
-// =============================================================================
 
 #include <Arduino.h>
 #include <LittleFS.h>
@@ -14,19 +10,17 @@
 #include "dictionary.h"
 
 void setup() {
-    // ── Start serial monitor ──────────────────────────────────────────────
     Serial.begin(115200);
     delay(1000);  // give serial time to connect
     Serial.println("\n=== Crossword Puzzle Generator ===");
 
-    // ── Mount LittleFS (where your txt files live) ────────────────────────
     if (!LittleFS.begin(true)) {
         Serial.println("[ERROR] LittleFS mount failed");
         return;
     }
     Serial.println("[INFO] LittleFS mounted");
 
-    // ── Show available languages ──────────────────────────────────────────
+    //Show available languages
     auto languages = list_available_languages("/dictionaries");
     Serial.print("Available languages: ");
     for (size_t i = 0; i < languages.size(); i++) {
@@ -35,7 +29,7 @@ void setup() {
     }
     Serial.println();
 
-    // ── Load dictionary ───────────────────────────────────────────────────
+    //Load dictionary
     std::string chosen_language = "english";
     Serial.print("\nLoading dictionary: ");
     Serial.println(chosen_language.c_str());
@@ -46,7 +40,7 @@ void setup() {
         return;
     }
 
-    // ── Print memory after loading ────────────────────────────────────────
+    //Print memory after loading
     Serial.print("Free heap after load: ");
     Serial.println(ESP.getFreeHeap());
     Serial.print("Free PSRAM after load: ");
@@ -68,11 +62,11 @@ void setup() {
         return;
     }
 
-    // ── Print puzzle ──────────────────────────────────────────────────────
+    //Print puzzle
     const PuzzleGrid& puzzle = *result;
     print_puzzle(puzzle);
 
-    // ── Clue display demo ─────────────────────────────────────────────────
+    //Clue display demo (for debugging purposes)
     Serial.println("---------------------------------------------");
     Serial.println("LCD CLUE DISPLAY DEMO");
     Serial.println("---------------------------------------------");
