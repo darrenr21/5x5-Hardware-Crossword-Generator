@@ -1,0 +1,1043 @@
+ABACO,Instrumento antiguo para contar
+ABETO,Arbol conifero alto
+ABRIR,Dejar algo sin cerrar
+ABRIL,Cuarto mes del ano
+ABUSO,Uso excesivo de algo
+ACASO,Por casualidad
+ACERA,Borde para peatones
+ACERO,Aleacion dura de hierro
+ACOSO,Persecucion molesta
+ACTOR,Persona que interpreta papeles
+ACUDE,Forma verbal de acudir
+ADIOS,Despedida comun
+ADOBE,Ladrillo de barro
+AGRIO,Que tiene sabor acido
+AGUJA,Instrumento delgado de coser
+AHORA,En este momento
+AJENO,Que pertenece a otro
+ALAMO,Arbol alto de hojas blancas
+ALBOR,Primera claridad del dia
+ALDEA,Pueblo pequeno
+ALETA,Miembro para nadar
+ALGAS,Plural de vegetal marino
+ALGUN,Indefinido masculino
+ALIAS,Nombre supuesto
+ALMEZ,Arbol de fruto dulce
+ALOES,Plural de planta aloe
+ALPES,Cordillera europea
+ALTAR,Mesa para ritos religiosos
+ALTOS,De gran estatura plural
+ALUDE,Forma verbal de aludir
+ALZAR,Levantar algo
+AMADO,Que es querido
+AMIGO,Persona de confianza
+ANCHO,De gran extension
+ANDAR,Caminar a pie
+ANGEL,Ser celestial con alas
+ANIMA,Forma verbal de animar
+ANIMO,Estado de espiritu
+ANTRO,Cueva o lugar oscuro
+ANUAL,Que ocurre cada ano
+ANUDA,Forma verbal de anudar
+ARADO,Instrumento para labrar
+ARBOL,Planta grande con tronco
+ARCHI,Prefijo que indica el mayor
+ARCON,Caja grande antigua
+ARENA,Pequenas piedras de playa
+ARETE,Aro pequeno para la oreja
+ARGOT,Jerga de un grupo
+ARMAR,Montar las piezas
+AROMA,Olor agradable
+ARPON,Lanza para cazar peces
+ARROZ,Grano blanco alargado
+ARTES,Plural de arte
+ASADO,Carne cocinada al fuego
+ASEAR,Limpiar algo
+ATAJO,Camino corto
+ATICO,Piso superior de edificio
+ATROZ,Muy cruel
+AUGUR,Adivino antiguo
+AUNAR,Unir acciones
+AVENA,Cereal de granos alargados
+AVION,Vehiculo que vuela
+AVISO,Comunicacion urgente
+AYUDA,Accion de socorrer
+AZOTE,Golpe fuerte
+BACHE,Hueco en el camino
+BADEN,Depresion transversal en calle
+BAILE,Movimiento ritmico
+BALSA,Embarcacion plana
+BANCO,Institucion financiera
+BARBA,Pelo de la cara
+BARCA,Embarcacion pequena
+BARCO,Vehiculo flotante grande
+BARRA,Pieza larga y recta
+BAZAR,Mercado de articulos variados
+BECAR,Dar una ayuda economica
+BELEN,Representacion del nacimiento
+BESAR,Accion con los labios
+BICHO,Animal pequeno
+BIDON,Recipiente grande cilindrico
+BIFIN,Pan con carne filete
+BILIS,Secrecion amarga del higado
+BINGO,Juego con numeros
+BISEL,Borde cortado en angulo
+BISON,Bovino americano grande
+BOCHE,Cavidad en un juego
+BODAS,Plural de matrimonios
+BOLSA,Saco para transportar
+BOMBA,Artefacto explosivo
+BORDA,Orilla del barco
+BORDE,Extremo de algo
+BORRA,Lana corta
+BOTAS,Calzado alto plural
+BRAVO,Exclamacion de aprobacion
+BRAZA,Estilo de nadar
+BRAZO,Parte superior del cuerpo
+BREVA,Higo temprano
+BREVE,De corta duracion
+BRISA,Viento suave
+BROCA,Punta para taladrar
+BROMA,Dicho para hacer reir
+BRUJA,Mujer con poderes magicos
+BRUJO,Hombre con poderes magicos
+BRUMA,Niebla espesa
+BRUNO,Nombre propio masculino
+BRUTO,Sin refinamiento
+BUCLE,Rizo de pelo
+BUENO,De caracter positivo
+BUQUE,Barco grande
+BURLA,Accion de reir con desprecio
+BURRO,Animal de carga
+BUSCA,Forma verbal de buscar
+BUZON,Caja para correos
+CABAL,Exacto completo
+CABLE,Hilo conductor de electricidad
+CABRA,Animal con cuernos
+CACAO,Planta de donde sale chocolate
+CACHA,Empunadura de pistola
+CAJON,Mueble con compartimentos
+CALMA,Tranquilidad
+CALOR,Sensacion de temperatura alta
+CAMAL,Matadero de animales
+CAMBA,Nombre propio masculino
+CAMPO,Terreno sin construir
+CANAL,Via de agua artificial
+CANOA,Embarcacion estrecha
+CANTO,Parte estrecha de algo
+CAPAZ,Que puede hacer algo
+CARDO,Planta con espinas
+CARGA,Peso que se transporta
+CARGO,Puesto de responsabilidad
+CARNE,Tejido del cuerpo animal
+CARPE,Arbol de madera dura
+CARRO,Vehiculo con ruedas
+CARTA,Mensaje escrito en papel
+CASAS,Plural de vivienda
+CASCO,Proteccion para la cabeza
+CASTO,Puro sin mancha
+CAUCE,Lecho de un rio
+CAUDA,Cola alargada
+CAUSA,Origen de un efecto
+CAVAR,Hacer un hoyo
+CAZAR,Perseguir animales
+CEBRA,Equido con rayas
+CEDRO,Arbol conifero aromatico
+CEJAR,Retroceder
+CELDA,Pequena habitacion cerrada
+CELOS,Envidia amorosa
+CENAR,Tomar la cena
+CENSO,Registro de poblacion
+CERCA,A poca distancia
+CERDO,Animal de granja rosado
+CERRO,Elevacion del terreno
+CESAR,Interrumpir algo
+CHICA,Mujer joven
+CHICO,Hombre joven
+CHILE,Pimiento picante
+CHINA,Pais asiatico
+CHINO,De China pais
+CHULO,Descarado o bonito
+CICLO,Periodo que se repite
+CIELO,Espacio sobre la tierra
+CIFRA,Numero o caracter numerico
+CIMAS,Plural de parte mas alta
+CINTA,Tira larga y estrecha
+CIRCO,Espectaculo con animales
+CIRIO,Vela grande
+CITAR,Convocar a una cita
+CIVIL,Relativo al ciudadano
+CLAMA,Forma verbal de clamar
+CLARO,Con luz evidente
+CLASE,Grupo de alumnos
+CLAVE,Llave que resuelve algo
+CLERO,Conjunto de sacerdotes
+CLIMA,Condiciones atmosfericas
+COBRA,Serpiente venenosa
+COBRE,Metal rojizo conductor
+COCER,Cocinar con calor
+COCHE,Vehiculo de cuatro ruedas
+COCOS,Plural de fruto tropical
+COLMO,El maximo exceso
+COLOR,Aspecto visual
+COMER,Ingerir alimentos
+CONDE,Titulo nobiliario
+COPIA,Reproduccion identica
+CORRE,Forma verbal de correr
+CORTA,Forma verbal de cortar
+CORTE,Herida con filo
+COSER,Unir con hilo
+COSTA,Orilla del mar
+CREMA,Sustancia espesa y suave
+CRIAR,Alimentar un animal
+CROAR,Sonido de las ranas
+CRUCE,Punto donde se juntan caminos
+CRUDO,Sin cocinar
+CRUEL,Que causa sufrimiento
+CRUZA,Forma verbal de cruzar
+CUBIL,Cueva de los animales
+CUBRE,Forma verbal de cubrir
+CUECE,Forma verbal de cocer
+CUEVA,Cavidad natural en la tierra
+CUIDA,Forma verbal de cuidar
+CULPA,Responsabilidad de un mal
+CULTO,Instruido y educado
+CUNAS,Plural de camita para bebe
+CUPON,Vale para un descuento
+CURAR,Sanar de enfermedad
+CURIO,Unidad radioactiva
+CURSI,De mal gusto pretencioso
+CURSO,Serie ordenada de clases
+CURVA,Linea no recta
+DAMAS,Plural de mujer educada
+DANZA,Baile artistico
+DARDO,Proyectil pequeno punzante
+DATOS,Plural de informacion
+DEBER,Obligacion moral
+DECIR,Expresar con palabras
+DEDAL,Funda protectora para coser
+DEDOS,Plural de miembro de la mano
+DEJAR,Abandonar algo
+DELTA,Desembocadura con forma triangular
+DENSO,Muy compacto
+DERBI,Competicion entre rivales
+DERMA,Capa de la piel
+DESDE,Preposicion de origen
+DIANA,Blanco para lanzar dardos
+DICEN,Forma verbal de decir
+DICHA,Felicidad
+DICHO,Refran popular
+DIETA,Plan de alimentacion
+DIQUE,Muro que contiene agua
+DISCO,Objeto circular plano
+DISTA,Forma verbal de distar
+DOBLE,Dos veces la cantidad
+DOCIL,Que se deja manejar
+DOLOR,Sufrimiento fisico
+DOMAR,Amaestrar un animal
+DONAR,Entregar sin cobrar
+DORAR,Cubrir de oro
+DORSO,Parte de atras
+DRAMA,Obra teatral triste
+DROGA,Sustancia que altera
+DUCHA,Bano con agua que cae
+DUELE,Forma verbal de doler
+DULCE,De sabor azucarado
+EBANO,Madera oscura dura
+EDITA,Forma verbal de editar
+ELEGI,Forma verbal de elegir
+EMITE,Forma verbal de emitir
+ENANO,De muy baja estatura
+ENERO,Primer mes del ano
+ENOJO,Sentimiento de ira
+ENTRA,Forma verbal de entrar
+ENTRE,Preposicion de lugar
+ENVIA,Forma verbal de enviar
+EPICA,Genero literario heroico
+EPOCA,Periodo de tiempo
+ERROR,Equivocacion
+ESPIA,Persona que observa en secreto
+ESTAR,Verbo de estado
+ETAPA,Fase de un proceso
+ETICA,Ciencia moral
+ETNIA,Grupo cultural
+EVITA,Forma verbal de evitar
+EXITO,Logro satisfactorio
+EXTRA,Adicional
+FACIL,Que no es dificil
+FALDA,Prenda femenina
+FALSO,No verdadero
+FALTA,Ausencia de algo
+FANAL,Farol grande de senal
+FATAL,Muy malo
+FAUNA,Animales de una region
+FELIZ,Que siente alegria
+FERIA,Mercado periodico grande
+FIBRA,Hilo natural o sintetico
+FICHA,Tarjeta con datos
+FIDEO,Pasta alargada fina
+FIERO,Feroz
+FINAL,Al terminar
+FIRMA,Rubrica personal
+FIRME,Solido y estable
+FISGA,Forma verbal de fisgar
+FLACO,De poca carne
+FLETE,Precio de transporte
+FLOTA,Conjunto de barcos
+FOLIO,Hoja de papel
+FORJA,Forma verbal de forjar
+FORMA,Configuracion de un objeto
+FORRO,Revestimiento interior
+FOSOS,Plural de zanja grande
+FOTOS,Plural de imagen
+FRASE,Conjunto de palabras
+FRESA,Fruta pequena roja
+FRITO,Cocinado en aceite
+FRUTA,Producto comestible dulce
+FRUTO,Resultado de un arbol
+FUEGO,Combustion con llamas
+FUERA,En el exterior
+FUGAZ,Que pasa muy rapido
+FUMAR,Inhalar humo de tabaco
+FUNDA,Cobertor de algo
+FURIA,Ira violenta
+FUSIL,Arma larga de fuego
+GAITA,Instrumento musical celta
+GAJOS,Porciones de naranja
+GALAN,Hombre atractivo
+GAMMA,Tercera letra griega
+GANSO,Ave acuatica grande
+GARRA,Una fuerte de animal
+GASES,Plural de gas
+GASTO,Uso de dinero
+GATOS,Plural de felino
+GENIO,Persona muy inteligente
+GENTE,Conjunto de personas
+GLOBO,Esfera inflable
+GOLPE,Choque contra algo
+GORRA,Sombrero con visera
+GORRO,Prenda para la cabeza
+GRADO,Nivel o calificacion
+GRAMO,Unidad pequena de peso
+GRATO,Agradable
+GRAVE,De importancia seria
+GRIFO,Llave para el agua
+GRIPE,Enfermedad con fiebre
+GRITA,Forma verbal de gritar
+GRITO,Voz muy fuerte
+GRUPO,Conjunto de personas
+GUAPA,Mujer bella
+GUAPO,Hombre bello
+GUIAR,Mostrar el camino
+GUION,Pequena raya horizontal
+GUISA,Forma verbal de guisar
+HABIA,Forma verbal de haber
+HABIL,Que tiene destreza
+HACER,Realizar algo
+HACIA,En direccion a
+HADAS,Plural de ser magico
+HALON,Tiron
+HARTO,Cansado de algo
+HASTA,Preposicion de termino
+HEBRA,Hilo delgado
+HECES,Excremento
+HECHO,Suceso
+HELAR,Congelar
+HELIO,Gas noble ligero
+HEROE,Persona valiente admirada
+HIELO,Agua congelada
+HIENA,Animal africano carnivoro
+HIJOS,Plural de descendiente
+HIMNO,Cancion religiosa o patria
+HIPER,Prefijo de exceso
+HOGAR,Vivienda familiar
+HOJAS,Plural de parte del arbol
+HONDO,Profundo
+HONOR,Dignidad personal
+HORNO,Aparato para cocinar
+HOTEL,Establecimiento de alojamiento
+HOYOS,Plural de hueco
+HUECO,Cavidad interior
+HUESO,Pieza dura del esqueleto
+HURON,Animal pequeno cazador
+IBERO,Relativo a Iberia
+IDEAL,Modelo perfecto
+IDEAS,Plural de pensamiento
+IMITA,Forma verbal de imitar
+INDIO,De India o nativo americano
+INFRA,Prefijo de debajo
+INGLE,Parte entre abdomen y pierna
+INTER,Entre dos cosas
+INTRO,Entrada breve
+ISLAS,Plural de territorio rodeado de mar
+JABON,Producto para lavarse
+JAIBA,Cangrejo de mar
+JAMAS,Nunca en la vida
+JAMON,Pierna de cerdo curada
+JAULA,Recinto cerrado con barrotes
+JERGA,Lenguaje especial
+JOVEN,Persona de pocos anos
+JOYAS,Plural de objeto precioso
+JUDIA,Planta legumbre
+JUDIO,Relativo al judaismo
+JUEGO,Actividad ludica
+JULIO,Septimo mes del ano
+JUNIO,Sexto mes del ano
+JUNTA,Reunion de personas
+JUNTO,Cerca a otro
+JURAR,Prometer solemnemente
+LABIO,Borde de la boca
+LABOR,Trabajo fisico
+LADOS,Plural de costados
+LADRA,Forma verbal de ladrar
+LAGAR,Lugar donde se pisan uvas
+LAGOS,Plural de masa de agua
+LAICO,No religioso
+LAMER,Pasar la lengua
+LANZA,Arma larga punzante
+LAPIZ,Instrumento para escribir
+LARGA,De mucha longitud
+LARGO,De mucha longitud
+LARVA,Primera fase de insectos
+LASER,Haz de luz concentrada
+LATIN,Lengua antigua
+LAVAR,Limpiar con agua
+LAZOS,Plural de cinta
+LECHE,Liquido blanco de mamiferos
+LECHO,Cama sencilla
+LEJOS,A gran distancia
+LEMAS,Plural de frase
+LENTO,De poca velocidad
+LEONA,Hembra del rey de la selva
+LIBRA,Signo del zodiaco
+LIBRO,Obra impresa encuadernada
+LICOR,Bebida alcoholica dulce
+LIDER,Persona que guia
+LIGAR,Unir dos cosas
+LIMON,Fruta amarilla acida
+LINCE,Felino con orejas largas
+LINDA,Bonita
+LINDE,Limite de terrenos
+LINDO,Bonito
+LINEA,Trazo continuo
+LINFA,Liquido del cuerpo
+LISTA,Enumeracion ordenada
+LISTO,Inteligente o preparado
+LITIO,Metal ligero alcalino
+LITRO,Unidad de volumen
+LLAGA,Herida abierta
+LLAMA,Animal sudamericano peludo
+LLANO,Terreno plano
+LLAVE,Objeto para abrir cerradura
+LLENO,Completo sin espacio
+LLEVA,Forma verbal de llevar
+LLORA,Forma verbal de llorar
+LOBOS,Plural de lobo
+LOCOS,Plural de loco
+LOMOS,Plural de lomo
+LOROS,Plural de loro imitador
+LOTES,Plural de porcion
+LOTOS,Plural de flor asiatica
+LUCES,Plural de claridad
+LUCHA,Pelea fisica
+LUCIR,Brillar o mostrar
+LUEGO,Despues en el tiempo
+LUGAR,Sitio o posicion
+LUJOS,Plural de opulencia
+LUNAR,Relativo a la luna
+LUNES,Primer dia laboral
+MACHO,Genero masculino animal
+MADRE,Progenitora femenina
+MAFIA,Organizacion criminal
+MAGIA,Arte misterioso
+MAGOS,Plural de mago
+MALLA,Tejido de agujeros
+MALTA,Cebada germinada
+MALLS,Plural de centro comercial
+MAMAR,Succionar leche
+MANDA,Forma verbal de mandar
+MANDO,Control o direccion
+MANGA,Parte que cubre el brazo
+MANGO,Fruta tropical dulce
+MANIA,Obsesion
+MANOS,Plural de extremidad del brazo
+MANTA,Cobertor para la cama
+MAPAS,Plural de representacion terrestre
+MARCA,Sena que distingue
+MARCO,Estructura alrededor
+MAREA,Movimiento periodico del mar
+MARIA,Nombre propio femenino
+MARTE,Cuarto planeta
+MASAS,Plural de mezcla blanda
+MASCA,Forma verbal de mascar
+MAYOR,De mas edad o tamano
+MEDIA,Calceta femenina
+MEDIO,La mitad
+MEDIR,Determinar magnitud
+MEJOR,De mas calidad
+MELON,Fruta amarilla dulce
+MENOR,De menos edad o tamano
+MENOS,Cantidad inferior
+MENTE,Parte pensante humana
+MERCA,Forma verbal de mercar
+MERMA,Reduccion
+MESAS,Plural de mueble plano
+METAL,Material solido conductor
+METER,Introducir algo
+METRO,Unidad de longitud
+MICRO,Pequeno
+MIEDO,Sensacion de temor
+MIRAR,Observar con atencion
+MITAD,Una de dos partes iguales
+MODAL,Relativo al modo
+MODOS,Plural de manera
+MOLDE,Hueco para dar forma
+MOLES,Plural de gran volumen
+MONJA,Religiosa
+MONJE,Religioso
+MONOS,Plural de primate
+MONTE,Elevacion natural del terreno
+MORAL,Etica personal
+MORAS,Plural de fruto de la mora
+MORIR,Dejar de vivir
+MORRO,Hocico saliente
+MOSCA,Insecto volador pequeno
+MOTEL,Hotel de carretera
+MOTIN,Rebelion
+MOTOR,Maquina que produce movimiento
+MOVER,Cambiar de lugar
+MOVIL,Telefono portatil
+MUCHA,Gran cantidad
+MUCHO,Gran cantidad
+MUDAR,Cambiar de lugar
+MUELA,Diente posterior
+MUJER,Persona de sexo femenino
+MULAS,Plural de animal de carga
+MULTA,Sancion economica
+MUNDO,La Tierra entera
+MURAL,Pintura en un muro
+MUROS,Plural de pared
+MUSAS,Plural de inspiradoras del arte
+MUSEO,Edificio con arte expuesto
+MUSLO,Parte alta de la pierna
+NABOS,Plural de raiz comestible
+NACAR,Sustancia brillante de mariscos
+NACER,Empezar a existir
+NADAR,Moverse en el agua
+NAIPE,Carta de juego
+NARIZ,Organo del olfato
+NECIO,Ignorante sin razon
+NEGAR,Decir que no
+NEGRO,Color oscuro total
+NENES,Plural de nino pequeno
+NIDAL,Nido artificial
+NIEGA,Forma verbal de negar
+NIETO,Hijo del hijo
+NIEVE,Precipitacion blanca fria
+NILON,Fibra sintetica
+NINOS,Plural de hijo joven
+NIVEL,Altura con respecto a algo
+NOBLE,Que pertenece a la nobleza
+NOCHE,Tiempo sin sol
+NORIA,Rueda que saca agua
+NORMA,Regla establecida
+NORTE,Punto cardinal opuesto al sur
+NOTAS,Plural de apunte
+NOVEL,Nuevo en una actividad
+NOVIA,Mujer prometida en matrimonio
+NOVIO,Hombre prometido en matrimonio
+NUBES,Plural de masa de vapor
+NUDOS,Plural de atadura
+NUEVA,Que acaba de aparecer
+NUEVE,Numero despues del ocho
+NUEVO,Que acaba de aparecer
+NUNCA,En ningun momento
+OBESO,Con mucha grasa corporal
+OBRAS,Plural de trabajo realizado
+OCIOS,Plural de tiempo libre
+ODIAR,Sentir odio
+OESTE,Punto cardinal del ocaso
+OIDOS,Plural de organo auditivo
+OIGAS,Forma verbal de oir
+OJALA,Expresion de deseo
+OLIVA,Fruto del olivo
+OLIVO,Arbol del aceite
+OLOTE,Corazon de la mazorca
+ONDAS,Plural de movimiento del agua
+ONZAS,Plural de unidad de peso
+OPACO,Que no deja pasar luz
+OPERA,Obra musical con canto
+OPTAR,Elegir entre opciones
+ORUGA,Larva de mariposa
+OSADO,Atrevido
+OTONO,Estacion de hojas caidas
+OTROS,Plural de distinto
+OVEJA,Hembra del carnero
+OVINO,Relativo a las ovejas
+OVULO,Celula reproductora femenina
+OXIDO,Compuesto con oxigeno
+OZONO,Gas protector del sol
+PADRE,Progenitor masculino
+PAGAR,Entregar dinero
+PALCO,Espacio especial en teatro
+PALMA,Planta tropical sin ramas
+PALOS,Plural de madera alargada
+PAMPA,Llanura argentina
+PANAL,Construccion de las abejas
+PANDA,Oso blanco y negro
+PANES,Plural de alimento basico
+PANZA,Vientre abultado
+PAPAS,Plural de tuberculo
+PARED,Tabique de una habitacion
+PARES,Plural de conjunto de dos
+PARIR,Dar a luz
+PAROS,Plural de detencion
+PARTE,Porcion de algo
+PASAR,Moverse de un lugar a otro
+PASEO,Camino a pie
+PASOS,Plural de movimiento al andar
+PASTA,Masa de harina con agua
+PASTO,Hierba para ganado
+PATIO,Espacio interior sin techo
+PATOS,Plural de ave acuatica
+PAUSA,Interrupcion breve
+PAUTA,Norma o guia
+PAVOS,Plural de ave americana
+PECHO,Parte frontal del torso
+PEGAR,Unir con adhesivo
+PEINE,Utensilio para el pelo
+PELAR,Quitar la piel
+PELEA,Combate fisico
+PELOS,Plural de filamento capilar
+PENAL,Codigo legal criminal
+PENAR,Sufrir castigo
+PERAL,Arbol de la pera
+PERAS,Plural de fruta alargada
+PERLA,Gema de moluscos
+PERRO,Animal de cuatro patas domestico
+PESAR,Determinar peso
+PESCA,Accion de atrapar peces
+PESOS,Plural de moneda
+PESTE,Enfermedad contagiosa grave
+PETAL,Parte colorida de la flor
+PIANO,Instrumento con teclas
+PICAR,Morder un insecto
+PICOR,Ganas de rascarse
+PIEZA,Parte de un todo
+PILAR,Columna de soporte
+PILAS,Plural de bateria
+PINOS,Plural de conifera
+PINTA,Forma verbal de pintar
+PINZA,Utensilio para sujetar
+PIOJO,Insecto parasito del cabello
+PISAR,Poner el pie sobre algo
+PISOS,Plural de vivienda
+PISTA,Huella o superficie deportiva
+PLACA,Lamina plana
+PLAGA,Gran cantidad de algo malo
+PLANO,Sin relieve
+PLATA,Metal blanco precioso
+PLATO,Vajilla redonda para comer
+PLAYA,Orilla de mar con arena
+PLEBE,Gente del pueblo
+PLENA,Que esta completa
+PLENO,Que esta completo
+PLICA,Doblez con sello
+PLOMO,Metal pesado gris
+PLUMA,Organo para volar del ave
+POBRE,Sin recursos economicos
+PODER,Capacidad de hacer
+PODIO,Tarima para ganadores
+POEMA,Composicion poetica
+POETA,Persona que escribe poesia
+POLIS,Ciudad griega antigua
+POLOS,Plural de extremo
+POLVO,Sustancia muy fina
+PONER,Colocar algo
+PORRA,Palo grueso
+PORTE,Aspecto fisico
+POSAR,Estar en una pose
+POSES,Plural de postura
+POSTE,Pieza vertical larga
+POTRO,Cria del caballo
+POZOS,Plural de hoyo vertical
+PRADO,Campo de hierba
+PRESO,Encarcelado
+PRIMA,Ganancia adicional
+PRIMO,Hijo de tio
+PROLE,Descendencia
+PUBIS,Hueso inferior de la pelvis
+PUDIN,Postre cremoso
+PUEDE,Forma verbal de poder
+PUJAS,Plural de ofertas
+PULIR,Alisar con friccion
+PULPA,Carne blanda
+PULPO,Animal marino con ocho patas
+PUNTA,Extremo agudo
+PUNTO,Senal pequena redonda
+PUNOS,Plural de mano cerrada
+PURGA,Limpieza
+PUROS,Plural de cigarro de tabaco
+QUESO,Producto lacteo solido
+QUIEN,Pronombre para personas
+QUITA,Forma verbal de quitar
+RABIA,Enfermedad de animal
+RABOS,Plural de cola
+RADAR,Detector de objetos
+RADIO,Aparato que emite sonido
+RAICE,Plural de raiz
+RAIDO,Desgastado por el uso
+RAJAR,Abrir en dos
+RALEA,Calidad baja
+RAMAL,Parte que se desprende
+RAMAS,Plural de parte del arbol
+RAMON,Nombre propio masculino
+RANAS,Plural de anfibio saltarin
+RANGO,Posicion jerarquica
+RAPAR,Cortar el pelo al ras
+RAPTO,Secuestro
+RASGO,Caracteristica
+RATAS,Plural de roedor
+RATOS,Plural de periodo breve
+RAYAS,Plural de linea recta
+RAYON,Fibra artificial
+RAYOS,Plural de descarga electrica
+RAZAS,Plural de grupo etnico
+RAZON,Motivo o causa
+RECIO,Fuerte y vigoroso
+REDES,Plural de tejido de hilos
+REGAR,Echar agua a las plantas
+REGIA,De mucha majestad
+REGIR,Gobernar
+REGLA,Instrumento para medir
+REINA,Esposa del rey
+REINO,Territorio que rige un rey
+REIRA,Forma verbal de reir
+REJAS,Plural de barrotes
+REJON,Lanza taurina
+RELOJ,Aparato para medir tiempo
+REMAR,Mover el remo
+REMOS,Plural de pala para barco
+RENTA,Ingreso periodico
+RESES,Plural de vacuno
+RETOS,Plural de desafio
+RETRO,Del pasado
+REUMA,Dolor en articulaciones
+REVES,Lado opuesto
+REZAR,Orar a Dios
+RIADA,Crecida de agua
+RIEGO,Accion de regar
+RIFAR,Sortear con boletos
+RIGOR,Severidad
+RINGO,Nombre propio masculino
+RITMO,Cadencia de un sonido
+RITOS,Plural de ceremonia
+RIVAL,Competidor
+ROBAR,Quitar algo ajeno
+ROBLE,Arbol madera muy dura
+ROBOT,Maquina automatica
+ROBOS,Plural de accion de robar
+ROCAS,Plural de piedra grande
+ROCES,Plural de friccion leve
+ROCIO,Gotas matutinas
+RODAR,Girar sobre si mismo
+RODEO,Vuelta larga
+ROGAR,Pedir con humildad
+ROJAS,Plural de roja
+ROJOS,Plural de color de la sangre
+ROLES,Plural de papel social
+ROMBO,Cuadrilatero oblicuo
+ROPAS,Plural de vestimenta
+ROSAL,Arbusto de las rosas
+ROSAS,Plural de flor del amor
+ROSCO,Pan o dulce redondo
+RUBIA,De pelo claro amarillo
+RUBIO,De pelo claro amarillo
+RUBRO,Categoria economica
+RUEDA,Circulo que gira
+RUEGO,Peticion humilde
+RUGBY,Deporte con balon ovalado
+RUGIR,Sonar como el leon
+RUINA,Destruccion
+RULOS,Plural de cilindro de pelo
+RUMBA,Baile caribeno
+RUMOR,Noticia sin confirmar
+RURAL,Del campo
+RUTAS,Plural de itinerario
+SABER,Tener conocimiento
+SABIO,Que tiene sabiduria
+SABOR,Sensacion del gusto
+SACAR,Extraer algo
+SACOS,Plural de bolsa grande
+SAGAS,Plural de serie narrativa
+SALAS,Plural de habitacion grande
+SALIR,Dejar un lugar
+SALSA,Liquido condimentado
+SALTO,Impulso hacia arriba
+SALUD,Estado del cuerpo
+SALVA,Forma verbal de salvar
+SAMBA,Baile brasileno
+SANAR,Recobrar la salud
+SANOS,Plural de con salud
+SANTA,Mujer sagrada
+SANTO,Hombre sagrado
+SAPOS,Plural de anfibio gordo
+SARNA,Enfermedad de la piel
+SATAN,Demonio
+SAUCE,Arbol con ramas colgantes
+SAXOS,Plural de saxofon
+SECAR,Quitar la humedad
+SECOS,Plural de sin humedad
+SECTA,Grupo religioso minoritario
+SEDAL,Hilo de pescar
+SELVA,Bosque tropical denso
+SELLO,Marca de identificacion
+SENDA,Camino estrecho
+SENOR,Hombre respetado
+SEPAS,Forma verbal de saber
+SERIA,Responsable
+SERIE,Sucesion ordenada
+SERIO,Formal y responsable
+SESGO,Inclinacion oblicua
+SETAS,Plural de hongo
+SEXTA,Numero ordinal
+SEXTO,Numero ordinal
+SIDRA,Bebida de manzana fermentada
+SIGLA,Abreviatura de varias letras
+SIGLO,Cien anos
+SIGNO,Simbolo
+SILBA,Forma verbal de silbar
+SILLA,Asiento con respaldo
+SIMON,Nombre propio masculino
+SIRVE,Forma verbal de servir
+SOBRA,Lo que queda
+SOBRE,Encima de algo
+SOCIO,Miembro de una sociedad
+SODAS,Plural de bebida gaseosa
+SOFAS,Plural de asiento largo
+SOGAS,Plural de cuerda gruesa
+SOLAR,Relativo al sol
+SOLES,Plural de estrella central
+SONAR,Producir sonido
+SONDA,Instrumento de exploracion
+SOPAS,Plural de alimento liquido
+SOPLA,Forma verbal de soplar
+SOPOR,Pesadez de sueno
+SORDO,Que no oye
+SUAVE,De superficie no aspera
+SUBIR,Ir hacia arriba
+SUCIA,Con manchas
+SUCIO,Con manchas
+SUDAR,Expulsar agua corporal
+SUECO,De Suecia
+SUELA,Parte inferior del zapato
+SUELO,Superficie de la tierra
+SUENA,Forma verbal de sonar
+SUENO,Actividad mental al dormir
+SUITE,Conjunto de habitaciones
+SUMAR,Calcular total
+SUMOS,Plural de luchador japones
+SUPER,Prefijo de lo mejor
+SURCO,Hendidura en el suelo
+SUYAS,Posesivo femenino plural
+SUYOS,Posesivo masculino plural
+TABLA,Madera plana
+TABOR,Cuerpo militar marroqui
+TACOS,Plural de comida mexicana
+TAJOS,Plural de corte profundo
+TALCO,Polvo mineral suave
+TALLA,Estatura de una persona
+TALLE,Cintura del cuerpo
+TAMAR,Nombre propio femenino
+TANGA,Prenda de bano minima
+TANGO,Baile argentino
+TAPAS,Plural de cubierta
+TAPIA,Muro de tierra
+TAPIZ,Tela decorativa de pared
+TAPON,Cierre de botella
+TARDE,Parte del dia despues del mediodia
+TAREA,Trabajo asignado
+TAROT,Juego de cartas misticas
+TASAR,Poner precio
+TATUA,Forma verbal de tatuar
+TAXIS,Plural de vehiculo de alquiler
+TAZAS,Plural de recipiente para beber
+TECLA,Pieza del teclado
+TECNO,Genero musical electronico
+TEJAR,Lugar donde se hacen tejas
+TEJAS,Plural de pieza del tejado
+TEJER,Formar un tejido
+TELAS,Plural de tejido
+TEMAS,Plural de asunto
+TEMER,Tener miedo
+TENAZ,Persistente
+TENER,Poseer algo
+TENIS,Deporte con raqueta
+TENOR,Voz masculina alta
+TENSA,Estirada con fuerza
+TENSO,Estirado con fuerza
+TENTA,Forma verbal de tentar
+TERAS,Plural de unidad billon
+TERMO,Recipiente conservador de calor
+TESIS,Proposicion a demostrar
+TEXTO,Escrito
+TEZAS,Plural de cutis
+TIARA,Corona papal triple
+TIBIA,Hueso de la pierna
+TIBIO,Ni frio ni caliente
+TIGRE,Felino con rayas
+TIMON,Rueda que dirige el barco
+TINTA,Liquido para escribir
+TINTE,Liquido que colorea
+TIPOS,Plural de clase
+TIRON,Tiro fuerte y rapido
+TIROS,Plural de disparo
+TITAN,Persona de gran poder
+TIZAS,Plural de barra para pizarra
+TIZNA,Forma verbal de tiznar
+TOCAR,Hacer contacto
+TODOS,Plural de entero
+TOLDO,Cubierta de tela
+TOMAR,Coger algo
+TOMAS,Plural de accion de coger
+TOMOS,Plural de volumen
+TONEL,Barril grande
+TONOS,Plural de intensidad sonora
+TOPAR,Encontrar casualmente
+TOPOS,Plural de animal subterraneo
+TORAX,Parte del pecho del cuerpo
+TOREA,Forma verbal de torear
+TORNA,Forma verbal de tornar
+TORNO,Maquina giratoria
+TOROS,Plural de toro
+TORPE,Sin agilidad
+TORRE,Construccion alta estrecha
+TORSO,Tronco del cuerpo
+TORTA,Golpe o pastel
+TOSCO,Basto y sin pulir
+TOSER,Expulsar aire ruidosamente
+TOTAL,Suma completa
+TRAEN,Forma verbal de traer
+TRAGA,Forma verbal de tragar
+TRAJE,Vestimenta formal
+TRAMO,Seccion de un trayecto
+TRAMA,Hilos que se entrelazan
+TRAPO,Tela para limpiar
+TRATA,Forma verbal de tratar
+TRAZO,Linea marcada
+TRECE,Numero despues del doce
+TRENO,Canto de duelo
+TRIBU,Conjunto de familias
+TRIGO,Cereal para hacer pan
+TRIPA,Intestino o barriga
+TRIZA,Pedazo pequeno
+TROPA,Grupo militar
+TROTE,Paso del caballo
+TRUCO,Artimana
+TUMBA,Sepultura
+TUNEL,Paso subterraneo
+TURBA,Multitud desordenada
+TURCO,De Turquia
+TURNO,Vez en un orden
+TUSAR,Cortar el pelo a trasquilones
+TUTOR,Persona que guia a un menor
+UBICA,Forma verbal de ubicar
+UFANO,Satisfecho
+ULTRA,Extremista
+UNCIR,Atar al yugo
+UNICO,Solo de su clase
+UNIDA,Junta sin separacion
+UNION,Juntar dos o mas cosas
+UNIRA,Forma verbal de unir
+URDIR,Preparar hilos telar
+URGIR,Tener prisa
+URNAS,Plural de vasija ceremonial
+USADO,Ya utilizado
+USTED,Forma respetuosa de ti
+VACAS,Plural de hembra bovina
+VACIA,Sin nada dentro
+VACIO,Sin nada dentro
+VAGAR,Andar sin rumbo
+VAGON,Carro del tren
+VAHOS,Plural de vapor
+VAINA,Funda o cascara
+VALER,Tener valor
+VALES,Plural de cupon
+VALET,Criado personal
+VALIA,Forma verbal de valer
+VALLA,Barrera que delimita
+VALLE,Terreno bajo entre montes
+VAMOS,Forma verbal de ir
+VANAS,Plural de vacia
+VAPOR,Gas de liquido caliente
+VARAS,Plural de palo
+VARIA,Forma verbal de variar
+VARIO,Diverso
+VARON,Hombre de sexo masculino
+VASOS,Plural de recipiente
+VATIO,Unidad de potencia electrica
+VECES,Plural de ocasion
+VEIAN,Forma verbal de ver
+VEJEZ,Edad avanzada
+VELAR,Cuidar en noche
+VELAS,Plural de cera con pecho
+VELOZ,Rapido
+VENAS,Plural de conducto sanguineo
+VENDA,Tira para herida
+VENDO,Forma verbal de vender
+VENGA,Forma verbal de venir
+VENIR,Ir hacia aqui
+VENTA,Accion de vender
+VEOSE,Forma verbal de ver
+VERBO,Palabra de accion
+VERDE,Color de la hierba
+VERJA,Reja artistica
+VERSO,Linea de un poema
+VESPA,Moto italiana pequena
+VIAJE,Desplazamiento largo
+VICIO,Mal habito
+VIDAS,Plural de existencia
+VIDEO,Imagen con movimiento
+VIEJA,De muchos anos
+VIEJO,De muchos anos
+VIENE,Forma verbal de venir
+VIGAS,Plural de soporte largo
+VIGIA,Persona que vigila
+VILLA,Pueblo o casa grande
+VIOLA,Instrumento de cuerda
+VIRAL,Relativo a virus
+VIRAR,Cambiar de direccion
+VIRGO,Signo del zodiaco
+VIRUS,Agente infeccioso minusculo
+VISTA,Sentido de los ojos
+VISTE,Forma verbal de ver
+VISOR,Aparato para mirar
+VITAL,De vida
+VIUDA,Mujer sin esposo fallecido
+VIUDO,Hombre sin esposa fallecida
+VIVAS,Plural de viva
+VIVAZ,Con mucha energia
+VIVIR,Tener vida
+VIVOS,Plural de con vida
+VOCAL,Consonante no
+VOCES,Plural de sonido de la boca
+VOLAR,Desplazarse por el aire
+VOLEI,Deporte con red alta
+VOTAR,Expresar preferencia
+VOTOS,Plural de sufragio
+VUELO,Accion de volar
+YATES,Plural de barco de recreo
+YEMAS,Plural de parte del huevo
+YERBA,Hierba en forma popular
+YUCAS,Plural de tuberculo tropical
+ZAGAL,Pastor joven
+ZANJA,Excavacion larga en tierra
+ZARPA,Garra de animal
+ZOCOS,Plural de mercado arabe
+ZONAL,Relativo a zona
+ZONAS,Plural de area
+ZORRA,Hembra del zorro
+ZORRO,Mamifero astuto
+ZUMOS,Plural de liquido de fruta
+ZURCE,Forma verbal de zurcir
+ZURDO,Que usa mano izquierda

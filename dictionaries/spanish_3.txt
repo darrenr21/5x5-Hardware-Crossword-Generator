@@ -1,0 +1,231 @@
+ACA,Adverbio de lugar cercano
+AHI,Adverbio de lugar
+AJO,Bulbo blanco de sabor fuerte
+ALA,Extremidad del ave para volar
+AMA,Duena de la casa
+AMO,Forma verbal de amar
+ANA,Nombre propio femenino
+ARA,Altar para sacrificios
+ARE,Forma verbal de arar
+ARO,Anillo o circulo pequeno
+ASA,Parte saliente para agarrar
+ASI,De esta manera
+ATA,Forma verbal de atar
+ATE,Forma verbal de atar
+ATO,Forma verbal de atar
+AUN,Todavia hasta este momento
+AVE,Animal con alas y plumas
+AYA,Nina que cuida a otros ninos
+BAH,Interjeccion de desprecio
+BAR,Local publico para bebidas
+BEL,Unidad de medida sonora
+BEY,Titulo de origen turco
+BIT,Unidad minima de informacion
+BOA,Serpiente grande no venenosa
+BOL,Recipiente hondo redondo
+BUS,Vehiculo de transporte colectivo
+CAE,Forma verbal de caer
+CAI,Forma verbal de caer
+CAL,Polvo blanco para construccion
+CAN,Nombre literario del perro
+CAP,Gorra en otro idioma
+CAY,Isla pequena de arena
+CID,Heroe medieval espanol
+CON,Preposicion de compania
+COR,Prefijo del corazon
+COY,Cama colgante en los barcos
+COZ,Golpe que da un caballo
+CUI,Roedor sudamericano comestible
+DAD,Forma verbal de dar
+DAN,Forma verbal de dar
+DAR,Entregar algo a alguien
+DAS,Forma verbal de dar
+DEL,Contraccion de preposicion
+DEN,Forma verbal de dar
+DIA,Tiempo entre dos amaneceres
+DIN,Sonido de campana
+DIO,Forma verbal de dar
+DOM,Titulo de respeto religioso
+DON,Tratamiento de respeto
+DOS,Numero natural despues del uno
+DOY,Forma verbal de dar
+DUO,Conjunto de dos personas
+ECO,Repeticion del sonido
+EDO,Nombre propio masculino
+EFE,Nombre de la letra F
+EGO,Uno mismo en latin
+EJE,Barra que atraviesa un cuerpo
+ELE,Nombre de la letra L
+EME,Nombre de la letra M
+ENE,Nombre de la letra N
+EON,Periodo de tiempo muy largo
+EPA,Interjeccion de sorpresa
+ERA,Periodo historico largo
+ERE,Nombre de la letra R
+ERG,Unidad de energia
+ESA,Adjetivo demostrativo femenino
+ESE,Adjetivo demostrativo masculino
+ESO,Pronombre demostrativo neutro
+FAN,Seguidor entusiasta
+FAR,Prefijo que indica lejos
+FAZ,Parte frontal del rostro
+FEA,Que no es bonita
+FEO,Que no es bonito
+FEZ,Gorro tradicional turco
+FIN,Termino o conclusion
+FUE,Forma verbal de ser en pasado
+FUI,Forma verbal de ser en pasado
+GAS,Estado gaseoso de la materia
+GEL,Sustancia viscosa y transparente
+GEN,Unidad basica de herencia
+GOL,Tanto marcado en futbol
+HAN,Forma verbal de haber
+HAS,Forma verbal de haber
+HAY,Verbo que indica existencia
+HAZ,Forma verbal de hacer
+HER,Prefijo de hermano
+HIN,Sonido onomatopeyico
+HOY,En este mismo dia
+HOZ,Herramienta curva para segar
+HUY,Interjeccion de sorpresa
+IBA,Forma verbal de ir imperfecto
+IDA,Viaje hacia un lugar
+IDO,Participio del verbo ir
+ION,Atomo con carga electrica
+IRA,Enfado intenso
+ISA,Cancion popular canaria
+JAI,Mujer joven en gitano
+JET,Chorro o avion rapido
+LAR,Hogar de la familia
+LAS,Articulo femenino plural
+LEA,Forma verbal de leer
+LEE,Forma verbal de leer
+LEO,Forma verbal de leer
+LES,Pronombre de tercera persona
+LEY,Norma establecida por autoridad
+LIA,Forma verbal de liar
+LID,Combate o disputa
+LIE,Forma verbal de liar
+LIO,Situacion confusa o enredo
+LIS,Flor emblema heraldica
+LOA,Elogio o alabanza
+LOS,Articulo masculino plural
+LUZ,Lo que permite ver
+MAL,Lo contrario del bien
+MAR,Masa de agua salada
+MAS,Cantidad superior
+MES,Periodo de treinta dias
+MIL,Numero cardinal de cuatro cifras
+MIR,Estacion espacial rusa antigua
+MIS,Adjetivo posesivo plural
+MOL,Unidad quimica
+MUS,Juego de cartas tradicional
+NAO,Antigua nave de guerra
+NEO,Prefijo que significa nuevo
+NIN,Nino en catalan
+NON,Numero impar
+NOS,Pronombre de primera persona plural
+OCA,Ave acuatica parecida al ganso
+ODA,Composicion poetica lirica
+OHM,Unidad de resistencia electrica
+OIR,Percibir sonidos
+OJO,Organo de la vista
+OLA,Onda que se forma en el mar
+OLE,Interjeccion de aprobacion
+ORO,Metal precioso color amarillo
+OSA,Hembra del oso
+OSO,Mamifero grande y peludo
+OYE,Forma verbal de oir imperativa
+PAN,Alimento basico de harina
+PAR,Conjunto de dos cosas
+PAZ,Ausencia de conflicto
+PEZ,Animal que vive en el agua
+PIE,Extremo inferior de la pierna
+PIN,Insignia que se prende en la ropa
+PIO,Sonido que hace un pollito
+POR,Preposicion que indica causa
+POS,Prefijo que significa despues
+PRO,A favor de algo
+PSI,Letra griega
+PUA,Espina de planta o animal
+PUS,Liquido de una infeccion
+QUE,Pronombre relativo
+RAE,Forma verbal de raer
+RAS,Nivel o altura de algo
+RED,Tejido de hilos anudados
+REO,Acusado de un delito
+RES,Animal de ganado vacuno
+REY,Monarca de un pais
+RIA,Entrada del mar en la tierra
+RIE,Forma verbal de reir
+RIO,Corriente continua de agua
+ROE,Forma verbal de roer
+ROL,Papel o funcion
+RON,Licor destilado de cana
+ROS,Gorra militar antigua
+SAL,Condimento blanco de cocina
+SAN,Apocope de santo
+SEA,Forma verbal de ser subjuntiva
+SED,Ganas de beber
+SEN,Planta medicinal laxante
+SER,Verbo de existencia
+SIC,Expresion latina de cita exacta
+SIN,Preposicion de ausencia
+SOL,Astro que ilumina la Tierra
+SON,Forma verbal de ser
+SOR,Tratamiento para una monja
+SOS,Senal internacional de auxilio
+SOY,Forma verbal de ser en presente
+SUR,Punto cardinal opuesto al norte
+SUS,Adjetivo posesivo plural
+TAC,Sonido breve y seco
+TAL,Adverbio de semejanza
+TAN,Adverbio de intensidad
+TAO,Filosofia china tradicional
+TEA,Rama de madera encendida
+TEN,Forma verbal de tener
+TES,Plural de te como bebida
+TEZ,Piel del rostro humano
+TIA,Hermana del padre o de la madre
+TIC,Movimiento involuntario del cuerpo
+TIO,Hermano del padre o de la madre
+TON,Mil kilogramos
+TOS,Expulsion brusca de aire por la garganta
+TUL,Tela fina y transparente
+TUS,Adjetivo posesivo plural
+UFO,Objeto volador no identificado
+UNA,Articulo indefinido femenino
+UNE,Forma verbal de unir
+UNO,Primer numero natural
+UPA,Interjeccion para animar
+URO,Mamifero extinto antepasado del toro
+USA,Forma verbal de usar
+USE,Forma verbal de usar
+USO,Empleo de algo
+UVA,Fruto de la vid
+UVE,Nombre de la letra V
+VAL,Apocope de valle poetico
+VAN,Forma verbal de ir
+VAS,Forma verbal de ir
+VEA,Forma verbal de ver subjuntiva
+VED,Forma verbal de ver
+VEN,Forma verbal de venir imperativa
+VEO,Forma verbal de ver en presente
+VER,Percibir con la vista
+VES,Forma verbal de ver en presente
+VEZ,Ocasion o momento
+VIA,Camino por donde se transita
+VID,Planta que produce uvas
+VIL,Que carece de dignidad
+VIO,Forma verbal de ver en pasado
+VIP,Persona muy importante
+VOS,Pronombre de segunda persona
+VOY,Forma verbal de ir en presente
+VOZ,Sonido que emite la garganta
+YEN,Moneda oficial de Japon
+YIN,Principio femenino oriental
+YOD,Decima letra hebrea
+ZAR,Antiguo emperador ruso
+ZAS,Interjeccion de golpe
+ZEN,Escuela budista japonesa
+ZOO,Parque de animales

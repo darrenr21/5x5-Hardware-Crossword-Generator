@@ -1,0 +1,496 @@
+ABAD,Superior de un monasterio
+ABRA,Bahia grande y segura
+ACNE,Granos en la piel
+ACRE,De sabor aspero
+ACTA,Documento oficial de reunion
+ACTO,Hecho o accion
+ADAN,Primer hombre biblico
+AFIN,Que tiene afinidad
+AGIL,Que se mueve con soltura
+AGUA,Liquido que bebemos
+AIRE,Gas que respiramos
+ALBA,Primera luz del dia
+ALFA,Primera letra griega
+ALGA,Vegetal del mar
+ALGO,Cosa indeterminada
+ALMA,Parte espiritual del ser
+ALTO,De mucha altura
+ALUD,Desprendimiento de nieve
+AMAR,Sentir amor por alguien
+AMOR,Sentimiento profundo de afecto
+ANIS,Licor dulce aromatico
+ANTE,Preposicion delante
+APIO,Verdura verde y larga
+APTO,Idoneo para algo
+AQUI,En este lugar
+ARAR,Remover la tierra
+ARCA,Caja grande antigua
+ARCO,Arma que dispara flechas
+AREA,Extension de superficie
+ARMA,Instrumento de ataque
+ARPA,Instrumento de cuerdas pulsadas
+ARTE,Expresion creativa humana
+ASAR,Cocinar al fuego
+ASCO,Repugnancia fuerte
+ASEO,Limpieza personal
+ASNO,Burro animal de carga
+ASPA,Brazo del molino
+ATAR,Unir con nudos
+ATUN,Pez grande comestible
+AUGE,Momento de mayor intensidad
+AULA,Sala de clases
+AURA,Halo que rodea algo
+AUTO,Vehiculo de cuatro ruedas
+AVAL,Garantia de pago
+AYER,Dia anterior a hoy
+AZAR,Casualidad fortuita
+AZUL,Color del cielo
+BABA,Saliva espesa
+BACA,Portaequipajes del coche
+BAJA,Perdida o descenso
+BAJO,De poca altura
+BALA,Proyectil de arma de fuego
+BASE,Fundamento o apoyo
+BATA,Prenda holgada de casa
+BEBE,Nino muy pequeno
+BECA,Ayuda economica para estudiar
+BESO,Caricia con los labios
+BOCA,Abertura de la cara
+BODA,Ceremonia de casamiento
+BOGA,Moda actual
+BOLA,Objeto esferico
+BOLO,Pieza de juego alargada
+BOTA,Calzado alto
+BOTE,Barca pequena
+BOYA,Senal flotante en el mar
+BOZO,Vello sobre el labio
+BUEY,Toro castrado
+BULA,Documento del papa
+BUZO,Persona que bucea
+CABO,Extremo de algo
+CADA,Distributivo individual
+CAER,Perder equilibrio
+CAFE,Bebida oscura estimulante
+CAJA,Recipiente rectangular
+CALA,Pequena bahia
+CAMA,Mueble para dormir
+CANO,De pelo blanco
+CAOS,Desorden extremo
+CAPA,Prenda que cubre los hombros
+CAPO,Jefe de una mafia
+CARA,Parte delantera de la cabeza
+CARO,De precio elevado
+CASA,Edificio para vivir
+CASO,Suceso o asunto
+CATA,Accion de probar sabores
+CAVA,Vino espumoso espanol
+CAZA,Accion de perseguir animales
+CAZO,Utensilio de cocina con mango
+CEBO,Comida para atraer animales
+CEJA,Linea de pelo sobre el ojo
+CELO,Cinta adhesiva
+CENA,Comida de la noche
+CERA,Sustancia de las abejas
+CERO,Numero nulo
+CHAL,Panuelo grande de mujer
+CHEF,Cocinero principal
+CHIC,Elegante con estilo
+CHIP,Pequeno circuito electronico
+CIEN,Numero despues de noventa y nueve
+CIMA,Parte mas alta
+CINC,Metal de color gris azulado
+CINE,Lugar de proyeccion de peliculas
+CITA,Encuentro acordado
+CLAN,Grupo familiar extenso
+CLIC,Sonido de un boton
+CLIP,Sujetapapeles metalico
+CLON,Copia identica
+CLUB,Asociacion de personas
+COCA,Planta andina
+COCO,Fruto tropical de cascara dura
+CODA,Final de una pieza musical
+CODO,Articulacion del brazo
+COLA,Parte trasera de un animal
+COMA,Signo de puntuacion
+COMO,Adverbio de modo
+COPA,Vaso con pie
+COPO,Porcion de nieve o algodon
+CORO,Grupo de cantantes
+COSA,Objeto cualquiera
+COSO,Recinto taurino
+COTA,Nivel de altura
+CRIA,Descendencia animal
+CRIN,Pelo largo de caballos
+CRUZ,Simbolo cristiano
+CUAL,Pronombre relativo
+CUBA,Isla del Caribe
+CUBO,Recipiente con asa
+CUCO,Reloj de pared con pajaro
+CUNA,Cama para bebes
+CURA,Sacerdote catolico
+DADO,Objeto cubico para juegos
+DAGA,Espada corta
+DAMA,Mujer distinguida
+DATO,Informacion
+DEMO,Version de prueba
+DIAL,Selector de radio
+DIEZ,Numero despues del nueve
+DIOS,Ser divino supremo
+DIVA,Cantante muy famosa
+DOCE,Numero despues del once
+DODO,Ave extinta
+DOMA,Accion de amaestrar animales
+DOTE,Bienes que aporta la novia
+DRIL,Tela resistente de algodon
+DUAL,De dos componentes
+DUDA,Falta de certeza
+DUNA,Monticulo de arena
+DURO,Que no se deforma facil
+EDAD,Tiempo vivido
+EDEN,Paraiso terrenal
+EDIL,Concejal municipal
+ELFO,Ser mitologico de los bosques
+ELLA,Pronombre femenino
+ELLO,Pronombre neutro
+EMIR,Principe arabe
+ENTE,Ser que existe
+ESTA,Forma verbal de estar
+ESTE,Punto cardinal del amanecer
+ESTO,Pronombre demostrativo neutro
+EURO,Moneda europea
+FABA,Legumbre similar a la judia
+FADO,Cancion tradicional portuguesa
+FAJA,Tira que cine el cuerpo
+FAMA,Reconocimiento publico
+FARO,Torre con luz para barcos
+FASE,Etapa de un proceso
+FETO,Embrion en desarrollo
+FIEL,Que tiene lealtad
+FIJO,Que no se mueve
+FILA,Linea de personas
+FINO,Delgado y suave
+FLAN,Postre dulce de huevo
+FLOR,Parte colorida de la planta
+FOCA,Mamifero marino
+FOCO,Punto central
+FOSA,Hoyo profundo en la tierra
+FOTO,Imagen captada
+FRAC,Chaqueta formal con colas
+FRIA,Sin calor
+FRIO,Sin calor
+FUEL,Combustible liquido
+FUGA,Huida rapida
+GAFA,Lentes para los ojos
+GAFE,Que trae mala suerte
+GALA,Acto festivo formal
+GAMA,Serie de elementos
+GASA,Tela fina transparente
+GATO,Felino domestico
+GEMA,Piedra preciosa
+GIGA,Unidad de memoria digital
+GIRA,Viaje artistico
+GIRO,Movimiento rotativo
+GOLF,Deporte con palos
+GOMA,Material elastico
+GONG,Instrumento de percusion circular
+GOTA,Pequena porcion de liquido
+GOZO,Alegria intensa
+GRAN,De gran tamano
+GRIS,Color entre blanco y negro
+GRUA,Maquina para levantar peso
+GULA,Pecado de exceso al comer
+GURU,Lider espiritual hindu
+HABA,Semilla comestible
+HADA,Ser magico femenino
+HALO,Circulo luminoso
+HATO,Conjunto de ganado
+HAYA,Tipo de arbol
+HENO,Hierba seca para animales
+HIEL,Liquido amargo del cuerpo
+HIGO,Fruto dulce oscuro
+HIJA,Descendiente femenina
+HIJO,Descendiente masculino
+HILO,Fibra larga y delgada
+HIPO,Espasmo involuntario
+HITO,Evento destacado
+HOJA,Parte verde del arbol
+HOLA,Saludo comun
+HORA,Sesenta minutos
+HOYO,Hueco en el suelo
+HULE,Tela impermeable
+HUMO,Gas que sale del fuego
+IBIS,Ave de pico largo
+IDEA,Pensamiento
+IDEM,Lo mismo en latin
+IGLU,Casa de hielo
+IMAN,Material que atrae metales
+INCA,Pueblo andino antiguo
+IOTA,Letra griega
+IRIS,Parte coloreada del ojo
+ISBA,Casa rusa de madera
+ISLA,Tierra rodeada de agua
+ITEM,Elemento de una lista
+IZAR,Levantar una bandera
+JADE,Piedra preciosa verde
+JARA,Arbusto mediterraneo
+JAZZ,Genero musical afroamericano
+JEFE,Persona que manda
+JOTA,Danza tradicional espanola
+JUEZ,Persona que dicta justicia
+JUGO,Liquido de una fruta
+KILO,Mil gramos
+KIWI,Fruta verde peluda
+LACA,Barniz para madera
+LADO,Costado de algo
+LANA,Pelo de oveja
+LATA,Recipiente metalico
+LAUD,Instrumento de cuerda antiguo
+LAVA,Roca fundida de volcan
+LAZO,Cinta atada
+LEAL,Que tiene fidelidad
+LEER,Comprender lo escrito
+LEMA,Frase representativa
+LEON,Rey de la selva
+LEVA,Alzamiento militar
+LIGA,Union o competicion
+LIJA,Papel para alisar
+LIMA,Capital de Peru
+LIMO,Lodo de rio
+LIRA,Instrumento de cuerda antiguo
+LISO,Sin arrugas ni relieve
+LOCA,Que ha perdido el juicio
+LOCO,Que ha perdido el juicio
+LOMA,Colina baja
+LOMO,Parte superior del animal
+LONA,Tela resistente
+LORO,Ave que imita voces
+LOSA,Piedra plana
+LOTE,Porcion asignada
+LOZA,Vajilla de ceramica
+LUJO,Opulencia
+LUNA,Satelite de la Tierra
+LUPA,Cristal de aumento
+MAGO,Persona que hace magia
+MALO,Que no es bueno
+MAMA,Madre infantilmente
+MANO,Extremidad al final del brazo
+MAPA,Representacion grafica terrestre
+MASA,Mezcla blanda
+MATE,Sin brillo
+MAYA,Pueblo mesoamericano
+MENU,Lista de comidas
+MERO,Simple o puro
+MESA,Mueble con superficie plana
+META,Punto de llegada
+MIEL,Alimento dulce de abejas
+MIMO,Arte de gesto sin voz
+MINA,Excavacion para extraer mineral
+MISA,Celebracion religiosa
+MITO,Relato fantastico antiguo
+MODA,Tendencia del momento
+MODO,Manera de hacer algo
+MOLE,Mucho volumen
+MONO,Primate de cola larga
+MORA,Fruto oscuro del mirto
+MORO,Perteneciente al islamico
+MOTA,Pequena particula
+MOTE,Apodo
+MUDO,Que no puede hablar
+MULA,Animal de carga
+MUSA,Inspiracion del arte
+NADA,Ninguna cosa
+NASA,Red para pescar
+NATA,Capa grasa de la leche
+NAVE,Barco grande
+NENE,Nino pequeno
+NEON,Gas noble que ilumina
+NIDO,Construccion de las aves
+NUBE,Masa de vapor en cielo
+NUDO,Cruzamiento de cuerda
+NULO,Sin valor
+OBRA,Trabajo realizado
+ODIO,Sentimiento contrario al amor
+OJAL,Agujero para un boton
+OLEO,Pintura grasa
+OLLA,Recipiente para cocinar
+OLMO,Arbol alto de sombra
+ONCE,Numero despues de diez
+ONDA,Movimiento del agua
+ONIX,Piedra semipreciosa negra
+ONZA,Unidad de peso antigua
+OPAL,Piedra preciosa iridiscente
+ORCA,Ballena asesina
+OSAR,Atreverse
+OVAL,Con forma ovalada
+PACA,Fardo grande
+PAGA,Salario
+PAGO,Accion de pagar
+PAIS,Territorio con gobierno
+PAJA,Tallo seco del trigo
+PALA,Herramienta para cavar
+PALO,Trozo de madera largo
+PANA,Tela gruesa
+PAPA,Sumo pontifice
+PARA,Preposicion de finalidad
+PARO,Accion de detener
+PASE,Permiso para pasar
+PASO,Accion de mover los pies
+PATA,Pierna de animal
+PATE,Comida untable
+PATO,Ave de agua
+PAVO,Ave americana
+PECA,Mancha pequena en la piel
+PELO,Filamento capilar
+PENA,Sentimiento de dolor
+PEON,Pieza de ajedrez mas comun
+PERA,Fruta verde alargada
+PERO,Conjuncion adversativa
+PESO,Unidad de gravedad
+PICO,Parte afilada
+PIEL,Cubierta exterior del cuerpo
+PIPA,Semilla de girasol
+PIRA,Hoguera grande
+PISA,Ciudad italiana
+PISO,Vivienda en un edificio
+PITA,Planta con hojas afiladas
+PITO,Silbato
+PLAN,Proyecto
+POLO,Extremo de la Tierra
+POMO,Tirador de puerta
+POPA,Parte trasera del barco
+POTE,Recipiente pequeno
+POZO,Hoyo vertical de agua
+PROA,Parte delantera del barco
+PUMA,Felino americano
+PUPA,Herida pequena
+PURO,Sin mezcla
+RABO,Cola de animal
+RAER,Raspar una superficie
+RAIZ,Parte subterranea de la planta
+RAJA,Hendidura en material
+RAMA,Division del tronco
+RANA,Anfibio que salta
+RAPE,Pez con boca grande
+RARO,Poco comun
+RASO,Plano y liso
+RATA,Roedor grande
+RATO,Periodo corto de tiempo
+RAYA,Linea recta
+RAYO,Descarga electrica del cielo
+RAZA,Grupo etnico
+REJA,Barrotes de hierro
+REMO,Palo para impulsar barca
+RENO,Ciervo de regiones frias
+RETO,Desafio
+RICO,De mucho dinero
+RIEL,Barra de metal del tren
+RIFA,Sorteo con boletos
+RIMA,Coincidencia sonora final
+RIZO,Onda del pelo
+ROBO,Accion de robar
+ROCA,Piedra grande
+ROCE,Contacto ligero
+ROJO,Color como la sangre
+ROMA,Capital de Italia
+ROPA,Prenda de vestir
+ROSA,Flor espinosa
+ROTO,Que se ha partido
+RUBI,Piedra preciosa roja
+RUDO,Brusco
+RUIN,De baja calidad
+RULO,Cilindro para rizar el pelo
+RUTA,Camino establecido
+SACO,Bolsa grande
+SAGA,Serie narrativa
+SALA,Habitacion principal
+SANO,Que tiene salud
+SAPO,Anfibio tipo rana
+SAYA,Falda larga
+SECO,Sin humedad
+SEDA,Tela fina y suave
+SEDE,Lugar central
+SEMI,Prefijo que significa medio
+SESO,Organo del pensamiento
+SETA,Hongo comestible
+SEXO,Distincion biologica
+SHOW,Espectaculo
+SIDA,Enfermedad del sistema inmune
+SILO,Deposito para cereales
+SIMA,Abismo profundo
+SINO,Destino o conjuncion
+SODA,Bebida gaseosa
+SOFA,Mueble para sentarse
+SOJA,Legumbre
+SOLO,Sin compania
+SOPA,Alimento liquido caliente
+SOSO,Sin sabor
+SOTO,Bosque espeso
+SUMO,Lucha japonesa tradicional
+TACO,Comida mexicana
+TAJO,Corte profundo
+TAPA,Cubierta
+TARA,Defecto
+TARO,Planta de tuberculo
+TAXI,Vehiculo de alquiler
+TAZA,Recipiente para beber
+TELA,Tejido
+TEMA,Asunto tratado
+TERA,Unidad de magnitud billon
+TEST,Prueba
+TETA,Glandula mamaria
+TICO,Gentilicio de Costa Rica
+TILA,Infusion relajante
+TIMO,Engano
+TINO,Buen juicio
+TIPO,Clase o modelo
+TIRO,Disparo
+TITI,Mono pequeno
+TIZA,Barra para escribir en pizarra
+TODO,Entero
+TOFU,Queso de soja
+TOGA,Tunica
+TOMO,Volumen de libro
+TONO,Intensidad de sonido
+TOPE,Limite
+TOPO,Animal que vive bajo tierra
+TORO,Macho del bovino
+TRAS,Preposicion detras
+TRIO,Grupo de tres
+TROL,Figura mitologica escandinava
+TUBO,Cilindro hueco
+TUNA,Agrupacion estudiantil musical
+TUYO,Posesivo masculino
+URBE,Ciudad grande
+URNA,Caja para votar
+UNIR,Juntar partes
+USAR,Emplear algo
+VACA,Hembra del toro
+VADO,Paso de agua
+VAGO,Perezoso
+VALE,Papel que autoriza
+VANO,Sin sustancia
+VARA,Palo delgado
+VASO,Recipiente para beber
+VEGA,Terreno bajo y fertil
+VELA,Paquete con mecha
+VENA,Conducto de sangre
+VERA,Cerca de un lugar
+VETO,Prohibicion
+VIAL,Relativo al camino
+VIDA,Existencia viviente
+VIGA,Pieza larga de construccion
+VINO,Bebida alcoholica
+VISA,Permiso de entrada a pais
+VIVO,Que tiene vida
+VOTO,Decision electoral
+YATE,Barco de recreo grande
+YEMA,Parte amarilla del huevo
+YESO,Material blanco de construccion
+YETI,Criatura mitica del Himalaya
+YODO,Elemento quimico
+YOGA,Disciplina oriental del cuerpo
+YUCA,Planta americana tuberculo
+ZAPA,Herramienta para cavar
+ZOCO,Mercado arabe
+ZONA,Area determinada
+ZUMO,Liquido de fruta

@@ -1,0 +1,1002 @@
+ABBE,Katholischer Geistlicher
+ABEL,Biblischer Sohn Adams
+ABER,Gegensatzwort
+ABUS,Schlossmarke deutsche
+ACHS,Wagenachsen
+ACHT,Zahl nach sieben
+ACKE,Landwirtschaftliche Flaeche
+ADAM,Erster Mann der Bibel
+ADEL,Vornehmer Stand
+ADER,Blutgefaess
+AEON,Sehr lange Zeit
+AFFE,Primat im Zoo
+AGAR,Geliermittel aus Algen
+AGIL,Gelenkig beweglich
+AGRO,Aggressiv umgangssprachlich
+AHNE,Vorfahre in der Familie
+AHOI,Matrosengruss
+AIDA,Oper von Verdi
+AIDS,Immunschwaechekrankheit
+AJAX,Niederlaendischer Fussballclub
+AKKU,Wiederaufladbare Batterie
+AKNE,Hautkrankheit Pickel
+AKTE,Amtsunterlage
+AKUT,Dringend
+ALDI,Discountmarkt deutsch
+ALFA,Italienische Automarke
+ALGA,Wassergewaechs
+ALGE,Wasserpflanze
+ALLE,Gesamtheit
+ALLT,Taeglich
+ALOE,Heilpflanze mit Gel
+ALPE,Gebirge
+ALSO,Folglich
+ALTE,Bejahrter Mensch
+AMEN,Gebetsabschluss
+AMME,Saeuglingspflegerin
+AMOK,Rasender Zustand
+ANNA,Weiblicher Vorname
+ANTI,Gegen Vorsilbe
+APEX,Spitze hoechster Punkt
+APPS,Handyanwendungen
+AREA,Bereich englisch
+ARIA,Opernstueck
+ARIE,Gesangsstueck in der Oper
+ARME,Glieder zum Greifen
+AROM,Wohlriechend
+ATEM,Luftholen
+ATOM,Kleinstes Teilchen
+AUCH,Ebenso
+AUGE,Sehorgan
+AULA,Schulsaal
+AURA,Abstrahlung
+AUTO,Fahrzeug vierradrig
+AXIS,Drehachse
+AZUR,Himmelblau
+BABY,Neugeborenes Kind
+BACH,Kleiner Wasserlauf
+BAHN,Schienenverkehrsmittel
+BAKE,Seezeichen im Wasser
+BALD,In kurzer Zeit
+BALL,Rundes Spielgeraet
+BAND,Musikgruppe
+BANG,Angstvoll
+BANK,Geldinstitut
+BANN,Verfluchen
+BARK,Segelschiff
+BART,Gesichtshaar
+BASE,Cousine
+BASS,Tiefer Ton
+BAUM,Grosses Gewaechs mit Stamm
+BEEF,Rindfleisch
+BEET,Gartenabschnitt
+BEIL,Hackwerkzeug
+BEIN,Glied zum Gehen
+BERG,Erhoehung im Gelaende
+BERN,Hauptstadt der Schweiz
+BETA,Zweiter griechischer Buchstabe
+BETT,Platz zum Schlafen
+BIER,Hopfengetraenk
+BILD,Gemaltes oder Foto
+BLAH,Langweilig englisch
+BLAU,Farbe des Himmels
+BLEI,Schweres Metall
+BLEU,Blau franzoesisch
+BLOG,Online Tagebuch
+BLUT,Rote Koerperfluessigkeit
+BOCK,Maennliche Ziege
+BODE,Berliner Museumsinsel
+BOHR,Form von bohren
+BOJE,Schwimmfahne im Wasser
+BOLL,Gross und rund
+BONN,Fruehere deutsche Hauptstadt
+BOOM,Ploetzlicher Aufschwung
+BOOT,Kleines Wasserfahrzeug
+BORD,Schiffsseite
+BOSS,Chef auf Englisch
+BOTE,Ueberbringer
+BOWL,Schuessel auf Englisch
+BRAN,Kleie
+BRAT,Form von braten
+BRAU,Stamm Bier
+BRAV,Artig wohlerzogen
+BREI,Puree weiche Speise
+BROM,Chemisches Element
+BROT,Gebackenes aus Teig
+BUCH,Gebundene Seiten
+BUDE,Einfache Huette
+BUND,Vereinigung
+BURG,Befestigtes Schloss
+BYTE,Acht Bit Datenmenge
+CAFE,Kaffeehaus
+CALM,Ruhig englisch
+CAMP,Lagerplatz
+CAPT,Kapitaen Kurzform
+CARE,Sorge englisch
+CASH,Bargeld englisch
+CAST,Filmbesetzung
+CENT,Kleine Muenzeinheit
+CHAT,Gespraech im Netz
+CHEF,Vorgesetzter
+CHIC,Elegant
+CHIP,Kleines Bauteil
+CHOR,Gruppe von Saengern
+CITY,Innenstadt
+CLAN,Sippe
+CLUB,Verein
+CODE,Geheimzeichen
+COLA,Braunes Getraenk suess
+COMB,Kamm englisch
+COME,Komm englisch
+COOK,Koch englisch
+COOL,Lassig oder kuhl
+COPY,Kopie englisch
+CORE,Kern englisch
+CREW,Mannschaft
+CURL,Haarlocke
+CUTS,Schnitte englisch
+DACH,Hausabschluss oben
+DAME,Hoefliche Anrede Frau
+DAMM,Wasserwall
+DANK,Gefuehl der Wertschaetzung
+DANN,Zeitfolge
+DARM,Teil des Verdauungssystems
+DATE,Verabredung
+DEAL,Geschaeft englisch
+DECK,Schiffsboden
+DEIN,Dir gehoerend
+DEMO,Kundgebung
+DENK,Form von denken
+DENN,Denn weil
+DICH,Akkusativ du
+DICK,Nicht duenn
+DIEB,Jemand der stiehlt
+DILL,Gruenes Kraut
+DING,Gegenstand
+DISC,Scheibe fuer Musik
+DIVA,Gefeierte Saengerin
+DOCH,Gegenbehauptung
+DOCK,Schiffswerftbereich
+DOOF,Dumm umgangssprachlich
+DORF,Kleine laendliche Siedlung
+DOSE,Kleiner Behaelter
+DRAN,Dabei
+DRAU,Nebenfluss der Donau
+DREH,Form von drehen
+DREI,Zahl nach zwei
+DRIN,In etwas
+DUFT,Angenehmer Geruch
+DUNG,Tierkot
+DURR,Mager
+EASY,Einfach auf Englisch
+EBBE,Niedrigwasser
+EBEN,Glatt oder gerade
+EBNE,Glatte Flaeche
+ECHO,Zurueckgeworfener Schall
+ECHT,Nicht gefaelscht
+EDEL,Vornehm wertvoll
+EDER,Fluss Hessen
+EDIT,Bearbeiten englisch
+EDLE,Vornehme Personen
+EGAL,Gleichgueltig
+EHER,Mehr noch
+EHRE,Ansehen
+EIER,Fortpflanzungszellen
+EILE,Hast
+EILT,Ist in Eile
+EINE,Erste unbestimmt weiblich
+EINS,Erste Zahl
+EISE,Gefrorene Mengen
+EKEL,Abscheu
+ELAN,Schwung
+ELBE,Deutscher Fluss im Norden
+ELCH,Grosses Hirschtier
+ELFE,Maerchenwesen
+EMIR,Arabischer Fuerst
+ENDE,Schluss
+ENGE,Nicht weit
+ENTE,Grauweisser Wasservogel
+EPOS,Langes Heldengedicht
+ERBE,Nachlass
+ERDE,Unser Planet
+ERLE,Laubbaum an Gewaessern
+ERST,Anfangs
+ERZE,Metallhaltige Gesteine
+ESEL,Graues Reittier
+ESSE,Kamin
+ETAT,Haushaltsbudget
+ETUI,Aufbewahrungskaestchen
+EULE,Nachtaktiver Vogel
+EWIG,Fuer immer
+EXAM,Pruefung Kurzform
+EYES,Augen englisch
+FACH,Abteilung
+FADE,Langweilig
+FAHL,Blass in der Farbe
+FAHR,Imperativ fahren
+FAIR,Gerecht
+FALL,Sturz
+FAME,Ruhm englisch
+FANG,Beute oder Zahn
+FARM,Bauernhof englisch
+FARN,Schattenpflanze
+FASS,Rundes Lagerbehaelter
+FAST,Nahezu
+FAUL,Traege
+FAUN,Waldgott
+FAUX,Falsch franzoesisch
+FAVE,Liebling englisch
+FEIN,Edel zart
+FELD,Ackerland
+FELL,Tierhaut
+FELS,Grosser Stein
+FERN,Weit entfernt
+FEST,Feier oder stabil
+FIEL,Sturz Vergangenheit
+FILM,Bewegte Bilder
+FILZ,Haarfaserstoff
+FIND,Imperativ finden
+FINK,Singvogel
+FLIP,Umdrehung beim Turnen
+FLOH,Kleiner Parasit
+FLOR,Dichtes Pflanzenwachstum
+FLOT,Schnell
+FLUG,Reise durch die Luft
+FLUR,Gang im Haus
+FLUT,Hochwasser
+FOHN,Warmer Wind
+FOPP,Form von foppen
+FORM,Aeussere Gestalt
+FORT,Weg von hier
+FOTO,Lichtbild
+FOUL,Regelverstoss im Sport
+FRAU,Erwachsene weiblich
+FREI,Unabhaengig
+FROH,Fuehlt sich gut
+FRUH,Vormittags
+FUER,Bestimmt fuer
+FUGE,Ritze zwischen Steinen
+FUND,Unerwartete Entdeckung
+FUNK,Kabellose Uebertragung
+FUSS,Koerperteil zum Stehen
+GABE,Geschenk oder Talent
+GAGA,Verrueckt umgangssprachlich
+GAGE,Kuenstlerhonorar
+GALA,Festveranstaltung
+GAME,Spiel englisch
+GANG,Flur oder Schritt
+GANS,Grosser Wasservogel
+GANZ,Vollstaendig
+GARN,Faden zum Naehen
+GAST,Besucher
+GEBE,Forme von geben
+GEHE,Form von gehen
+GEIL,Prima umgangssprachlich
+GEIZ,Knickrigkeit
+GELB,Farbe der Sonne
+GELD,Zahlungsmittel
+GENE,Erbanlagen
+GENF,Schweizer Stadt am See
+GERN,Mit Freude
+GIER,Starkes Verlangen
+GIFT,Schaedlicher Stoff
+GIGE,Singe
+GIPS,Baustoff aus Pulver
+GIRO,Bankkonto
+GLAS,Durchsichtiges Material
+GLUT,Heisse Kohle
+GOAL,Tor auf Englisch
+GOAS,Ziegenmehrzahl
+GOLD,Edles Metall
+GOLF,Ballsport auf Rasen
+GOSS,Form von giessen
+GOTT,Hoeheres Wesen
+GRAB,Beerdigungsstelle
+GRAD,Stufe der Temperatur
+GRAF,Adelstitel
+GRAS,Gruene Halme
+GRAU,Farbe zwischen weiss und schwarz
+GROB,Nicht fein
+GROG,Heisses Mixgetraenk
+GURT,Breiter Riemen
+HAAR,Kopfbehaarung
+HACK,Gehacktes Fleisch
+HAFF,Kuestenlagune
+HAFT,Gefangenschaft
+HAGE,Dornbusch
+HAHN,Maennliches Huhn
+HAIN,Kleiner Wald
+HAIR,Haar englisch
+HAKE,Bogenfoermig
+HALB,Die Haelfte
+HALL,Widerhall
+HALM,Getreidestengel
+HALS,Koerperteil
+HALT,Stopp
+HAMM,Wiesenstueck
+HAND,Greiforgan
+HANF,Faserpflanze
+HANG,Abschuessig
+HARD,Englisch fuer hart
+HARK,Hoere archaisch
+HARM,Schaden poetisch
+HART,Fest steinhart
+HARZ,Baumsaft
+HASE,Langohriges Tier
+HASS,Feindseligkeit
+HAUS,Wohngebaeude
+HAUT,Koerperhuelle
+HECK,Hinterer Fahrzeugteil
+HEER,Armee
+HEFE,Backpilz
+HEFT,Duennes Schulbuch
+HEIL,Gesund
+HEIM,Wohnstaette
+HEIZ,Stamm heizen
+HELD,Tapfere Person
+HELI,Hubschrauber Abkuerzung
+HELL,Nicht dunkel
+HEMD,Oberteil mit Aermeln
+HEMM,Bremse
+HERB,Unsuess
+HERD,Kuechengeraet
+HERR,Maennliche Anrede
+HERZ,Motor des Koerpers
+HESS,Deutscher Politiker
+HEXE,Zauberin
+HIEB,Schlag
+HIER,An diesem Ort
+HINT,Leichter Hinweis
+HIRN,Denkorgan
+HIRT,Schafhueter
+HOCH,Weit oben
+HOLD,Liebreizend
+HOLE,Hol herbei
+HOLM,Sportgeraet am Barren
+HOLZ,Baummaterial
+HOME,Zuhause englisch
+HOMO,Gleich griechisch
+HOPP,Aufforderung schnell
+HORN,Kopfschmuck eines Tieres
+HORT,Sicherer Platz
+HOSE,Beinkleidung
+HUHN,Eierlegender Vogel
+HUND,Bellendes Haustier
+HUPE,Warnsignal am Auto
+IBIS,Storchartiger Vogel
+ICKY,Eklig englisch
+IDEE,Geistiger Einfall
+IDOL,Verehrtes Objekt
+IGEL,Stacheliges Tier
+IGLU,Inuit Haus aus Eis
+ILSE,Weiblicher Vorname
+IMAM,Islamischer Vorbeter
+IMKE,Weiblicher Vorname
+IMMI,Vorname weiblich kurz
+INCH,Englisches Zollmass
+INKA,Altes Andenvolk
+IRAK,Arabisches Land
+IRAN,Vorderasiatisches Land
+IRIS,Blume Regenbogenhaut
+IRRE,Verrueckte Person
+ISAR,Bayerischer Fluss
+JADE,Gruener Edelstein
+JAGD,Suche nach Wild
+JAHR,Zwoelf Monate
+JAWA,Insel
+JAZZ,Musik aus Amerika
+JEDE,Jede Einzelne
+JELL,Gelatineartig
+JENE,Demonstrativ fern
+JEST,Scherz englisch
+JETT,Schwarzes Schmuckmaterial
+JIVE,Schneller Tanz
+JOCH,Gebirgspass
+JODL,Alpenruf
+JOGA,Entspannungsuebung
+JUDE,Anhaenger des Judentums
+JUDO,Kampfsport
+JUMP,Springe englisch
+JUNG,Nicht alt
+JUNI,Sechster Monat
+JURA,Rechtswissenschaft
+JURY,Bewertungsausschuss
+KAFF,Kleines Dorf
+KAHL,Ohne Haare
+KAHN,Kleines Boot
+KAKI,Orangefarbene Frucht
+KALB,Junges Rind
+KALI,Chemisches Salz
+KALK,Weisser Stein
+KALM,Windstille
+KALT,Niedrige Temperatur
+KAMM,Haargeraet
+KANN,Form von koennen
+KANU,Schmales Boot
+KARG,Spaerlich
+KARL,Maennlicher Vorname
+KARO,Rautenform
+KATE,Einfaches Haus
+KAUE,Zerkleinere mit Zaehnen
+KAUF,Einkauf
+KAUM,Knapp
+KAUT,Form von kauen
+KEHL,Halsbezogen
+KEIM,Pflanzenanfang
+KEIN,Nicht einer
+KERB,Einschnitt
+KERL,Derber Mann
+KERN,Zentrum
+KICK,Tritt
+KIDS,Kinder englisch
+KIEL,Schiffsteil unten
+KILO,Tausend Gramm
+KIND,Junger Mensch
+KINN,Untergesicht
+KIPP,Form von kippen
+KIRA,Weiblicher Vorname
+KISS,Kuss englisch
+KIST,Truhenartig
+KITT,Dichtungsmaterial
+KLAN,Sippe englisch
+KLAR,Deutlich
+KLAU,Form von klauen
+KLEB,Hefte fest
+KLEE,Dreiblaettrige Wiesenpflanze
+KLEI,Tonboden
+KLEK,Form von klecksen
+KLON,Genetische Kopie
+KLUB,Verein
+KLUG,Intelligent
+KNAP,Gerade eben
+KNIE,Beingelenk
+KNIP,Form von knipsen
+KOCH,Kuechenfachmann
+KODE,Geheimzeichen
+KOHL,Gemueseart
+KOJE,Schlafplatz auf Schiff
+KOMA,Bewusstlosigkeit
+KOMM,Imperativ kommen
+KOPF,Koerperteil mit Gehirn
+KORB,Geflochtener Behaelter
+KORD,Gerippter Stoff
+KORK,Flaschenverschlussmaterial
+KORN,Getreidefrucht
+KOST,Nahrung
+KOTZ,Form von kotzen
+KRAB,Form Krabbe
+KRAM,Zeug
+KRAN,Hebegeraet
+KRIM,Halbinsel
+KRUG,Bauchiges Gefaess
+KRUM,Gebogen Kurzform
+KUEH,Rinder
+KUGA,Seuche
+KULT,Anbetungsfigur
+KURS,Lehrgang
+KURZ,Nicht lang
+KUSS,Mundberuehrung zwischen Personen
+LACH,Freudenausdruck
+LACK,Farbschicht
+LADE,Schublade
+LADY,Dame englisch
+LAGE,Position Situation
+LAHM,Schwach
+LAIB,Brotform
+LAIE,Unerfahrener Mensch
+LAKE,Salzwasserloesung
+LAMA,Andentier
+LAME,Lendenstueck
+LAMM,Junges Schaf
+LAND,Gebiet
+LANE,Fahrspur englisch
+LANG,Nicht kurz
+LARM,Larm Getoese
+LAST,Schwere Buerde
+LATZ,Brustschuerze
+LAUB,Gesamtheit der Blaetter
+LAUF,Bewegung rennend
+LAUT,Geraeusch
+LAVA,Vulkangestein fluessig
+LEBE,Sei lebendig
+LEBT,Ist am Leben
+LECK,Undichte Stelle
+LEER,Nicht gefuellt
+LEGO,Beliebtes Kinderspielzeug
+LEGT,Platziert
+LEHM,Erdmaterial
+LEHN,Stuetze
+LEIB,Koerper
+LEID,Schmerz
+LEIH,Form von leihen
+LEIM,Klebstoff
+LEIN,Flachsfaser
+LENK,Form von lenken
+LENZ,Fruehling
+LESE,Weinernte
+LICH,Leiche
+LIEB,Zaertlich
+LIED,Musikstueck
+LIEF,Rannte
+LILA,Violett
+LILO,Luftmatratze
+LIMO,Sueses Getraenk
+LINK,Kurze Verbindung
+LIST,Kniff oder Schlauheit
+LIVE,Direkt
+LOCH,Runde Oeffnung
+LOFT,Grosser Raum Wohnung
+LOGE,Kasten im Theater
+LOGO,Firmenzeichen
+LOHN,Arbeitsentgelt
+LOOK,Aussehen englisch
+LORD,Englischer Adelstitel
+LORE,Kleiner Transportwagen
+LOSE,Einzelne Scheine
+LOTS,Viele englisch
+LOWE,Loewe
+LUFT,Gasgemisch zum Atmen
+LUGE,Taeuschung
+LUKE,Fenster im Dach
+LUPE,Vergroesserungsglas
+LUST,Verlangen
+MACH,Tue
+MAGE,Knapp kurz
+MAHL,Essen
+MAHR,Alptraumgestalt
+MAIS,Goldgelbes Getreide
+MAMA,Mutter
+MAMI,Mutter kindlich
+MANI,Besessenheit
+MANN,Erwachsener Kerl
+MARK,Waehrung alt
+MARS,Roter Planet
+MAST,Aufrechter Pfahl
+MATT,Glanzlos
+MAUL,Schnauze
+MAUS,Kleines graues Nagetier
+MEER,Grosses Salzwasser
+MEET,Treffen englisch
+MEHL,Gemahlenes Korn
+MEHR,In hoeherer Anzahl
+MEIN,Mein Eigentum
+MILD,Sanft
+MILZ,Organ links oben
+MINE,Untertagebau
+MINI,Klein
+MIST,Dung
+MOCH,Form von moegen
+MODE,Aktueller Stil
+MOHN,Rote Wiesenblume
+MOHR,Dunkelhaeutiger Mensch
+MOLE,Hafenvorsprung
+MOLL,Musikalische Tonart
+MOND,Trabant der Erde
+MOOR,Sumpfige Landschaft
+MOOS,Weicher Bodenbelag im Wald
+MOPS,Kleiner flachnasiger Hund
+MORD,Toetung
+MOST,Obstsaft
+MOTE,Staubteilchen
+MUCK,Muff
+MUFF,Handwaermer
+MUND,Essoeffnung im Gesicht
+MUSE,Inspirationsgottheit
+MUSS,Notwendigkeit
+MUST,Muss englisch
+NABE,Radzentrum
+NACH,In Richtung zu
+NADA,Nichts spanisch
+NAGE,Form von nagen
+NAGT,Kaut
+NAHE,In der Umgebung
+NAHM,Form von nehmen
+NAHT,Stoffverbindung
+NAIV,Arglos
+NAME,Eigenbezeichnung
+NARR,Spassvogel
+NASE,Riechorgan
+NASS,Voller Wasser
+NATO,Verteidigungsbuendnis
+NEBE,Dunst
+NEED,Brauchen englisch
+NEID,Missgunst
+NEIG,Form von neigen
+NEIN,Negative Antwort
+NERV,Leitungsstrang im Koerper
+NEST,Vogelbett
+NETT,Freundlich
+NETZ,Geflechtwerk
+NEUE,Frische Dinge
+NEUN,Zahl nach acht
+NICE,Nett englisch
+NIKE,Goettin des Sieges
+NILE,Nil englisch
+NIMB,Heiligenschein
+NIMM,Imperativ nehmen
+NINA,Weiblicher Vorname
+NIPP,Kleiner Schluck
+NIXE,Wasserfrau
+NOAH,Biblische Figur
+NOCH,Zusaetzlich
+NOEL,Weihnachten franzoesisch
+NONE,Neunte
+NOOB,Anfaenger Gamer
+NORD,Himmelsrichtung oben
+NORM,Regel Standard
+NOTE,Schulbewertung
+NOUN,Substantiv englisch
+NULL,Keine Menge
+NUSS,Hartschaliges Obst
+OASE,Wasserstelle in der Wueste
+OBEN,Oben am Ort
+OBST,Fruchtgenuss
+OCHS,Kastrierter Stier
+OCKE,Rock
+ODER,Alternative
+OECH,Kurz oekologisch
+OELE,Fettige Fluessigkeiten
+OFEN,Heizgeraet
+OHNE,Nicht dabei
+OKAY,In Ordnung
+OLAF,Maennlicher Vorname
+OLGA,Weiblicher Vorname
+OMEN,Vorzeichen
+ONTO,Auf englisch
+ONYX,Schwarzer Schmuckstein
+OOPS,Ausruf Missgeschick
+OPAK,Nicht durchsichtig
+OPAL,Edelstein
+OPEN,Offen englisch
+OPER,Musiktheaterstueck
+ORAL,Muendlich
+ORKA,Schwertwal
+ORTE,Mehrere Plaetze
+OSLO,Hauptstadt Norwegens
+OTTO,Maennlicher Vorname
+OUCH,Auaruf Schmerz
+OVAL,Eifoermig
+OZON,Atemreizendes Gas
+PAAR,Zwei zusammen
+PACE,Tempo englisch
+PACK,Gepaeckstueck
+PAGE,Buchseite oder Edelknabe
+PAIR,Paar englisch
+PAKT,Vertrag
+PAPA,Vater
+PARA,Nebenprefix
+PARK,Erholungsflaeche
+PART,Anteil
+PASS,Ausweisdokument
+PAST,Vergangenheit englisch
+PATE,Taufbegleiter
+PECH,Missgeschick
+PEIN,Qual
+PELZ,Tierfell
+PENG,Knalllaut
+PEST,Gefaehrliche Seuche
+PFAD,Schmaler Weg
+PFAU,Schillernder Vogel
+PICK,Auswahl englisch
+PIEF,Spitzer Laut
+PIEK,Kleiner Stich
+PIEP,Laut eines Kuekens
+PIER,Hafenmauer
+PILS,Bierart hell
+PILZ,Schwamm im Wald
+PING,Kurzer Ton
+PINK,Knalliges Rosa
+PLAN,Vorhaben
+PLOP,Klecks Laut
+PLUS,Mathematisches Zeichen
+POCH,Klopf Form
+POCO,Wenig italienisch
+POEM,Kurzes Gedicht
+POKE,Stosse englisch
+POLO,Reiterspiel
+POMP,Prunk
+PONY,Kleines Pferd
+POOL,Gemeinsame Kasse
+PORE,Hautoeffnung
+PORT,Anschluss
+POSE,Gestellte Haltung
+POST,Briefdienst
+POTT,Grosser Topf
+PRAG,Hauptstadt von Tschechien
+PUCK,Hockey Spielstein
+PULP,Fruchtfleisch
+PUMA,Grosskatze
+PUNK,Musikrichtung
+PURE,Rein
+PUTT,Schlag im Golf
+QUAD,Vierraedriges Gelaendefahrzeug
+QUAK,Froschlaut
+QUAL,Schmerz
+QUER,Schraeg
+QUIZ,Ratespiel
+RAAB,Ungarische Stadt
+RABE,Schwarzer schlauer Vogel
+RAHM,Sahne
+RAIN,Regen englisch
+RAND,Grenze
+RANG,Stellung
+RAPE,Vergewaltigung englisch
+RAPS,Oelpflanze
+RAST,Pause
+RATE,Mutmassung
+RAUB,Diebstahl
+RAUH,Nicht glatt
+RAUM,Ort mit Wand und Decke
+RAUS,Heraus
+REAL,Wirklich
+REBE,Weinstock
+RECK,Turngeraet
+REDE,Ansprache
+REET,Schilfrohr
+REFT,Trifft
+REGE,Lebendig aktiv
+REGT,Bewegt sich
+REIF,Ring oder reif
+REIN,Sauber
+REIS,Getreide aus Asien
+REIT,Form von reiten
+RENN,Lauf schnell
+REST,Ueberrest
+RETT,Form von retten
+RICH,Reich englisch
+RIED,Sumpfgras
+RIFF,Felsen unter Wasser
+RIND,Hausrind
+RING,Kreisrundes Schmuckstueck
+RISS,Spalt
+RITA,Weiblicher Vorname
+RITT,Pferdeausflug
+ROBE,Festliches Gewand
+ROCK,Langes Kleidungsstueck unten
+ROGA,Getreide
+ROHM,Maennlicher Vorname
+ROHR,Langes Hohlbehaelter
+ROMA,Volksgruppe
+ROSA,Zart rote Farbe
+ROSE,Stachelige Blume
+ROSS,Pferd poetisch
+ROST,Oxid auf Eisen
+RUDI,Maennlicher Vorname
+RUFE,Laute Schreie
+RUHE,Stille
+RUHM,Beruehmtheit
+RULE,Regel englisch
+RUMP,Kurz fuer Rumpsteak
+RUND,Kreisfoermig
+SAAL,Grosser Raum
+SAAT,Koerner zum Anpflanzen
+SACK,Grober Beutel
+SAFE,Geldschrank
+SAFT,Fluessiges aus Obst
+SAGE,Erzaehlung alter Geschichten
+SAGT,Spricht aus
+SALT,Salz englisch
+SALZ,Wuerzmittel weiss
+SAMS,Figur Kinderbuch
+SAMT,Weicher Stoff
+SAND,Feine Steinkoerner
+SARG,Totenlade
+SATT,Nach dem Essen gefuellt
+SATZ,Sinnvoller Ausspruch
+SAUM,Textilrand
+SAUR,Gegenteil von suess
+SCHI,Ski alternativ
+SEEN,Gewaesser Mehrzahl
+SEHE,Form von sehen
+SEHR,In hohem Masse
+SEIL,Starkes Tau
+SEIN,Ihm gehoerend
+SEIT,Von wann an
+SEKT,Schaumwein
+SEND,Form von senden
+SENF,Gelbe scharfe Paste
+SICH,Selbst
+SIEB,Durchloechertes Geraet
+SIEG,Erfolg
+SIND,Existieren
+SING,Form von singen
+SINN,Bedeutung
+SITZ,Platz zum Sitzen
+SKAT,Deutsches Kartenspiel
+SKIP,Sprung englisch
+SNOB,Versnobter Mensch
+SNOW,Schnee englisch
+SOFA,Polstermoebel
+SOHN,Maennliches Kind
+SOLE,Salzloesung
+SOLL,Verpflichtung
+SOLO,Alleine
+SONG,Lied englisch
+SORG,Kuemmere dich
+SOUL,Gefuehlvolle Musik
+SPAN,Holzrest
+SPAR,Lege beiseite
+SPAT,Zu spaet
+SPEI,Form von speien
+SPIN,Drehung englisch
+SPOT,Werbung kurz
+SPUR,Hinweis
+STAB,Langer duenner Stock
+STAR,Singvogel oder Beruehmtheit
+STAU,Blockade Verkehr
+STEG,Kleine Bruecke
+STEP,Schritt englisch
+STET,Bestaendig
+STIL,Art zu handeln
+STOP,Halt
+STUR,Dickkoepfig
+SUCH,Form von suchen
+SUED,Unten Himmelsrichtung
+SUMM,Brummlaut
+SUSS,Nicht salzig
+TABU,Verbot gesellschaftlich
+TAGE,Mehrere Tage
+TAGS,Ueber den Tag
+TAIL,Ende englisch
+TAKE,Aufnahme
+TAKT,Rhythmus
+TAND,Wertloser Schmuck
+TANK,Grosser Behaelter
+TANZ,Bewegung zu Musik
+TAUB,Gehoerlos
+TAUE,Dicke Seile
+TAXI,Mietauto
+TEAK,Hartes Tropenholz
+TEAM,Gruppe von Menschen
+TEIG,Mehlmasse zum Backen
+TEIL,Stueck vom Ganzen
+TELE,Fern Vorsilbe
+TELL,Erzaehlen englisch
+TERN,Seeschwalbe
+TEST,Pruefung
+TEUR,Kostspielig
+TEXT,Geschriebenes
+THAI,Aus Thailand
+TICK,Angewohnheit unfreiwillig
+TIEF,Nicht flach
+TIER,Lebewesen nicht Mensch
+TILT,Kippe englisch
+TIME,Zeit englisch
+TIPP,Hinweis
+TOLL,Super
+TONE,Toene
+TORE,Eingaenge
+TOTS,Kleinkinder englisch
+TOUR,Reise
+TOWN,Stadt englisch
+TRAB,Mittleres Tempo Pferd
+TRAM,Strassenbahn
+TRAN,Fischoel
+TRAP,Falle englisch
+TRAT,Ging nach vorn
+TRAU,Form von trauen
+TREU,Verlaesslich
+TRIO,Gruppe von drei
+TROG,Futtertrog
+TUBA,Tiefes Blasinstrument
+TUBE,Zusammendrueckbarer Behaelter
+TUCH,Rechteckiger Stoff
+TUER,Zugang zum Zimmer
+TURM,Hohes schmales Gebaeude
+TURN,Form von turnen
+TYPE,Drucktyp
+UBER,Fahrdienst
+UEBE,Form von ueben
+UEBT,Trainiert
+UFER,Rand am Wasser
+UHUS,Eulenarten
+UHYU,Uhusohn
+ULME,Laubbaum
+UMBA,Bucht
+UNIT,Einheit englisch
+UNKE,Kleine Kroete
+URAL,Asiatisches Gebirge
+URAN,Radioaktives Metall
+URIN,Fluessige Ausscheidung
+URNE,Aschenbehaelter
+USED,Gebraucht englisch
+USER,Benutzer
+VASE,Blumengefaess
+VATI,Papa
+VERB,Taetigkeitswort
+VERS,Strophe eines Gedichts
+VERY,Sehr englisch
+VETO,Einspruch dagegen
+VIBE,Stimmung englisch
+VIEL,Grosse Menge
+VIER,Zahl nach drei
+VINO,Wein italienisch
+VISA,Einreisegenehmigungen
+VITA,Lebenslauf
+VOLK,Staatsbewohner
+VOLL,Ganz gefuellt
+VOLT,Elektrische Einheit
+VORN,Am Anfang
+WACH,Aufmerksam
+WADE,Muskel am Unterschenkel
+WAGE,Messgeraet fuer Gewicht
+WAGT,Hat Mut
+WAHL,Auswahl
+WAHR,Stimmt mit Realitaet
+WAIS,Kurz fuer Waise
+WALD,Viele Baeume
+WALT,Form von walten
+WAND,Seite eines Raumes
+WANG,Seitenpartie Gesicht
+WARE,Kaufgegenstand
+WARF,Hat geworfen
+WARM,Angenehm heiss
+WART,Betreuer
+WAVE,Welle englisch
+WEBE,Form von weben
+WEHE,Schmerzhafter Stoss
+WEHT,Luft bewegt sich
+WEIL,Darum
+WEIN,Alkoholisches Traubenprodukt
+WEIS,Kluger Rat
+WEIT,Grosser Abstand
+WELS,Suesswasserfisch grau
+WELT,Gesamtheit allen Seins
+WENN,Unter der Bedingung
+WERF,Imperativ werfen
+WERK,Fabrik oder Kunstarbeit
+WERT,Bedeutung Preis
+WEST,Richtung Sonnenuntergang
+WICH,Ist gewichen
+WICK,Docht englisch
+WIEG,Form von wiegen
+WIEN,Hauptstadt von Oesterreich
+WILD,Nicht gebaehmt
+WILL,Form von wollen
+WIND,Bewegte Luftmasse
+WINK,Handzeichen
+WIRD,Zukuenftige Form
+WIRR,Durcheinander
+WIRT,Gastgeber
+WITZ,Lustiger Spruch
+WOGE,Grosse Meereswelle
+WOHL,In gutem Zustand
+WOHN,Lebe irgendwo
+WOLF,Wildhund
+WOLL,Form von wollen
+WORT,Sinneinheit aus Buchstaben
+WRAP,Einpacken englisch
+WUND,Verletzung
+WURF,Geworfener Gegenstand
+WURM,Kriechendes Weichtier
+WUST,Ansammlung
+YARD,Englische Laengeneinheit
+YARN,Garn englisch
+YETI,Schneemensch legendaer
+YOGA,Entspannung
+YORK,Englische Stadt
+YOUR,Dein englisch
+ZAEH,Langsam aber stur
+ZAHE,Wert mit Z
+ZAHL,Nummerische Menge
+ZAHM,Nicht wild
+ZAHN,Knochen im Mund
+ZANK,Streit
+ZART,Empfindlich weich
+ZAUN,Begrenzung
+ZEIG,Imperativ zeige
+ZEIT,Dauer von Stunden
+ZELT,Leichte Unterkunft
+ZIEH,Form von ziehen
+ZIEL,Bestimmungsort
+ZIER,Ornament
+ZINK,Metall
+ZINN,Silbriges Weichmetall
+ZINS,Geldzuwachs
+ZOLL,Grenzabgabe
+ZOOM,Vergroesserung
+ZORN,Starke Wut
+ZUCK,Form von zucken
+ZUPF,Form von zupfen
+ZWEI,Zahl nach eins
+ZYST,Hohlraum im Koerper

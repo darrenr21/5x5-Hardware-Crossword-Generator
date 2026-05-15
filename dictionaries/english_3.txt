@@ -1,0 +1,1150 @@
+ACE,Top playing card
+ACT,Deed or performance
+ADD,Combine numbers
+AFT,Toward the rear of a ship
+AGE,Length of time lived
+AGO,In the past
+AID,Help or assistance
+AIL,Feel pain
+AIM,Point toward a target
+AIR,What we breathe
+ALE,Type of beer
+ALL,Entire amount
+ALP,Mountain peak
+AMP,Unit of electrical current
+AND,Connecting word
+ANT,Small hardworking insect
+ANY,At least one
+APE,Large primate
+APP,Software application
+APT,Appropriate
+ARC,Curved line
+ARE,Plural of is
+ARK,Biblical boat
+ARM,Limb attached to the shoulder
+ART,Creative expression
+ASH,Remains after fire
+ASK,Request information
+ASP,Venomous snake
+ATE,Past tense of eat
+AWE,Feeling of wonder
+AXE,Chopping tool
+BAD,Not good
+BAG,Carry-all container
+BAN,Prohibit
+BAR,Counter serving drinks
+BAT,Flying mammal
+BAY,Coastal inlet
+BED,Place to sleep
+BEE,Honey-making insect
+BEG,Ask earnestly
+BET,Wager
+BIB,Baby's protective cloth
+BID,Offer a price
+BIG,Large in size
+BIN,Storage container
+BIT,Small piece
+BOA,Large constricting snake
+BOB,Short haircut
+BOG,Swampy ground
+BOO,Sound of disapproval
+BOP,Dance or light punch
+BOW,Front of a ship or tied ribbon
+BOX,Rectangular container
+BOY,Male child
+BRA,Undergarment
+BRO,Informal word for brother
+BUD,Early flower stage
+BUG,Small insect
+BUN,Small round bread
+BUS,Public transport vehicle
+BUT,However
+BUY,Purchase
+BYE,Goodbye
+CAB,Taxi
+CAD,Dishonorable man
+CAN,Tin container
+CAP,Hat with a brim
+CAR,Automobile
+CAT,Feline pet
+COB,Central part of corn ear
+COD,Common food fish
+COG,Gear tooth
+CON,Against
+COO,Soft pigeon sound
+COP,Police officer
+COT,Small portable bed
+COW,Dairy animal
+COY,Pretending shyness
+CRY,Shed tears
+CUB,Young bear
+CUE,Signal to begin
+CUP,Drinking vessel
+CUT,Slice with a blade
+DAB,Light touch
+DAD,Father
+DAM,River barrier
+DAY,Twenty-four hour period
+DEN,Animal lair
+DEW,Morning moisture
+DID,Past tense of do
+DIE,Cube used in games
+DIG,Excavate
+DIM,Not bright
+DIN,Loud unpleasant noise
+DIP,Brief plunge
+DOE,Female deer
+DOG,Man's best friend
+DON,Put on clothing
+DOT,Small round mark
+DRY,Not wet
+DUB,Give a nickname
+DUE,Owed
+DUG,Past tense of dig
+DUO,A pair
+DYE,Coloring substance
+EAR,Organ of hearing
+EAT,Consume food
+EBB,Recede
+EEL,Snake-like fish
+EGG,Oval food laid by birds
+EGO,Self-esteem
+ELF,Mythical being
+ELK,Large deer
+ELM,Type of tree
+EMU,Large flightless bird
+END,Finish
+EON,Very long time
+ERA,Period of time
+EVE,Night before
+EWE,Female sheep
+EYE,Organ of sight
+FAD,Intense but brief craze
+FAN,Device that creates airflow
+FAR,Distant
+FAT,Oily substance
+FAX,Send document electronically
+FED,Fed past of feed
+FEE,Charge for service
+FEW,Not many
+FIB,Small lie
+FIG,Sweet fruit
+FIN,Fish appendage
+FIR,Evergreen tree
+FIT,In good shape
+FIX,Repair
+FLU,Influenza
+FLY,Winged insect
+FOE,Enemy
+FOG,Thick mist
+FOR,In favor of
+FOX,Clever mammal
+FRY,Cook in oil
+FUN,Enjoyment
+FUR,Animal coat
+GAB,Talk excessively
+GAG,Joke or choke
+GAL,Informal for girl
+GAP,Empty space
+GAS,Fuel or vapor
+GEL,Thick substance
+GEM,Precious stone
+GET,Obtain
+GIG,Live performance
+GNU,African antelope
+GOD,Deity
+GOO,Sticky substance
+GOT,Past tense of get
+GUM,Chewy substance
+GUN,Firearm
+GUT,Stomach
+GUY,Informal for man
+GYM,Exercise facility
+HAD,Past tense of have
+HAM,Cured pork
+HAS,Third person of have
+HAT,Head covering
+HAY,Dried grass
+HEM,Fabric edge
+HEN,Female chicken
+HER,Female pronoun
+HEW,Cut with axe
+HEX,Witch spell
+HEY,Informal greeting
+HID,Past tense of hide
+HIM,Masculine pronoun
+HIP,Body joint at waist
+HIS,Belonging to him
+HIT,Strike
+HOE,Garden tool
+HOG,Pig
+HOP,Jump on one foot
+HOT,High temperature
+HOW,In what way
+HUB,Center of a wheel
+HUE,Shade of color
+HUG,Warm embrace
+HUM,Produce a low sound
+HUT,Small shelter
+ICE,Frozen water
+ICY,Very cold
+ILL,Sick
+IMP,Small mischievous creature
+INK,Writing fluid
+INN,Small hotel
+ION,Charged particle
+IRE,Anger
+IRK,Annoy
+ITS,Belonging to it
+IVY,Climbing plant
+JAB,Sharp poke
+JAM,Fruit preserve
+JAR,Glass container
+JAW,Lower part of the face
+JAY,Blue bird
+JET,High-speed aircraft
+JIG,Lively dance
+JOB,Occupation
+JOG,Light run
+JOT,Write briefly
+JOY,Delight
+JUG,Pitcher
+KEG,Small barrel
+KEN,Range of knowledge
+KEY,Opens a lock
+KID,Young goat or child
+KIN,Family
+KIT,Set of tools
+KOI,Ornamental carp
+LAB,Place for experiments
+LAD,Young boy
+LAG,Behind schedule
+LAP,Upper legs when seated
+LAW,Legal rule
+LAY,Put down
+LEA,Meadow
+LED,Past tense of lead
+LEG,Limb for walking
+LEI,Hawaiian garland
+LET,Allow
+LID,Cover for a container
+LIE,Untruth
+LIP,Edge of the mouth
+LIT,Illuminated
+LOB,Toss gently
+LOG,Piece of wood
+LOP,Cut off
+LOT,Large quantity
+LOW,Not high
+MAD,Angry
+MAN,Adult male
+MAP,Navigation tool
+MAR,Damage
+MAT,Floor covering
+MAX,Greatest amount
+MAY,Express possibility
+MEN,Plural of man
+MET,Encountered
+MID,Middle
+MIX,Blend together
+MOB,Unruly crowd
+MOD,Modern style
+MOM,Mother
+MOO,Cow sound
+MOP,Floor-cleaning tool
+MOW,Cut grass
+MUD,Wet earth
+MUG,Large cup
+NAB,Catch a criminal
+NAG,Annoy persistently
+NAP,Short sleep
+NAY,Negative vote
+NEE,Born as maiden name
+NET,Mesh used in sports
+NEW,Not old
+NIL,Nothing
+NIP,Small bite
+NOD,Head gesture of agreement
+NOR,Neither
+NOT,Negative word
+NOW,At this moment
+NUN,Female religious member
+NUT,Hard-shelled seed
+OAK,Common hardwood tree
+OAR,Rowing paddle
+OAT,Cereal grain
+ODD,Not even
+ODE,Lyric poem
+OFF,Away from
+OHM,Unit of electrical resistance
+OIL,Petroleum product
+OLD,Aged
+ONE,Single unit
+OPT,Choose
+ORB,Spherical object
+ORE,Metal-bearing rock
+OUR,Belonging to us
+OUT,Not in
+OWE,Be indebted
+OWL,Nocturnal bird
+OWN,Possess
+PAD,Cushioned surface
+PAL,Friend
+PAN,Cooking vessel
+PAR,Equal standard
+PAT,Light tap
+PAW,Animal foot
+PAY,Give money
+PEA,Small green vegetable
+PEG,Pin or hook
+PEN,Writing instrument
+PEP,Energy and enthusiasm
+PER,For each
+PET,Domestic animal
+PEW,Church bench
+PIE,Baked pastry dish
+PIG,Farm animal
+PIN,Small pointed fastener
+PIT,Hole in the ground
+PLY,Layer of material
+POD,Seed container
+POP,Burst or fizzy drink
+POT,Cooking container
+PRO,Professional
+PRY,Inquire nosily
+PUB,Public house
+PUG,Small dog breed
+PUN,Play on words
+PUP,Young dog
+PUT,Place
+RAG,Torn cloth
+RAM,Male sheep
+RAN,Past tense of run
+RAP,Knock or music genre
+RAT,Rodent
+RAW,Uncooked
+RAY,Beam of light
+RED,Primary color
+REF,Game official
+REV,Engine revolution
+RIB,Chest bone
+RID,Free from
+RIG,Equipment setup
+RIM,Outer edge
+RIP,Tear
+ROB,Steal from
+ROD,Thin straight stick
+ROE,Fish eggs
+ROT,Decay
+ROW,Line of items
+RUB,Apply friction
+RUE,Regret
+RUG,Floor mat
+RUM,Alcoholic drink
+RUN,Move quickly on foot
+RYE,Grain used in bread
+SAD,Unhappy
+SAG,Droop
+SAP,Tree fluid
+SAT,Past tense of sit
+SAW,Cutting tool
+SAY,Speak
+SEA,Large body of salt water
+SEC,Short second
+SEE,Observe
+SET,Place in position
+SEW,Join with thread
+SHE,Female pronoun
+SHY,Timid
+SIN,Moral wrongdoing
+SIP,Drink slowly
+SIR,Formal address for man
+SIS,Sister
+SIT,Be seated
+SIX,Number after five
+SKI,Snow glide
+SKY,Above the clouds
+SLY,Cunning
+SOB,Cry
+SOD,Grass-covered soil
+SOL,Musical note
+SON,Male offspring
+SOS,Distress signal
+SOW,Female pig
+SOY,Bean used in many foods
+SPA,Wellness retreat
+SPY,Secret agent
+STY,Pig enclosure
+SUB,Submarine
+SUE,File a lawsuit
+SUM,Total
+SUN,Star of our solar system
+TAB,Small flap or label
+TAG,Label
+TAN,Brown skin tone
+TAP,Light knock or faucet
+TAR,Black sticky substance
+TAX,Government levy
+TEA,Hot beverage from leaves
+TED,Dry cut grass
+TEE,Golf support peg
+TEN,Number after nine
+THE,Definite article
+TIC,Involuntary twitch
+TIE,Draw in a game
+TIN,Metal element
+TIP,Point or gratuity
+TOE,Foot digit
+TOM,Male cat
+TON,Unit of weight
+TOO,Also
+TOP,Highest point
+TOT,Small child
+TOW,Pull behind
+TOY,Child's plaything
+TRY,Attempt
+TUB,Large container for bathing
+TUG,Pull hard
+TWO,Number after one
+URN,Vase for ashes
+USE,Employ
+VAN,Large vehicle
+VAT,Large tank
+VEX,Annoy
+VET,Animal doctor
+VIA,By way of
+VIE,Compete
+VIM,Vigor and energy
+VOW,Solemn promise
+WAD,Small bundle
+WAG,Move back and forth
+WAR,Armed conflict
+WAS,Past tense of be
+WAX,Polish or candle material
+WAY,Route
+WEB,Spider's creation
+WED,Get married
+WET,Not dry
+WHO,Interrogative pronoun
+WHY,For what reason
+WIG,Fake hair
+WIN,Come first
+WIT,Clever humor
+WOE,Distress
+WOK,Chinese cooking pan
+WON,Past tense of win
+WOO,Court romantically
+WOW,Expression of amazement
+YAK,Himalayan ox
+YAM,Sweet potato
+YAP,Bark shrilly
+YAW,Turn of aircraft
+YEA,Affirmative vote
+YEN,Strong desire
+YES,Affirmative
+YET,Still or however
+YEW,Evergreen tree
+YIP,Short bark
+YOU,Second-person pronoun
+ZAP,Strike suddenly
+ZEN,Japanese Buddhist school
+ZIP,Close quickly
+ZIT,Pimple
+ZOO,Animal park
+
+DAN,Aykroyd of Ghostbusters
+DUA,Houdini singer
+SZA,Kill Bill artist
+KEN,Barbie movie role
+REY,Star Wars hero
+UMA,Actress Thurman
+SIA,Chandelier singer
+NEO,The Matrix hero
+ICE,Rapper Spice ___
+MEG,Thee Stallion
+GAL,Actress Gadot
+POE,Pilot Dameron
+JOY,Inside Out emotion
+RED,Swift album
+TEA,Slang for gossip
+ERA,Swift tour part
+ONO,Artist Yoko
+AXL,Singer Rose
+TOP,___ Gun: Maverick
+ZOD,Superman villain
+ZOE,Actress Kravitz
+AMY,Parks and Rec star
+ELI,Director Roth
+FIT,Slang for outfit
+CAP,Slang for a lie
+EGO,Marvel living planet
+SKY,Bond film ___fall
+EVA,Actress Longoria
+ASH,Evil Dead hero
+ELM,Nightmare street
+HAN,Millennium Falcon pilot
+RUE,Euphoria lead role
+KIM,A Kardashian sister
+MIA,Horror icon Goth
+ELF,Christmas movie classic
+BIG,Hanks piano movie
+SAW,Horror franchise
+IVY,Blue ___ Carter
+NAS,Illmatic rapper
+GAD,Josh of Frozen
+FEY,Mean Girls writer Tina
+RZA,Wu-Tang Clan member
+GZA,Wu-Tang Clan member
+HAL,Sentient 2001 AI
+EVE,Wall-E's robot love
+RIO,Animated macaw movie
+TOY,___ Story
+BOO,Monsters Inc toddler
+NED,Peter Parker's bestie
+JIN,The Astronaut singer
+IVE,K-pop group Baddie
+LEX,Superman's arch-rival
+SID,The sloth in Ice Age
+JOE,The protagonist of You
+GUS,Breaking Bad villain
+ALI,Beef actress Wong
+LOU,The Bear chef
+GUY,Free ___ movie
+YES,The Bear kitchen reply
+BEN,Actor Affleck
+DON,Draper of Mad Men
+TED,Lasso of Apple TV
+SAM,Frodo's hobbit friend
+BOB,Reggae legend Marley
+PAT,Longtime host Sajak
+TOM,Hanks or Cruise
+MEL,Comedy legend Brooks
+MAE,Screen legend West
+RON,Weasley of Hogwarts
+LEO,DiCaprio of Titanic
+LIZ,Taylor of Cleopatra
+ROD,Singer Stewart
+JON,Snow of Winterfell
+JIM,Carrey or Halpert
+PAM,Jenna Fischer role
+STU,Hangover dentist
+NAT,King Cole
+BEA,Arthur of Golden Girls
+REX,Toy Story dino
+ROY,Orbison or Kent
+RAY,Charles or Romano
+AVA,Gardner of Hollywood
+ABE,Vigoda or Lincoln
+MAC,Fleetwood ___
+RAT,The ___ Pack
+AIR,Jordan brand movie
+BEE,The ___ Gees
+MAD,___ Max movies
+JET,West Side Story gang
+LOU,Costello of comedy
+BUD,Abbott of comedy
+DES,Arnaz of I Love Lucy
+MIA,Farrow of film
+SID,Comedy legend Caesar
+DON,Knotts of Mayberry
+SAL,Mineo of Rebel
+ART,Carney of Honeymooners
+FLO,Diner waitress of TV
+ALF,Alien Life Form star
+MEL,Vocalist Torme
+PAT,Singer Boone
+JUD,Oklahoma! villain
+VAL,Actor Kilmer
+MEG,Actress Ryan
+EVA,Gabor of Green Acres
+ZSA,First Gabor sister
+TAB,Hunter of the 50s
+REX,Harrison of My Fair Lady
+RAE,Actress Issa
+JED,Clampett of TV
+VEE,Singer Bobby
+CAB,Calloway of jazz
+OTT,Mel of the Giants
+ORR,Bobby of the Bruins
+JAY,Leno of late night
+VIC,Damone of song
+LON,Chaney of horror
+FAY,Wray of King Kong
+ECE,Our discipline
+KAY,Kyser of big bands
+LEE,Actor Marvin
+DEE,Sandra of Gidget
+ANN,Margret of film
+NED,Flanders of Simpsons
+TEX,Avery of animation
+ELY,Tarzan actor Ron
+JOY,Behar of The View
+MAX,Smart of Get Smart
+WES,Craven of horror
+ACT,Movie segment
+ADO,Much ___ About Nothing
+AGE,The Golden ___
+AGO,Years in the past
+AIR,The ___ Up There
+ALF,TV's alien visitor
+ALI,The Greatest boxer
+ALL,___ About Eve
+AMY,Poehler or Winehouse
+AND,___ Justice for All
+ANI,Singer DiFranco
+ANN,Margret or Taylor
+ANT,Marvel's tiny hero
+APE,King Kong e.g.
+ARC,Story structure
+ARE,___ You the One?
+ARK,Noah's boat
+ARM,Leg's partner
+ART,Garfunkel or Carney
+ASH,Evil Dead hero
+ASP,Cleopatra's snake
+ASS,Stubborn animal
+ATE,Finished dinner
+AVA,Gardner or DuVernay
+AWE,Sense of wonder
+AXE,Body spray brand
+AXL,Singer Rose
+BAD,Michael Jackson hit
+BAG,Paper or plastic
+BAH,Scrooge's snort
+BAN,Prohibit
+BAR,Cheers setting
+BAT,Batman's symbol
+BAY,San Francisco site
+BEA,Arthur of Golden Girls
+BED,___ of Roses
+BEE,The ___ Gees
+BEN,Affleck or Stiller
+BET,Wager
+BIB,Lobster eater's gear
+BIG,Tom Hanks movie
+BIN,Storage spot
+BIT,Small amount
+BOA,Feather accessory
+BOB,Marley or Newhart
+BOG,Cranberry source
+BOO,Monsters Inc. kid
+BOW,David ___
+BOX,Cereal container
+BOY,___ George
+BRA,Lingerie item
+BUD,Light or Abbott
+BUM,Lazy person
+BUN,Burger bread
+BUS,Speed vehicle
+BUT,Baby Got ___
+BYE,___ ___ Birdie
+CAB,Yellow taxi
+CAD,Roguish man
+CAN,-Can dance
+CAP,Marvel's America
+CAT,Broadway musical
+CAW,Crow's cry
+CHI,-Town
+COB,Corn part
+COG,Gear tooth
+CON,___ Air movie
+COP,Beverly Hills ___
+COT,Folding bed
+COW,Farm animal
+COY,Bashful
+CRY,___ Baby film
+CUB,Wrigley Field player
+CUE,Pool hall stick
+CUP,Dixie product
+CUT,Director's shout
+DAD,Homer to Bart
+DAM,Hoover or beaver
+DAN,Rather or Aykroyd
+DAY,Doris or Green ___
+DEE,Sandra of Gidget
+DEN,Home office
+DES,Arnaz of comedy
+DEW,Mountain ___
+DID,___ You Hear?
+DIE,___ Hard
+DIG,To like slangily
+DIM,Not bright
+DIN,Loud noise
+DIP,Salsa partner
+DOC,Bugs Bunny's pal
+DOE,Female deer
+DOG,Snoop or Pluto
+DON,Draper or Knotts
+DOT,Polka pattern
+DRY,Martini style
+DUB,Reggae remix
+DUD,Broken firework
+DUE,Bill status
+DUG,Excavated
+DUO,Dynamic ___
+DYE,Hair colorist
+EAR,Van Gogh's loss
+EAT,___ Pray Love
+EBB,Tide's retreat
+EDD,The Byrnes actor
+EGG,The ___ and I
+EGO,Star-Lord's dad
+EKE,___ out a living
+ELF,Will Ferrell movie
+ELI,Manning or Roth
+ELK,Large animal
+ELM,Freddy Krueger's street
+ELY,Tarzan actor Ron
+EMU,Ostrich cousin
+END,___ of the Road
+EON,Billion years
+ERA,Swift's tour
+ERE,Before to poets
+ERR,To slip up
+ETA,Arrival guess
+EVA,Gabor or Longoria
+EVE,Wall-E's love
+EWE,Woolly animal
+EYE,Golden ___
+FAD,Pet rock e.g.
+FAN,Adoring follower
+FAR,___ from Heaven
+FAT,___ Albert
+FAX,Office machine
+FED,The G-man
+FEE,Entrance cost
+FEW,___ Good Men
+FEY,Tina of SNL
+FEZ,Doctor Who hat
+FIG,Newton cookie
+FIN,Shark part
+FIT,In good shape
+FIX,To repair
+FLO,Progressive lady
+FLU,Winter illness
+FLY,Jeff Goldblum film
+FOB,Key attachment
+FOE,Batman's rival
+FOG,Horror film mist
+FOO,___ Fighters
+FOP,Dandy man
+FOR,___ Your Eyes Only
+FOX,Megan or Jamie
+FRY,Futurama lead
+FUN,___ Home musical
+FUR,PETA's enemy
+GAD,Josh of Frozen
+GAG,Prank or joke
+GAL,Gadot of Wonder Woman
+GAP,Clothing retailer
+GAS,light movie
+GAY,The ___ Nineties
+GEE, Wiz!
+GEL,Hair product
+GEM,Ruby or Diamond
+GET,___ Out movie
+GIG,Musician's job
+GIN,___ and tonic
+GNU,Wildebeest
+GOB,Arrested Development role
+GOD,Morgan Freeman role
+GOO,Sticky mess
+GOT,Winter is coming show
+GUM,Chewing brand
+GUN,Top ___
+GUS,Breaking Bad villain
+GUY,Free ___ movie
+GYM,Workout spot
+HAD,___ Enough?
+HAG,Old witch
+HAL,2001 computer
+HAM,Radio operator
+HAN,Solo of Star Wars
+HAS,-been
+HAT,Cat's accessory
+HAY,Barn stuffing
+HEE, Haw TV show
+HEM,Sewing edge
+HEN,Egg producer
+HEY,___ Jude
+HIC,Drunken sound
+HID,Kept secret
+HIE,Make haste
+HIP,Trendy
+HIS,___ Girl Friday
+HIT,Top song
+HOB,The ___ Hunger Games
+HOD,Brick tray
+HOE,Garden tool
+HOG,Harley bike
+HOP,Bunny move
+HOT,___ Girl Summer
+HOW,___ I Met Your Mother
+HUB,Airport center
+HUE,Color shade
+HUG,Warm embrace
+HUM,Mumble-sing
+HUN,Attila's tribe
+HUT,Pizza ___
+ICE,Vanilla or Spice
+ICY,Cold and slick
+ILL,Licensed to ___
+IMP,Naughty child
+INK,Tattoo supply
+INN,Holiday ___
+ION,Charged particle
+IRE,Great anger
+IRK,To annoy
+ITS,___ a Wonderful Life
+IVY,Blue ___ Carter
+JAB,Boxing punch
+JAG,Sports car
+JAM,Pearl ___
+JAR,Cookie holder
+JAY,Leno or Z
+JED,Clampett of TV
+JET,West Side Story gang
+JIB,Sailboat part
+JIG,Lively dance
+JIM,Carrey or Halpert
+JOB,Work task
+JOE,Camel or Millionaire
+JOG,Slow run
+JON,Snow of Thrones
+JOT,Brief note
+JOY,Inside Out emotion
+JUG,Moonshine bottle
+JUT,Protrude
+KAY,Jewelry brand
+KED,Canvas shoe
+KEG,Beer barrel
+KEN,Barbie's beau
+KEY,Alicia of song
+KID,Billy the ___
+KIM,A Kardashian
+KIN,Family members
+KIP,Short nap
+KIT,Model set
+KOA,Campground chain
+LAB,Black dog breed
+LAD,Young boy
+LAG,Internet delay
+LAM,On the ___
+LAP,Pool length
+LAY,___ It on Me
+LEA,Grassy field
+LED,___ Zeppelin
+LEE,Stan or Bruce
+LEG,Drumstick
+LEI,Flower garland
+LEO,Titanic star
+LET,___ It Be
+LEV,Schreiber of film
+LEX,Luthor of DC
+LID,Jar topper
+LIE,Untruth
+LIP,Gloss target
+LIZ,Taylor or Lemon
+LOB,Tennis shot
+LOG,Yule ___
+LON,Chaney of horror
+LOP,Cut off
+LOT,Studio back lot
+LOU,Reed or Costello
+LOW,___ Rider song
+LOX,Bagel topping
+LUG,Carry with effort
+LUM,___ and Abner
+LUV,Sixties slang
+LUX,Light unit
+LYE,Soap chemical
+MAC,___ and cheese
+MAD,___ Men
+MAE,West or Whitman
+MAN,The ___ Swift song
+MAP,Dora's tool
+MAR,To damage
+MAT,Yoga surface
+MAW,Animal's mouth
+MAX,Smart or Mad
+MAY,___ December film
+MEG,Ryan or Griffin
+MEL,Brooks or Gibson
+MEN,___ in Black
+MET,Opera house
+MEW,Kitten sound
+MIA,Farrow or Goth
+MID,Middle for short
+MIG,Russian jet
+MIL,One thousandth
+MIX,Sir ___ -a-Lot
+MOB,The Mafia
+MOD,Sixties fashion
+MOO,Cow sound
+MOP,The ___ Tops
+MOW,Cut the grass
+MUD,Mississippi ___
+MUG,Coffee cup
+MUM,Silent
+NAB,Catch a crook
+NAG,To pester
+NAN,Indian bread
+NAP,Quick sleep
+NAS,Illmatic rapper
+NAT,King Cole
+NAY,No vote
+NED,Flanders of TV
+NEO,Matrix hero
+NET,Tennis barrier
+NEW,___ Girl show
+NIB,Pen tip
+NIL,Nothing
+NIP,/Tuck show
+NIT,Small detail
+NIX,To cancel
+NOD,Yes gesture
+NON,-stop
+NOR,Neither's partner
+NOT,Wayne's World joke
+NOW,___ That's Music
+NUB,Essential part
+NUN,The ___ horror
+NUT,Acorn e.g.
+OAF,Clumsy fellow
+OAK,Sturdy tree
+OAR,Rowing tool
+OBI,Kimono belt
+ODD,___ Couple
+ODE,Praising poem
+OFF,___ the Wall
+OFT,Often to poets
+OIL,Crude or olive
+OLD,___ School film
+OLE,Bullfight cry
+ONE,The ___ Neo
+ONO,Yoko or Lennon
+OOH,___ Child song
+OPT,Choose
+ORB,Sphere
+ORE,Mining find
+ORR,Hockey's Bobby
+OTT,Baseball's Mel
+OUR,___ Town play
+OUT,___ of Africa
+OWE,Have debt
+OWL,Winnie the Pooh bird
+OWN,To possess
+WOO,Ask Nick
+PAD,Bachelor's home
+PAL,Friend
+PAM,Anderson or Grier
+PAN,Peter or frying
+PAR,Golf score
+PAS,Step of dance
+PAT,Sajak or Benatar
+PAW,Animal foot
+PAY,___ It Forward
+PEA,Princess's nuisance
+PEG,Married with Children mom
+PEN,Sean or writing tool
+PEP,___ Talk
+PER,As ___ usual
+PET,___ Sematary
+PEW,Church bench
+PIC,Film for short
+PIE,American ___
+PIG,Babe or Wilbur
+PIN,Bowling target
+PIP,Gladys Knight's man
+PIT,Brad of film
+PLY,Paper thickness
+POD,Pea holder
+POE,Edgar Allan or Dameron
+POP,___ goes the weasel
+POT,Cooking vessel
+POW,Comic sound
+POX,Chicken ___
+PRO,Expert level
+PRY,Snoop
+PUB,British bar
+PUG,Small flat-faced dog
+PUN,Word play
+PUP,Young canine
+PUR,Cat sound
+PUT,___ on a Happy Face
+RAH,Cheerleader cry
+RAM,Los Angeles team
+RAN,I ___ So Far Away
+RAP,Music genre
+RAT,Pack member
+RAW,Uncooked
+RAY,Charles or Romano
+RED,Swift album
+REF,Official
+REI,Outdoor store
+REM,Losing My Religion band
+REP,Gym count
+REV,Engine sound
+REX,Toy Story dino
+RIB,BBQ item
+RID,Get ___ of
+RIG,Trucker's vehicle
+RIM,Wheel edge
+RIO,Animated bird film
+RIP,Rest in peace
+ROB,Lowe or Zombie
+ROC,Mythical bird
+ROD,Stewart or Serling
+ROE,Fish eggs
+ROT,Decay
+ROW,___ Your Boat
+ROY,Orbison or Kent
+RUB,Massage
+RUE,Euphoria character
+RUG,Floor covering
+RUM,Bacardi product
+RUN,___ Lola ___
+RUT,Routine
+RYE,Catcher in the ___
+SAC,Pouch
+SAD,Melancholy
+SAG,Actors' union
+SAP,Tree fluid
+SAW,Horror franchise
+SAY,___ Anything film
+SEA,The Old Man and the ___
+SEE,___ No Evil
+SET,Ready go partner
+SEW,Stitch
+SEX,___ and the City
+SHE,-Ra princess
+SHY,Timid
+SIB,Brother or sister
+SIC,Attack command
+SID,Caesar or Vicious
+SIN,City film
+SIP,Small drink
+SIR, Mix-a-Lot
+SIT,-com
+SKI,Winter sport
+SKY,Bond film fall
+SLY,Stallone nickname
+SOB,Cry loudly
+SOD,Lawn turf
+SOL,The sun
+SON, of Sam
+SOP,Bread dunk
+SOT,Drunkard
+SOW,Plant seeds
+SOY,Milk alternative
+SPA,Relaxing retreat
+SPY, Kids movie
+SRI,___ Lanka
+STU,Hangover dentist
+STY,Pig's home
+SUB,Underwater vessel
+SUE,Lynch or legal action
+SUM,Addition result
+SUN,The center star
+SUP,Dinner or "What's up?"
+TAB,Soda or Hunter
+TAD,Small amount
+TAG,Game of chase
+TAN,Sunbathe result
+TAP,___ Dance
+TAR,Black road stuff
+TEA,What gossipers spill
+TED,Lasso or Danson
+TEE,Golf ball stand
+TEN,et Nolan film
+THE, Godfather
+TIC,Twitch
+TIE,Formal wear
+TIL,___ Tuesday band
+TIN,Man of Oz
+TIP,Service bonus
+TOE,Big ___
+TOG,Dress up
+TOM,Hanks or Cruise
+TON,Heavy weight
+TOO,___ Hot to Handle
+TOP,___ Gun
+TOT,Toddler
+TOW,Pull a car
+TOY,___ Story
+TRY,Attempt
+TUB,Bath vessel
+TUG,___ of war
+TUX,Formal wear
+TWO,___ and a Half Men
+UGH,Disgust sound
+UMP,Baseball official
+URN,Coffee server
+USE,___ Your Illusion
+UTA,Hagen of acting
+VAL,Kilmer or Bertinelli
+VAN,Halen or Diesel
+VAT,Large tank
+VEE,The Letter ___
+VET,Animal doctor
+VIA,By way of
+VIC,Damone or Mackey
+VIE,To compete
+VIM,Energy or vigor
+VIN,Diesel or Scully
+VIP,Famous person
+VOW,Wedding promise
+VOX,Voice or amp
+WAD,Bundle of cash
+WAG,Tail movement
+WAN,Pale look
+WAR,___ of the Worlds
+WAS,___ Not Was band
+WAX,Museum medium
+WAY,'s World
+WEB,Spider-Man's tool
+WED,Tie the knot
+WEE,The ___ Hours
+WET, Hot American Summer
+WHO,Doctor ___
+WHY,___ Him? movie
+WIG,Sia's accessory
+WIN,Victory
+WIT,Humor
+WIZ,The ___ musical
+WOE,Great sorrow
+WOK,Cooking pan
+WON,___ Ton Soup
+WTF,Vulgar exclamation
+WOO,To court
+WOW,World of Warcraft
+WRY,Droll humor
+YAK,Chatter on
+YAM,Sweet potato
+YAP,High-pitched bark
+YAW,Ship's tilt
+YAY,Cheer
+YEA,Yes vote
+YEN,Japanese money
+YEP,Slangy yes
+YES,The Bear reply
+YET,Up to now
+YEW,Tree type
+YIP,Small bark
+YOB,British hooligan
+YOM,___ Kippur
+YON,Over there
+YOU,Netflix thriller
+YOW,Cry of pain
+YUK,Loud laugh
+YUM,Tasty sound
+YUP,Informal yes
+ZAG,Zig partner
+ZAP,Laser sound
+ZED,British Z
+ZEE,American Z
+ZEN,Peaceful state
+ZIG,Zag partner
+ZIP,Fastener
+ZIT,Blemish
+ZOO,Animal park

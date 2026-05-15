@@ -1,0 +1,794 @@
+ABEND,Spaete Tageszeit
+ADLER,Wappenvogel majestaetisch
+AGENT,Geheimer Beobachter
+AKTEN,Schriftstuecke Ordner
+AKTIV,Lebhaft taetig
+ALARM,Warnsignal
+ALBUM,Sammlung von Fotos
+ALGEN,Wasserpflanzen
+ALIBI,Unschuldsbeweis
+ALPHA,Erster griechischer Buchstabe
+ALTER,Zahl der Lebensjahre
+AMBOS,Schmiedeunterlage
+AMPEL,Verkehrssignal
+ANDER,Nicht dasselbe
+ANGEL,Ruete zum Fischen
+ANGST,Gefuehl der Furcht
+ANKER,Schiffshalterung
+APFEL,Rote Frucht vom Baum
+APRIL,Vierter Monat
+ARENA,Kampfplatz
+ARMEE,Militaerische Streitmacht
+ASCHE,Rueckstand vom Feuer
+ASKET,Enthaltsamer Mensch
+ASSEL,Kellertier
+ASTER,Herbstblume
+ATLAS,Buch mit Karten
+ATMEN,Luft holen
+AUDIO,Tontechnik
+AUTOR,Verfasser von Buechern
+BACKE,Wange oder Brotseite
+BADEN,In der Wanne waschen
+BAGEL,Ringbrot
+BALDE,Bald
+BALSA,Leichtes Holz
+BANDE,Gruppe
+BARON,Adelstitel
+BASIS,Grundlage
+BAUCH,Vorderseite des Rumpfes
+BAUEN,Errichten
+BAUER,Landwirt
+BEBEN,Zittern oder Erdbeben
+BEERE,Kleine Frucht
+BEIDE,Zwei zusammen
+BEIGE,Sandfarbe
+BESEN,Putzgeraet mit Borsten
+BESTE,Das Allergroesste
+BEULE,Schwellung nach Stoss
+BEUTE,Erbeutetes
+BIBEL,Heilige Schrift der Christen
+BIBER,Nagetier mit Kelle
+BIENE,Honigsammlerin
+BIEST,Wildes Tier
+BIRKE,Baum mit weisser Rinde
+BITTE,Gefaelligkeitsformel
+BLATT,Papier oder Pflanzenteil
+BLICK,Kurze Augenwendung
+BLIND,Nicht sehen koennend
+BLITZ,Helle Entladung im Gewitter
+BLOND,Helles Haar
+BLUME,Bluete auf Stiel
+BLUSE,Oberbekleidung Frau
+BODEN,Unterer Abschluss
+BOGEN,Gekruemmte Form
+BOMBE,Sprengsatz
+BONUS,Zusaetzliche Belohnung
+BRAUE,Augenbraue
+BRAUN,Farbe der Erde
+BRAUT,Frau am Hochzeitstag
+BREIT,Weit gerne
+BRETT,Flaches Stueck Holz
+BRIEF,Schriftliche Mitteilung
+BRUCH,Riss
+BRUST,Vorderer Oberkoerperteil
+BUCHE,Laubbaumart
+BUCHT,Kuestenabschnitt
+BUDEN,Einfache Haeuser
+CELLO,Streichinstrument
+CHAOS,Komplette Unordnung
+CHIPS,Snack Kartoffel
+CHLOR,Gelbes Gas im Pool
+CHROM,Glaenzendes Metall
+CLOWN,Figur im Zirkus
+CURRY,Indisches Gewuerz
+DACHS,Waldtier gestreift
+DAMPF,Wasserhitzegas
+DATUM,Kalendertag
+DAUER,Zeitspanne
+DECKE,Kuechentuch
+DEGEN,Stichwaffe
+DELLE,Eingedellte Stelle
+DEPOT,Lager fuer Waren
+DICHT,Ohne Luecken
+DIEBE,Langfinger
+DIELE,Flur im Haus
+DIENT,Form von dienen
+DIVAN,Liegemoebel
+DOGGE,Grosser Hund
+DONAU,Strom durch Wien
+DOSIS,Menge bei Medizin
+DRAHT,Duenner Metallfaden
+DRAMA,Theaterstueck
+DRANG,Starker Trieb
+DRAUF,Darauf
+DREHT,Form von drehen
+DROHT,Form von drohen
+DRUCK,Spannung oder Gedrucktes
+DUFTE,Ausgezeichnet
+DUNST,Leichter Nebel
+DURST,Verlangen nach Wasser
+EBENE,Flache Landschaft
+ECHTE,Wirkliche
+EDLER,Vornehmer
+EIBEN,Nadelbaeume
+EICHE,Starker Laubbaum
+EIFER,Grosse Energie
+EIGEN,Persoenlich
+EILEN,Sich beeilen
+EIMER,Tragbarer Behaelter
+EINEM,Dativ maennlich
+EINER,Nominativ maennlich
+EINES,Genitiv
+EISEN,Graues schweres Metall
+ELBEN,Elfen germanisch
+ELEND,Grosses Leid
+ELFEN,Maerchenwesen
+ELITE,Auslese der Besten
+EMAIL,Schmelzueberzug
+EMPOR,Hinauf
+ENGEL,Himmlischer Bote
+ENKEL,Sohn des Sohns
+ENTER,Taste auf Tastatur
+ERBEN,Nachlass erhalten
+ERLEN,Baumart am Wasser
+ERNST,Nicht spielerisch
+ERNTE,Einbringen der Feldfruechte
+ERSTE,Nummer eins
+ESSEN,Nahrung einnehmen
+ESSIG,Saure Wuerze
+ETAGE,Stockwerk
+ETHIK,Moralphilosophie
+EULEN,Nachtaktive Voegel
+FABEL,Lehrreiche Erzaehlung
+FADEN,Duenner Zwirn
+FAELL,Sturz
+FAHNE,Flagge
+FAHRT,Reise mit Fahrzeug
+FAKIR,Indischer Asket
+FALKE,Raubvogel zum Jagen
+FALLE,Geraet zum Fangen
+FALLS,Wenn
+FALTE,Knick im Stoff
+FAMOS,Grossartig
+FARCE,Posse
+FASAN,Waldhuhn bunt
+FASER,Duenner Strang
+FAUNA,Tierwelt
+FAUST,Geballte Hand
+FAXEN,Fisematenten
+FAZIT,Endergebnis einer Ueberlegung
+FEDER,Kiel eines Vogels
+FEIER,Festveranstaltung
+FEIND,Gegner
+FERNE,Grosse Entfernung
+FESTE,Feiern
+FIBEL,Erstes Lesebuch
+FIGUR,Gestalt
+FILME,Kinowerke
+FINDE,Form von finden
+FINNE,Bewohner Finnlands
+FIRMA,Unternehmen
+FISCH,Meeresbewohner schuppig
+FLACH,Nicht tief
+FLAIR,Atmosphaere
+FLEIS,Streben
+FLIRT,Neckische Anmache
+FLOSS,Wasserfahrzeug
+FLOTT,Zuegig
+FLUCH,Verwuenschung
+FLUSS,Fliessendes Gewaesser
+FONDS,Anlagetopf
+FORST,Bewirtschafteter Wald
+FORUM,Oeffentlicher Diskussionsplatz
+FRACK,Festlicher Anzug
+FRAGE,Erkundigung
+FRANK,Maennlicher Vorname
+FRECH,Naseweis
+FREIE,Nicht gefangen
+FREUD,Wiener Psychoanalytiker
+FRIED,Ruhezustand
+FROMM,Tief religioes
+FRONT,Vorderseite
+FROST,Eiseskaelte
+FUCHS,Gewitzter Waldbewohner rot
+FUNDE,Entdeckungen
+FUNKE,Glut
+GABEL,Besteck mit Zinken
+GALLE,Verdauungsorgan bitter
+GASSE,Enge Strasse
+GEBEN,Ueberreichen
+GEBET,Andacht
+GEHEN,Sich fortbewegen
+GEIGE,Streichinstrument
+GEIST,Seele oder Gespenst
+GELBE,Farbe der Sonne
+GENIE,Hochintelligenter Mensch
+GENUG,Ausreichende Menge
+GERNE,Freiwillig
+GLANZ,Helles Schimmern
+GLEIS,Schienenweg
+GLIED,Teil des Koerpers
+GLOBE,Erdkugel
+GLUCK,Positives Widerfahrnis
+GNADE,Barmherzigkeit
+GOLFS,Spielplaetze
+GOTIK,Mittelalterliche Baukunst
+GRAMM,Kleine Gewichtseinheit
+GRAND,Grober Kies
+GRAPH,Bildliche Darstellung
+GREIF,Fabeltier Adlerloewe
+GREIS,Sehr alter Mann
+GROSS,Nicht klein
+GRUBE,Tiefes Loch im Boden
+GRUND,Ursache
+GRUSS,Begruessung
+GUMMI,Elastische Masse
+GURKE,Gruenes Gemuese
+HABEN,Im Besitz haben
+HAFEN,Anlegestelle
+HAGEL,Eiskoerner
+HAKEN,Gebogenes Metallteil
+HALBE,Die Haelfte
+HALLE,Grosser Raum
+HALLO,Begruessungsruf
+HANDY,Mobiltelefon
+HARFE,Saiteninstrument
+HASEL,Nusstrauch
+HAUCH,Leichter Atem
+HAUEN,Schlagen
+HEBEL,Hilfsmittel Physik
+HECKE,Bewachsener Rand
+HEFTE,Duenne Buecher
+HEISS,Sehr warm
+HEMDE,Oberteile
+HENNE,Weibliches Huhn
+HERDE,Gruppe Tiere
+HITZE,Grosse Waerme
+HOFER,Oesterreichischer Discounter
+HOHLE,Hohle Raeume
+HONIG,Sueses Bienenhonig
+HORDE,Menge
+HOREN,Form von hoeren
+HORNE,Hoerner
+HOSEN,Beinbekleidung
+HUMUS,Erdboden
+HUNDE,Mehrere Hunde
+HUPEN,Hupsignal geben
+HYPER,Uebertrieben
+IDEAL,Vollkommen
+IDEEN,Gedankliche Einfaelle
+IDYLL,Friedliches Bild
+IMMER,Zu jeder Zeit
+IMMUN,Widerstandsfaehig
+INDER,Bewohner Indiens
+INNEN,Drinnen
+INSEL,Land im Meer
+INTER,Zwischen
+INTRO,Einleitung
+IRENE,Weiblicher Vorname
+ISLAM,Weltreligion
+JACKE,Oberbekleidung
+JAGEN,Nach Beute suchen
+JAHRE,Mehrere Jahre
+JAKOB,Maennlicher Vorname
+JAPAN,Inselstaat Asien
+JEANS,Blaue Hose
+JEMEN,Arabisches Land
+JETTE,Weiblicher Vorname
+JOKER,Karte mit Clown
+JUBEL,Freudenausdruck
+JULIA,Weiblicher Vorname
+JULIE,Weiblicher Vorname
+JUNGE,Maennlicher Nachwuchs
+JUWEL,Kostbarer Stein
+KABEL,Stromleitung
+KAESE,Milchprodukt gereift
+KAFKA,Prager Autor
+KAKAO,Braunes Getraenkpulver
+KALBE,Form von kalben
+KAMEL,Wuestentier
+KAMIN,Feuerstelle
+KANAL,Wasserweg
+KANON,Musikstueck
+KAPPE,Muetze
+KARTE,Papier zum Spielen
+KASSE,Ort wo Geld liegt
+KASTE,Hierarchiestufe
+KATER,Maennliche Katze
+KATZE,Maeuseraeuberin
+KEGEL,Spielfigur
+KERBE,Einschnitt im Holz
+KERZE,Licht mit Docht
+KETTE,Verbundene Glieder
+KINDE,Kind
+KIOSK,Kleiner Verkaufsstand
+KISTE,Holzbehaelter
+KLAMM,Enge Bergschlucht
+KLANG,Ton
+KLEID,Bekleidung fuer Frauen
+KLICK,Mausgeraeusch
+KLIMA,Wetterzustand
+KLOSS,Teigkugel
+KLUFT,Tiefer Felsspalt
+KNABE,Junger Bursche
+KNALL,Lauter Schuss
+KNAPP,Nur gerade so
+KNAUF,Runder Griff
+KNICK,Biegung scharf
+KNIEE,Beingelenke
+KNOPF,Verschluss am Hemd
+KOCHE,Bereite Essen
+KOHLE,Brennstoff schwarz
+KOKOS,Tropennuss
+KOLIK,Bauchschmerz stark
+KOMET,Himmelskoerper mit Schweif
+KOMMA,Satzzeichen gebogen
+KONTO,Bankverbindung
+KOPIE,Doublette
+KORAL,Meeresbewohner
+KORAN,Heilige Schrift Islams
+KOSAK,Russischer Reitersoldat
+KRAFT,Staerke
+KRAMM,Zeug
+KRANZ,Bluetenreif
+KREIS,Rundung
+KREML,Moskauer Regierungsitz
+KREUZ,Symbol
+KRIEG,Bewaffnete Auseinandersetzung
+KRONE,Koenigsstern
+KRUPP,Industrielle Familie
+KUCHE,Backwerk
+KUGEL,Runde Form
+KUHLE,Delle
+KUNST,Kreatives Schaffen
+KURVE,Biegung
+KUSSE,Mundberuehrungen
+LABOR,Arbeitsraum
+LADEN,Verkaufsstelle
+LAGER,Aufbewahrungsort
+LAKEN,Betttuch
+LAMPE,Quelle des Lichts
+LANGE,Seit viel Zeit
+LANZE,Lange Waffe
+LARVE,Kaefer Fruehstadium
+LASCH,Saftlos
+LATTE,Balken
+LAUNE,Stimmung
+LEBEN,Existieren
+LEBER,Entgiftungsorgan
+LEERE,Das Nichts
+LEGAL,Gesetzmaessig
+LEHNE,Rueckenstuetze
+LEHRE,Unterricht
+LEICH,Toter Koerper
+LEINE,Hundegurt
+LEISE,Nicht laut
+LEMUR,Madagaskar Primate
+LEUTE,Personen
+LEVEL,Ebene
+LICHT,Das Sehen moeglich machen
+LIEBE,Starke Zuneigung
+LIFTE,Aufzuege
+LIGHT,Mit weniger Kalorien
+LILIE,Blume elegant
+LIMES,Roemischer Grenzwall
+LINDE,Baum mit Herzblaettern
+LINIE,Gerade Strich
+LINSE,Optisches Glas
+LIPPE,Mundrand weich
+LISTE,Geordnete Aufzaehlung
+LITER,Fluessigkeitseinheit
+LOBEN,Anerkennende Worte
+LOCHE,Oeffnungen
+LOGIK,Folgerichtiges Denken
+LOKAL,Gastwirtschaft
+LOTUS,Wasserpflanze
+LOUIS,Franzoesischer Vorname
+LUCAS,Maennlicher Vorname
+LUCHS,Raubkatze mit Quasten
+LUEGE,Unwahrheit
+LUFTE,Form von lueften
+LUKAS,Maennlicher Vorname
+LUNGE,Atmungsorgan
+LUXUS,Prunk
+MACHE,Form von machen
+MACHO,Kerliger Mann
+MACHT,Herrschaftsbefugnis
+MAERZ,Dritter Monat
+MAGER,Duenn
+MAGIE,Zauberei
+MAGMA,Fluessiges Gestein
+MAKEL,Fehler
+MANNA,Himmlisches Essen
+MARGE,Gewinnspanne
+MARIE,Weiblicher Vorname
+MARKE,Logo einer Firma
+MARKT,Verkaufsveranstaltung
+MASSE,Grosse Menge
+MATCH,Wettkampf
+MATTE,Weicher Untergrund
+MAUER,Aufrechte Steinwand
+MAXIM,Grundsatz
+MEILE,Laengeneinheit
+MEIST,Zum groessten Teil
+MENGE,Ansammlung
+METAL,Hartes Material
+METER,Laengenmass
+MIENE,Gesichtsausdruck
+MIETE,Geld fuer Wohnung
+MILBE,Kleines Spinnentier
+MILCH,Weisses Kuhgetraenk
+MILDE,Sanftheit
+MINUS,Rechenzeichen
+MITTE,Zentraler Punkt
+MODEL,Kleiderdarsteller
+MODEM,Internetgeraet
+MODUL,Baustein
+MOLCH,Amphibien Art
+MOLKE,Kaeseabfall
+MONAT,Ein Zwoelftel Jahr
+MONDE,Trabanten
+MOPED,Kleines Motorrad
+MORAL,Ethisches Verhalten
+MOTOR,Maschinenantrieb
+MUSIK,Tonkunst
+MUSSE,Freie Zeit
+MUTIG,Furchtlos
+MUTTI,Mama Kosename
+NABEL,Bauchmitte
+NACHT,Dunkle Zeit
+NADEL,Spitzes Duennes
+NAHEN,Sich naehern
+NAMEN,Bezeichnungen
+NARBE,Verheilte Wunde
+NASEN,Riechorgane
+NATUR,Alles Natuerliche
+NEBEL,Wolken bodennah
+NEBEN,Daneben
+NERVE,Nerv
+NETTE,Freundliche Person
+NETZE,Geflechte
+NEUES,Frisches
+NICHT,Nein
+NIERE,Organ paarig
+NIETE,Fehlschlag
+NOBEL,Vornehm
+NOTAR,Juristischer Beurkunder
+NOTEN,Musikzeichen
+NOVEL,Erzaehlung kurz
+NOVUM,Neuheit
+NUDEL,Pasta
+NUGAT,Suesswarenfuellung
+OBOEN,Blasinstrumente
+OFFEN,Auf
+OHREL,Zwiebel
+OHREN,Hoerorgane
+OKTAV,Buchformat klein
+OLIVE,Gruene Baumfrucht
+OMBUD,Beschwerdestelle
+ONKEL,Bruder des Vaters
+OPFER,Darbringung
+ORGAN,Koerperliches Organ
+ORGEL,Kircheninstrument
+ORGIE,Ausschweifende Feier
+ORKAN,Starker Sturm
+OSTEN,Sonnenaufgang Richtung
+OTTER,Fischraeuber
+PAKET,Versandstueck
+PANDA,Schwarz weisser Baer
+PANIK,Ploetzliche Angst
+PAPST,Katholisches Oberhaupt
+PARIS,Hauptstadt Frankreichs
+PARTY,Feier
+PASTA,Nudelgericht
+PAUSE,Unterbrechung
+PEDAL,Fussbetaetigung
+PERLE,Muschelkugel
+PESTE,Seuchen
+PFAHL,Senkrechter Stock
+PFAND,Sicherheitsleistung
+PFAUE,Schillernde Voegel
+PFEIL,Spitzes Geschoss
+PFERD,Reittier
+PFIFF,Schriller Ton
+PFLUG,Bodenbearbeitung
+PHASE,Zeitabschnitt
+PIANO,Tasteninstrument
+PICKE,Spitzhacke
+PILLE,Arzneitablette
+PILOT,Flugzeugfuehrer
+PINIE,Mittelmeerkiefer
+PIRAT,Seeraeuber
+PISTE,Ski oder Rennbahn
+PIZZA,Italienischer Fladen
+PLAGE,Quaelerei
+PLANE,Wasserdichte Decke
+PLATZ,Offener Ort
+POCKE,Hautkrankheit
+POSER,Wichtigtuer
+POSTE,Stelle
+PRAEC,Genau
+PRALL,Voll und rund
+PREIS,Kosten fuer Ware
+PRIMA,Vorzueglich
+PRINZ,Koenigssohn
+PRISE,Kleine Menge
+PROBE,Versuch
+PROFI,Fachmann
+PROSA,Nicht Gedicht
+PROST,Zutrinken
+PRUDE,Zimperlich
+PSALM,Gebetsgesang
+PUDEL,Lockenhund
+PUMPE,Foerdergerat
+PUPPE,Spielzeugfigur
+QUOTE,Anteil prozentual
+RABEN,Schwarze Voegel
+RADIO,Rundfunkgeraet
+RAPID,Schnell lateinisch
+RAPPE,Schwarzes Pferd
+RASEN,Gruene Flaeche
+RASSE,Spezies
+RATTE,Graues Nagetier
+RAUBE,Form von rauben
+RAUCH,Schwarze Wolke Feuer
+RAUPE,Schmetterlingslarve
+RAYON,Kunstseide
+REDEN,Ansprachen
+REDET,Spricht
+REGAL,Einbauschrank
+REGEL,Vorschrift
+REGEN,Wasser vom Himmel
+REGIE,Spielleitung
+REIBE,Kuechengeraet
+REICH,Wohlhabend
+REIFE,Gereifte Frucht
+REIHE,Linie hintereinander
+REINE,Saubere
+REISE,Unterwegs sein
+REITE,Form von reiten
+RENNE,Laufe schnell
+RENTE,Pension
+RESET,Neustart
+REVUE,Buehnenshow
+RHEIN,Europaeischer Fluss
+RINDE,Aussenschicht Baum
+RINGE,Schmuckstuecke
+RINNE,Ablaufrille
+ROBBE,Meerestier Fisch
+ROLLE,Runde drehbare Scheibe
+ROMAN,Langes Buchwerk
+ROMEO,Liebhaberfigur
+ROSEN,Bluetenblumen
+ROUGE,Rot franzoesisch
+RUBIN,Roter Edelstein
+RUFEN,Form von rufen
+RUHEN,Ausruhen
+RUHIG,Ruhevoll
+RUINE,Ueberreste Bauwerk
+RUNDE,Kreisgang
+RUSSE,Bewohner Russlands
+SAEGE,Werkzeug mit Zacken
+SAHNE,Fetteste Milchschicht
+SAKKO,Jacke
+SALAT,Rohkost gruen
+SALBE,Creme
+SALON,Empfangsraum
+SALTO,Purzelbaum in der Luft
+SAMBA,Brasilianischer Tanz
+SAMEN,Pflanzenkeime
+SANDE,Feine Koerner
+SANFT,Weich einfuehlsam
+SATAN,Teufelsname
+SATYR,Mischwesen aus der Antike
+SATZE,Saetze
+SAUCE,Fluessige Beigabe
+SAUER,Wie Essig
+SAUNA,Schwitzbad finnisch
+SCHAF,Wolltier
+SCHAH,Persischer Herrscher
+SCHAL,Halstuch
+SCHAU,Blick oder Show
+SCHON,Bereits
+SCHUH,Fussbekleidung
+SEELE,Innerer Kern
+SEIFE,Waschmittel fest
+SEITE,Flaeche im Buch
+SENAT,Hochschulrat
+SENFE,Form von senfen
+SETZE,Platziere
+SICHT,Blickfeld
+SIEBE,Filter
+SIEGE,Triumphe
+SILBE,Teil eines Wortes
+SINGE,Form von singen
+SIRUP,Zaehe Fluessigkeit
+SITTE,Brauch
+SKULL,Ruder beim Rudersport
+SLANG,Umgangssprache
+SOCKE,Fussbekleidung duenn
+SOGAR,Selbst dies
+SOHNE,Maennliche Kinder
+SOLAR,Sonnenergetisch
+SONDE,Messgeraet
+SONNE,Unser Zentralstern
+SORGE,Kummer
+SORTE,Typ
+SPAET,Verspaetet
+SPALT,Schmaler Zwischenraum
+SPARE,Lege zurueck
+SPEER,Wurfgeschoss
+SPEZI,Cola Orangen Gemisch
+SPIEL,Unterhaltung
+SPION,Geheimer Beobachter
+SPITZ,Wie eine Nadel
+SPORE,Pilzvermehrungszelle
+SPORT,Koerperliche Aktivitaet
+SPURE,Abdrucke
+STAAT,Gemeinwesen
+STADT,Grosse Siedlung
+STARK,Grosse Kraft habend
+START,Beginn
+STATT,Anstatt
+STAUB,Feine Partikel
+STEIN,Fester Gesteinsbrocken
+STERN,Heller Himmelspunkt
+STICH,Zeichnung oder Wunde
+STIEL,Griff oder Stamm
+STILL,Ruhig
+STIRN,Oberer Gesichtsteil
+STOCK,Gehstab oder Etage
+STOFF,Material
+STOLZ,Selbstbewusst
+STOPP,Anhalten
+STORE,Laden
+STOSS,Drueckender Schlag
+STROH,Trockene Halme
+STROM,Elektrische Energie
+STUFE,Treppenabsatz
+STUHL,Sitzmoebel mit Lehne
+STUMM,Sprachlos
+STURM,Heftiger Wind
+STURZ,Plotzlicher Fall
+SUCHE,Finde etwas
+SUCHT,Abhaengigkeit
+SUPER,Ueberragend
+SUPPE,Heisse Fluessigkeit
+SUSHI,Japanisches Reisgericht
+TABAK,Raucherwarepflanze
+TAFEL,Zum Schreiben
+TAKTE,Rhythmen
+TALAR,Amtskleidung Richter
+TALER,Alte Muenze
+TANGO,Paartanz
+TANNE,Nadelbaum
+TANTE,Schwester Elternteil
+TAPIR,Asiatisches Tier
+TARIF,Preisliste
+TASSE,Henkelgefaess
+TASTE,Klavierdruecker
+TAUBE,Friedensvogel
+TAUCH,Gehe unter Wasser
+TAUEN,Schmilzt
+TAUFE,Kirchliches Ritual
+TEAMS,Mannschaften
+TEICH,Kleines Gewaesser
+TEMPO,Geschwindigkeit
+TENOR,Hoher Saenger
+TERMI,Endgueltig
+TESTE,Pruefe
+THEKE,Verkaufstresen
+THEMA,Besprochene Sache
+THESE,Behauptung
+TIARA,Kopfschmuck
+TIGER,Gestreifte Katze
+TISCH,Platte auf Beinen
+TITAN,Metall leicht und fest
+TITEL,Bezeichnung eines Werks
+TOAST,Geroestetes Brot
+TODES,Des Todes
+TONNE,Grosser Behaelter
+TOPFE,Pflanzgefaesse
+TORTE,Kuchen hoch geschichtet
+TOTEN,Verstorbene
+TOXIN,Gift biologisch
+TRAGE,Liegeflaeche zu tragen
+TRAUM,Bilder im Schlaf
+TREUE,Aufrichtigkeit
+TRICK,Listige Handlung
+TRIEB,Neigung
+TRINK,Schluck
+TRITT,Fusstritt
+TROPF,Fluessigkeitstropfen
+TROST,Mitgefuehl
+TRUBE,Unklar
+TRUHE,Alter Kasten
+TULPE,Fruehlingsbluete
+TYPEN,Arten von Menschen
+UEBER,Oberhalb
+UFERN,Flussraender
+UHREN,Mehrere Zeitanzeiger
+ULKIG,Komisch
+ULMEN,Laubbaeume
+UNGAR,Aus Ungarn
+UNMUT,Schlechte Laune
+VEGAN,Ohne Tierprodukte
+VENUS,Liebesgoettin Planet
+VERDI,Opernkomponist italienisch
+VERSE,Gedichtzeilen
+VESPA,Moto
+VIDEO,Film
+VIERE,Vier Elemente
+VILLA,Grosses Haus
+VINYL,Schallplattenmaterial
+VIREN,Krankheitserreger kleinste
+VOGEL,Tier mit Fluegeln
+WAAGE,Massgeraet Gewicht
+WAFFE,Ruestgegenstand
+WAGEN,Auto
+WAHLE,Entscheide
+WAHRE,Richtige
+WALDE,Im Wald
+WALZE,Rolle
+WANDE,Waende
+WANGE,Gesichtspartie
+WAREN,Existierten
+WATTE,Weiche Baumwollfuellung
+WEBER,Stoffmacher
+WEGEN,Aus Grund von
+WEHEN,Wehen Wind
+WEICH,Nicht hart
+WEIHE,Segen oder Raubvogel
+WEINE,Getraenke
+WEISE,Kluger Mensch
+WEITE,Entfernung
+WELKE,Verblaetteren
+WELLE,Bewegtes Wasser
+WELPE,Hundebaby
+WENDE,Drehe um
+WERBE,Reklame
+WERDE,Wandele
+WERFT,Schiffsbauplatz
+WERKE,Schoepfungen
+WERTE,Gueltigkeiten
+WESEN,Person
+WESER,Norddeutscher Fluss
+WESPE,Gelbe Hornisse
+WETTE,Einsatz bei Spiel
+WIESE,Gruenes Stueck Land
+WILDE,Wilde Tiere
+WINKE,Gruesse mit der Hand
+WITZE,Lustige Geschichten
+WOCHE,Sieben Tage am Stueck
+WOHER,Aus welcher Richtung
+WOHIN,In welche Richtung
+WOHNT,Lebt irgendwo
+WOLKE,Weisser Dunst am Himmel
+WOLLE,Schafshaar
+WONNE,Tiefes Gluecksgefuehl
+WORTE,Mehrere Ausdruecke
+WRACK,Gesunkenes Schiff
+WUCHS,Ist gewachsen
+WUNDE,Hautverletzung
+WURDE,Wurde gemacht
+WURST,Fleischprodukt
+YACHT,Freizeitschiff
+YOGIS,Meditierende Personen
+ZAHLE,Begleiche Rechnung
+ZAHNE,Kauknochen
+ZARTE,Empfindliche
+ZECHE,Grubenbetrieb
+ZECKE,Blutsaugendes Tier
+ZEDER,Nadelbaum
+ZEHEN,Fussfinger
+ZEIGE,Weise den Weg
+ZEILE,Linie Text
+ZELLE,Grundbaustein Leben
+ZELTE,Mobile Unterkuenfte
+ZENIT,Hoechster Punkt
+ZIEGE,Meckerndes Haustier
+ZITAT,Woertliche Wiedergabe
+ZOELL,Abgaben
+ZONEN,Abgegrenzte Gebiete
+ZUCHT,Gezielte Fortpflanzung
+ZUNGE,Organ im Mund

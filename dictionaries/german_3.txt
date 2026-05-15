@@ -1,0 +1,422 @@
+AAL,Schlangenfoermiger Fisch
+AAR,Adler altertuemlich
+AAS,Verwesendes Tier
+ABC,Alphabet
+ABO,Zeitungsbestellung auf Zeit
+ABT,Leiter eines Klosters
+ACH,Interjektion des Erstaunens
+ADE,Abschiedsgruss
+AHA,Ausruf des Verstehens
+AHO,Indianischer Kriegsruf
+AIR,Luft englisch
+AKT,Teil eines Theaterstuecks
+ALE,Englisches Bier
+ALK,Nordischer Seevogel
+ALL,Weltraum
+ALM,Hochweide in den Bergen
+ALP,Bergweide
+ALS,Vergleichswort
+ALT,Nicht jung
+AMT,Behoerde der Verwaltung
+ANS,An das zusammengezogen
+APP,Anwendung auf dem Handy
+ARA,Bunter Papagei
+ARD,Oeffentlicher Sender
+ARG,Schlimm
+ARM,Glied am Koerper
+ART,Weise oder Gattung
+ASE,Germanische Gottheit
+ASS,Spitzenspieler im Sport
+AUA,Schmerzlaut
+AUE,Wiese am Fluss
+AUF,Oben auf etwas
+AUS,Heraus
+AVE,Gegruesst seiest du
+BAD,Raum mit Wanne
+BAH,Ausruf des Abscheus
+BAI,Kleine Bucht
+BAR,Theke mit Getraenken
+BAT,Vergangenheit von bitten
+BAU,Errichtung
+BEA,Weiblicher Vorname kurz
+BEB,Anfang eines Erdstosses
+BEI,Neben oder an
+BEN,Maennlicher Vorname kurz
+BIM,Klang einer kleinen Glocke
+BIN,Erste Person von sein
+BIO,Aus oekologischer Landwirtschaft
+BIS,Zeitlich begrenzend
+BIT,Kleinste Dateneinheit
+BMW,Bayerischer Autohersteller
+BOA,Wuergeschlange
+BOB,Schlitten mit Kufen
+BOE,Kurzer heftiger Wind
+BON,Gutschein
+BOT,Automatisierter Helfer
+BOX,Schachtel oder Kasten
+BRD,Bundesrepublik Abkuerzung
+BRR,Kaelteschauer
+BUG,Fehler im Programm
+BUH,Missfallensruf
+BUS,Oeffentliches Fahrzeug
+CEO,Firmenchef englisch
+CHA,Lateinamerikanischer Tanz
+CHI,Griechischer Buchstabe
+CIA,US Geheimdienst
+CNN,Amerikanischer Sender
+COL,Bergpass
+COR,Herz lateinisch
+CUP,Pokalwettbewerb
+DAS,Saechlicher Artikel
+DDR,Ostdeutschland Abkuerzung
+DEM,Dativ maennlich
+DEN,Akkusativ maennlich
+DEO,Koerperpflegemittel
+DER,Maennlicher Artikel
+DES,Genitiv maennlich
+DFB,Deutscher Fussballverband
+DIA,Projektionsbild
+DIE,Weiblicher Artikel
+DIM,Dunkel englisch
+DIN,Deutsche Industrienorm
+DIP,Tunke fuer Chips
+DIR,Dativ von du
+DOC,Arzt umgangssprachlich
+DOG,Englisches Wort fuer Hund
+DOM,Grosse Kirche
+DPA,Deutsche Nachrichtenagentur
+DSL,Breitbandanschluss
+DUO,Zweiergruppe
+DUR,Heitere Tonart in der Musik
+DVD,Optische Speicherscheibe
+EBE,Dritte Person Einzahl Form von sein
+ECK,Kante oder Winkel
+EFF,Buchstabe F ausgeschrieben
+EGO,Das eigene Selbst
+EHE,Heirat zwischen Personen
+EHR,Achtung vor jemandem
+EID,Feierliches Versprechen
+EIL,Dringlichkeit
+EIN,Unbestimmter Artikel
+EIS,Gefrorenes Wasser
+EKG,Herzstromkurve
+ELB,Germanischer Fluss
+ELF,Zahl nach zehn
+EMO,Gefuehlsbetonte Jugendkultur
+EMS,Deutscher Fluss
+END,Schluss
+EOS,Goettin der Morgenroete
+ERZ,Mineral im Berg
+ESA,Europaeische Raumfahrtbehoerde
+ESC,Fluchttaste auf der Tastatur
+ESS,Nimm Nahrung zu dir
+ETA,Griechischer Buchstabe
+ETC,Und so weiter
+EVA,Erste Frau in der Bibel
+EWE,Mutterschaf
+FAD,Langweilig
+FAN,Begeisterter Anhaenger
+FAX,Fernkopiergeraet
+FBI,US Bundespolizei
+FDP,Liberale deutsche Partei
+FED,Amerikanische Zentralbank
+FEE,Maerchenwesen mit Fluegeln
+FEH,Pelz des Eichhoernchens
+FEZ,Roter tuerkischer Hut
+FIB,Kleine Luege
+FIS,Tonbezeichnung in der Musik
+FIT,Sportlich gesund
+FIX,Schnell oder bestimmt
+FLO,Maennlicher Vorname kurz
+FOE,Feind
+FOG,Nebel englisch
+FON,Kurzwort fuer Telefon
+FUN,Spass englisch
+GAB,Vergangenheit von geben
+GAG,Lustiger Einfall
+GAR,Fertig gekocht
+GAU,Groesster anzunehmender Unfall
+GEH,Entferne dich
+GEL,Zaehfluessige Substanz
+GEN,Erbanlage im Koerper
+GEO,Erdkunde Vorsilbe
+GIB,Imperativ von geben
+GIG,Musikauftritt
+GIN,Englischer Wacholderschnaps
+GMT,Weltzeit Abkuerzung
+GNU,Afrikanisches Steppentier
+GPS,Ortungssystem
+GRO,Zwoelf Dutzend
+GUT,Positiv bewertet
+HAG,Hecke dichter Bewuchs
+HAH,Lachlaut
+HAI,Raubfisch im Meer
+HAT,Besitzt etwas
+HAU,Schlage
+HEB,Imperativ von heben
+HEH,Ausruf des Unglaubens
+HER,In Richtung zum Sprecher
+HEU,Getrocknetes Gras
+HEY,Lockerer Gruss
+HIN,In Richtung weg
+HIP,Angesagt trendig
+HIT,Erfolgssong
+HIV,Virus der Immunschwaeche
+HOF,Bauernhof
+HUB,Kleine Erhebung
+HUF,Fussstueck beim Pferd
+HUI,Ausruf der Freude
+HUT,Kopfbedeckung
+IBM,Computerhersteller
+ICE,Schneller Zug
+ICH,Erste Person
+IDA,Weiblicher Vorname
+IHM,Dativ maennlich
+IHN,Akkusativ maennlich
+IHR,Zweite Person Mehrzahl
+ILM,Deutscher Fluss
+IMP,Kleiner Kobold
+INS,In das zusammengezogen
+ION,Geladenes Teilchen
+IRA,Weiblicher Vorname
+IRE,Bewohner Irlands
+IRR,Nicht bei Sinnen
+ISO,Internationale Normung
+ISS,Imperativ von essen
+IST,Gegenwart von sein
+IWF,Internationaler Waehrungsfonds
+JAH,Plotzlich
+JAU,Ja umgangssprachlich
+JET,Strahlflugzeug
+JOB,Arbeitsstelle
+JOD,Chemisches Element
+JOT,Sehr kleine Menge
+JUL,Altnordisches Winterfest
+JUX,Scherz Spass
+KAI,Mauer im Hafen
+KAM,Ist angekommen
+KAP,Vorspringender Kuestenteil
+KAT,Abgasreiniger im Auto
+KEN,Wissen
+KFZ,Motorfahrzeug Abkuerzung
+KGB,Sowjetischer Geheimdienst
+KID,Jugendliche Person
+KIR,Franzoesischer Aperitif
+KLO,Toilette umgangssprachlich
+KOB,Antilope in Afrika
+KOI,Japanischer Zierfisch
+KOT,Ausscheidung
+KUH,Weibliches Rind
+KUR,Erholungsbehandlung
+LAB,Enzym zur Kaeseherstellung
+LAG,Vergangenheit von liegen
+LAN,Lokales Computernetz
+LAS,Vergangenheit von lesen
+LAU,Nicht heiss
+LAX,Locker nachlaessig
+LEA,Weiblicher Vorname kurz
+LEE,Windabgewandte Seite
+LEG,Imperativ von legen
+LEI,Hawaiianische Blumenkette
+LEV,Bulgarische Waehrung
+LID,Hautfalte am Auge
+LKW,Lastkraftwagen
+LOB,Anerkennende Worte
+LOG,Schiffstagebuch
+LOK,Maschine vor den Wagen
+LOS,Nummernzettel
+LOT,Mass oder Bleigewicht
+LUG,Dachluke oder Betrug
+MAG,Form von moegen
+MAI,Fuenfter Monat
+MAL,Einmal oder Zeichen
+MAN,Unbestimmtes Pronomen
+MAP,Karte englisch
+MET,Honigwein
+MFG,Gruss am Briefende
+MIA,Weiblicher Vorname
+MIR,Dativ von ich
+MIT,Gemeinsam mit
+MOB,Poebel
+MRT,Medizinisches Bildverfahren
+MUH,Laut einer Kuh
+MUS,Breiige Speise
+MUT,Tapferkeit gegen Angst
+NAH,Nicht fern
+NBA,Amerikanische Basketballliga
+NEE,Umgangssprache nein
+NEO,Neu Vorsilbe
+NEU,Frisch
+NFL,Amerikanische Footballliga
+NIE,Zu keiner Zeit
+NIL,Afrikanischer Fluss
+NIX,Umgangssprachlich nichts
+NON,Lateinisch nein
+NOT,Schwierige Lage
+NUN,Jetzt
+NUR,Ausschliesslich
+OBI,Guertel zum Kimono
+ODE,Feierliches Gedicht
+OEL,Fluessiges Fett
+OFT,Viele Male
+OHA,Ausruf der Ueberraschung
+OHM,Einheit elektrischer Widerstand
+OHO,Ausruf der Ueberraschung
+OHR,Hoerorgan
+OLE,Spanischer Jubelruf
+OLM,Hoehlensalamander
+OMA,Grossmutter informell
+OMI,Grossmutter Kosename
+OPA,Grossvater informell
+OPI,Grossvater Kosename
+ORB,Kleine Kugel
+ORF,Oesterreichischer Sender
+ORK,Fabelwesen boese
+ORT,Platz
+OST,Himmelsrichtung
+OUI,Ja auf Franzoesisch
+OUT,Nicht mehr aktuell
+OXI,Sauerstoff Vorsilbe
+PAD,Duenne Unterlage
+PAH,Ausruf der Geringschaetzung
+PAN,Griechischer Hirtengott
+PAR,Gleichwertig
+PDF,Dokumentenformat
+PEP,Elan und Schwung
+PER,Durch mittels
+PHI,Griechischer Buchstabe
+PIK,Kartenfarbe schwarz spitz
+PIN,Anstecknadel
+PIU,Mehr italienisch
+PKW,Personenkraftwagen
+POP,Moderne Musikrichtung
+POT,Gefaess fuer Pflanzen
+PRO,Dafuer
+PSI,Griechischer Buchstabe
+PST,Aufforderung leise zu sein
+PUB,Britische Kneipe
+PUR,Rein unverfaelscht
+PYR,Feuer Vorsilbe
+QUA,Durch vermoege
+RAD,Reifen mit Speichen
+RAF,Deutsche Fluggesellschaft
+RAH,Querstange am Mast
+RAI,Arabische Musikrichtung
+RAM,Arbeitsspeicher Abkuerzung
+RAN,Los geht es
+RAP,Schneller Sprechgesang
+RAR,Selten kostbar
+RAT,Empfehlung an jemanden
+RAU,Nicht glatt
+REH,Waldbewohner klein
+REM,Traumschlafphase
+REP,Wiederholung
+RHO,Griechischer Buchstabe
+RKI,Robert Koch Institut
+ROH,Unverarbeitet
+ROM,Italienische Hauptstadt
+ROT,Farbe von Blut
+RUF,Laut ausrufen
+RUM,Spirituose aus Zuckerrohr
+RUN,Lauf auf Englisch
+SAG,Imperativ von sagen
+SAH,Vergangenheit von sehen
+SAT,Gesaettigt Kurzform
+SAU,Weibliches Schwein
+SEE,Binnengewaesser
+SEH,Imperativ von sehen
+SEI,Aufforderung zu sein
+SET,Zusammenstellung
+SEX,Geschlechtsakt
+SIE,Dritte Person weiblich
+SIM,Karte fuers Handy
+SIR,Britischer Ehrentitel
+SKI,Schneegeraet
+SMS,Kurznachricht
+SOG,Starke Stroemung
+SOL,Note der Tonleiter
+SOS,Notsignal
+SPA,Wellnessbad
+SPD,Deutsche Partei links
+SUD,Abkochung
+SUV,Gelaendewagen Abkuerzung
+SWR,Sender Suedwest
+TAB,Register oder Rechnung
+TAG,Helle Zeit
+TAL,Senke zwischen Bergen
+TAN,Braeune der Haut
+TAO,Chinesische Philosophie
+TAP,Leichtes Klopfen
+TAT,Handlung
+TAU,Morgenfeuchte auf Gras
+TEE,Heissgetraenk aus Blaettern
+TEL,Rufnummer Kurzform
+TGV,Franzoesischer Schnellzug
+THC,Cannabiswirkstoff
+TIC,Zuckung
+TIE,Krawatte englisch
+TIP,Nuetzlicher Hinweis
+TJA,Ausdruck des Zoegerns
+TOD,Ende des Lebens
+TOM,Maennlicher Vorname
+TON,Klang oder Erde
+TOP,Oberteil der Kleidung
+TOR,Eingang oder Treffer
+TOT,Nicht mehr am Leben
+TOY,Spielzeug englisch
+TRI,Prefix fuer drei
+TUN,Etwas machen
+TUV,Technische Ueberwachung
+UFO,Unbekanntes Flugobjekt
+UHR,Zeitmesser
+ULM,Suedddeutsche Stadt
+UMS,Um das zusammen
+UND,Und dazu
+UNI,Hochschule
+UNS,Dativ Akkusativ wir
+URI,Schweizer Kanton
+URL,Internetadresse
+URS,Maennlicher Schweizer Vorname
+USA,Land in Nordamerika
+USB,Computeranschluss
+VAN,Kleintransporter
+VIA,Ueber einen Weg
+VIP,Wichtige Persoenlichkeit
+VOM,Von dem
+VON,Herkunftsangabe
+VOR,Raeumlich davor
+WAH,Ausruf des Erstaunens
+WAL,Meeressaeuger
+WAR,Vergangenheit von sein
+WAS,Frage nach Ding
+WDR,Westdeutscher Sender
+WEB,Netz oder englisch
+WEG,Strasse oder Pfad
+WEH,Schmerz empfinden
+WEM,Dativ Fragewort
+WEN,Akkusativ Fragewort
+WER,Frage nach Person
+WIE,Frage nach Art
+WIR,Erste Person Mehrzahl
+WOG,Vergangenheit von wiegen
+WOK,Asiatische Pfanne
+WOW,Ausruf des Erstaunens
+WUT,Grosser Aerger
+YAK,Asiatisches Hochlandrind
+YAM,Tropische Knolle
+YEN,Japanische Waehrung
+YES,Ja auf Englisch
+YIN,Weibliches Prinzip
+ZAH,Ausdauernd
+ZAR,Russischer Herrscher frueher
+ZDF,Mainzer Fernsehsender
+ZEH,Finger am Fuss
+ZEN,Japanische Meditation
+ZIG,Eine grosse unbestimmte Zahl
+ZOB,Zentraler Busbahnhof Abkuerzung
+ZOE,Weiblicher Vorname
+ZOG,Vergangenheit von ziehen
+ZOO,Tierpark
+ZUG,Schienenfahrzeug
+ZUM,Zu dem
+ZUR,Zu der

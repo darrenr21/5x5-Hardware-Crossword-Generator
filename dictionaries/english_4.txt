@@ -1,0 +1,1553 @@
+ABLE,Capable
+ACHE,Dull pain
+ACID,Corrosive substance
+ACME,Highest point
+ACNE,Skin condition
+ACRE,Unit of land area
+AFAR,Far away
+AGED,Old
+AHOY,Sailor greeting
+AIDE,Assistant
+AJAR,Slightly open
+AKIN,Similar to
+ALMS,Charitable gifts
+ALOE,Succulent plant
+ALSO,In addition
+ALTO,Low female voice
+AMOK,Out of control
+ANEW,Once again
+APEX,Highest point
+APSE,Church recess
+AQUA,Water or blue-green
+ARCH,Curved structure
+AREA,Region
+ARIA,Opera solo
+ARID,Very dry
+ARMY,Military force
+ATOM,Smallest unit of matter
+ATOP,On top of
+AUNT,Parent's sister
+AURA,Distinctive atmosphere
+AUTO,Automobile
+AVID,Enthusiastic
+AVOW,Declare openly
+AWAY,At a distance
+AWED,Filled with wonder
+AWRY,Off course
+AXLE,Wheel shaft
+BABE,Baby or darling
+BACK,Rear part
+BAIT,Lure for fishing
+BALD,Without hair
+BALE,Bundle of hay
+BALL,Round object
+BAND,Group of musicians
+BANE,Cause of misery
+BANK,Financial institution
+BARE,Uncovered
+BARK,Tree covering
+BARN,Farm building
+BASE,Bottom support
+BASH,Party or hit
+BASK,Enjoy warmth
+BASS,Low musical tone
+BATH,Bathtub
+BAWL,Cry loudly
+BEAD,Small decorative sphere
+BEAM,Ray of light
+BEAN,Legume
+BEAR,Large hibernating mammal
+BEAT,Rhythm or strike
+BECK,Small stream
+BEEF,Cow meat
+BEEN,Past of be
+BEER,Alcoholic drink
+BEET,Red root vegetable
+BELL,Ringing device
+BELT,Waist strap
+BEND,Curve
+BEVY,Large group
+BIKE,Bicycle
+BILE,Digestive fluid
+BILL,Invoice or bird's beak
+BIRD,Feathered flying animal
+BITE,Cut with teeth
+BLAH,Dull expression
+BLED,Past of bleed
+BLEW,Past of blow
+BLOB,Round shapeless mass
+BLOC,Political group
+BLOG,Online journal
+BLOT,Ink stain
+BLOW,Exhale or wind gust
+BLUE,Color of the sky
+BLUR,Out of focus
+BOAR,Wild pig
+BOAT,Small water vessel
+BOLD,Brave or dark font
+BOLT,Fastener or lightning
+BONE,Skeletal structure
+BOOK,Bound collection of pages
+BOOM,Loud noise or growth
+BOON,Benefit or blessing
+BOOT,Footwear
+BORE,Drill or tedious person
+BORN,Came into life
+BOSS,Manager
+BOTH,The two
+BOUT,Period of activity
+BRAG,Boast
+BRAN,Grain husk
+BRAT,Badly behaved child
+BRAY,Donkey cry
+BRED,Past of breed
+BREW,Make beer or tea
+BRIM,Edge of a hat
+BROW,Forehead
+BUCK,Dollar or male deer
+BUFF,Polish or enthusiast
+BULK,Large mass
+BULL,Male cow
+BUMP,Collision or lump
+BUNK,Bed on a frame
+BUOY,Floating marker
+BURN,Combust
+BURP,Belch
+BUSH,Shrub
+BUST,Sculpture of a head
+BUSY,Actively engaged
+BYTE,Unit of digital data
+CAFE,Small restaurant
+CAGE,Enclosure for animals
+CAKE,Birthday dessert
+CALF,Young cow
+CALM,Peaceful
+CAMP,Temporary outdoor dwelling
+CANE,Walking stick
+CAPE,Cloak or headland
+CARD,Thick paper piece
+CARE,Look after
+CARP,Freshwater fish
+CART,Wheeled vehicle
+CASE,Container or legal matter
+CASH,Physical currency
+CAST,Throw or actors in a show
+CAVE,Underground hollow
+CEDE,Surrender
+CELL,Smallest living unit
+CENT,One hundredth of a dollar
+CHAP,Fellow
+CHAR,Burn slightly
+CHAT,Casual conversation
+CHEF,Professional cook
+CHEW,Bite repeatedly
+CHIC,Stylishly elegant
+CHIN,Lower part of the face
+CHIP,Small piece or snack
+CHOP,Cut with a heavy blow
+CHUM,Close friend
+CITE,Quote as evidence
+CLAM,Bivalve shellfish
+CLAN,Family group
+CLAP,Strike hands together
+CLAY,Earthy material
+CLEF,Musical symbol
+CLIP,Fasten or cut
+CLOG,Block or wooden shoe
+CLOT,Solidified blood
+CLUB,Organization or heavy stick
+CLUE,Hint
+COAL,Black fossil fuel
+COAT,Outer garment
+COIL,Spiral loop
+COIN,Metal currency
+COLA,Fizzy drink
+COLD,Low temperature
+COLT,Young male horse
+COMA,Unconscious state
+COMB,Hair-styling tool
+COME,Move toward
+CONE,Tapering shape
+COOK,Prepare food
+COOL,Slightly cold or fashionable
+COPE,Deal with difficulty
+CORD,Thick string
+CORE,Central part
+CORK,Bottle stopper
+CORN,Yellow grain
+COST,Price
+COUP,Sudden takeover
+COVE,Small bay
+COZY,Comfortable
+CRAB,Crustacean with claws
+CRAG,Steep rugged rock
+CRAM,Fill to capacity
+CREW,Team on a vessel
+CRIB,Baby's bed
+CROP,Harvested plant
+CROW,Black bird
+CRUX,Essential point
+CUBE,Three-dimensional square shape
+CUFF,Sleeve end
+CURB,Restrain
+CURE,Medical remedy
+CURL,Curved shape
+CYAN,Blue-green color
+DALE,Broad valley
+DAMP,Slightly wet
+DARE,Challenge
+DARK,Absence of light
+DARN,Mend socks
+DART,Small pointed missile
+DASH,Sprint
+DATA,Information
+DATE,Calendar day or fruit
+DAWN,Start of day
+DAZE,Stun
+DEAD,No longer alive
+DEAL,Agreement
+DEAN,Academic leader
+DEAR,Beloved or expensive
+DECK,Floor of a ship
+DEED,Action or legal document
+DEEP,Far below the surface
+DEER,Antlered animal
+DEFT,Skillful
+DELI,Delicatessen
+DELL,Small valley
+DEMO,Demonstration
+DENT,Small depression
+DENY,Refuse to admit
+DESK,Work surface
+DIAL,Round control knob
+DICE,Small cubes for games
+DIET,Eating plan
+DILL,Herb used in cooking
+DIME,Ten-cent coin
+DINE,Eat dinner
+DIRE,Extremely serious
+DIRT,Soil
+DISC,Flat circular object
+DISH,Food serving container
+DIVA,Celebrated female singer
+DIVE,Plunge head-first
+DOCK,Port area
+DOLL,Toy figure
+DOLT,Stupid person
+DOME,Rounded roof
+DONE,Completed
+DORM,Student residence
+DOSE,Amount of medicine
+DOTE,Be excessively fond
+DOVE,Peace symbol bird
+DOWN,Toward the ground
+DOZE,Light sleep
+DRAB,Dull brown
+DRAG,Pull along
+DRAW,Sketch
+DREW,Past of draw
+DRIP,Fall in drops
+DROP,Fall or small amount of liquid
+DRUG,Medicine or narcotic
+DRUM,Percussion instrument
+DUAL,Having two parts
+DUCK,Waterfowl
+DUEL,Contest between two
+DUKE,Noble rank
+DULL,Not sharp or interesting
+DUMP,Discard or waste site
+DUNE,Sand hill
+DUSK,Evening twilight
+DUST,Fine dry particles
+DUTY,Responsibility
+EACH,Every one
+EARL,British noble
+EARN,Receive as payment
+EASE,Comfort
+EAST,Direction of sunrise
+EDGE,Outer boundary
+EDGY,Tense
+EDIT,Revise
+EMIT,Give off
+ENVY,Jealousy
+EPIC,Grand and heroic
+ETCH,Engrave
+EVEN,Flat or equal
+EVER,At any time
+EVIL,Profoundly immoral
+EWER,Large jug
+EXAM,Test
+EXIT,Way out
+EXPO,Exhibition
+FACE,Front of the head
+FACT,True information
+FADE,Lose color
+FAIL,Not succeed
+FAIR,Just or pale
+FAKE,Not genuine
+FALL,Autumn
+FAME,Being well known
+FARE,Price of travel
+FARM,Agricultural land
+FAST,Quick or not eating
+FATE,Destiny
+FAWN,Young deer
+FAZE,Disturb
+FEAT,Achievement
+FEED,Give food to
+FEEL,Sense by touch
+FELL,Past of fall
+FEND,Defend
+FERN,Leafy plant
+FEUD,Long bitter quarrel
+FILE,Folder of documents
+FILL,Make full
+FILM,Movie
+FIND,Discover
+FINE,Good or penalty
+FIRE,Flames
+FIRM,Solid
+FISH,Aquatic vertebrate
+FIST,Clenched hand
+FLAG,National symbol on cloth
+FLAK,Criticism
+FLAN,Pastry dessert
+FLAP,Move up and down
+FLAT,Level surface
+FLAW,Imperfection
+FLEA,Tiny jumping parasite
+FLEW,Past tense of fly
+FLIP,Turn over quickly
+FLIT,Move quickly
+FLOE,Ice sheet
+FLOG,Beat
+FLOP,Fall loosely
+FLOW,Move continuously
+FLUE,Chimney duct
+FLUX,Continuous change
+FOAL,Young horse
+FOAM,Bubbly substance
+FOIL,Thin metal sheet
+FOLD,Bend over
+FOLK,Traditional people
+FOND,Having affection for
+FONT,Typeface
+FOOD,Nourishment
+FOOL,Silly person
+FORD,Shallow river crossing
+FORE,Front part
+FORK,Eating utensil
+FORM,Shape or document
+FORT,Military stronghold
+FOUL,Offensive
+FOUR,Number after three
+FOWL,Domestic bird
+FREE,Not captive
+FRET,Worry
+FROG,Amphibian that leaps
+FROM,Indicating origin
+FUEL,Energy source
+FULL,Completely filled
+FUME,Emit smoke
+FUND,Pool of money
+FUNK,Music genre
+FURY,Extreme anger
+FUSE,Electrical safety device
+FUZZ,Fine fibers
+GAIN,Obtain
+GAIT,Manner of walking
+GALE,Strong wind
+GAME,Competitive activity
+GASH,Deep cut
+GASP,Sharp intake of breath
+GATE,Entrance barrier
+GAVE,Past tense of give
+GAZE,Steady look
+GEAR,Equipment
+GENE,Hereditary unit
+GERM,Microorganism
+GIFT,Present
+GILL,Fish breathing organ
+GIRD,Encircle
+GIST,Main point
+GIVE,Offer
+GLAD,Happy
+GLEE,Great delight
+GLEN,Narrow valley
+GLOB,Rounded mass
+GLOW,Soft light
+GLUE,Adhesive
+GLUT,Excess supply
+GNAW,Bite persistently
+GOAL,Aim or scoring shot
+GOAT,Horned farm animal
+GOLD,Yellow precious metal
+GOLF,Ball and hole sport
+GONE,Departed
+GOOD,Of high quality
+GORE,Blood
+GOWN,Long dress
+GRAB,Seize quickly
+GRAM,Unit of mass
+GRAY,Color between black and white
+GRID,Network of lines
+GRIM,Bleak
+GRIN,Wide smile
+GRIP,Tight hold
+GRIT,Coarse sand or determination
+GROW,Increase in size
+GRUB,Insect larva
+GULF,Large bay
+GULL,Seagull
+GULP,Swallow eagerly
+GURU,Spiritual teacher
+GUST,Sudden wind burst
+HACK,Cut crudely
+HAIL,Icy precipitation
+HAIR,Filaments on the head
+HALF,One of two equal parts
+HALL,Corridor
+HALO,Ring of light
+HALT,Stop
+HAND,End of the arm
+HANG,Suspend
+HARD,Firm or difficult
+HARE,Fast-running animal like a rabbit
+HARK,Listen
+HARM,Injury
+HARP,String instrument
+HASH,Chopped mixture
+HASP,Door fastener
+HAUL,Pull with effort
+HAVE,Possess
+HAWK,Bird of prey
+HAZE,Light mist
+HEAD,Top of the body
+HEAL,Make well
+HEAP,Pile
+HEAR,Perceive sound
+HEAT,Warmth
+HEED,Pay attention
+HEEL,Back of the foot
+HEIR,Inheritor
+HELM,Steering wheel of a ship
+HELP,Assist
+HERB,Culinary plant
+HERD,Group of animals
+HERE,In this place
+HERO,Brave person
+HIGH,Elevated
+HIKE,Long walk
+HILL,Small mount
+HILT,Sword handle
+HINT,Indirect suggestion
+HIRE,Employ
+HISS,Snake-like sound
+HIVE,Bee home
+HOAX,Deceptive trick
+HOBO,Wandering person
+HOLD,Keep in hand
+HOLE,Opening
+HOME,Where one lives
+HONE,Sharpen
+HOOD,Head covering
+HOOF,Horse foot
+HOOK,Curved fastener
+HOOP,Circular band
+HOOT,Owl sound
+HOPE,Wish for
+HORN,Animal protrusion
+HOSE,Flexible pipe
+HOST,Person who entertains guests
+HOUR,Sixty minutes
+HOWL,Loud cry
+HUGE,Very large
+HULK,Massive thing
+HULL,Body of a ship
+HUMP,Rounded protrusion
+HUNG,Past of hang
+HUNK,Large piece
+HUNT,Search for prey
+HURL,Throw with force
+HURT,Cause pain
+HUSH,Silence
+HUSK,Dry outer covering
+HYMN,Religious song
+ICON,Symbol or famous image
+IDEA,Pensamiento in English
+IDLE,Not active
+IDOL,Object of worship
+INCH,Unit of length
+INFO,Information
+INTO,To the inside of
+IRIS,Eye part or flower
+IRON,Metal element
+ISLE,Small island
+ITCH,Irritating skin sensation
+ITEM,Individual thing
+JADE,Green gemstone
+JAIL,Prison
+JAMB,Door post
+JAZZ,American music genre
+JEEP,Off-road vehicle
+JEER,Mock
+JELL,Solidify like gel
+JERK,Sudden pull
+JEST,Joke
+JIBE,Agree
+JILT,Reject a lover
+JINX,Bad luck charm
+JOCK,Athletic person
+JOIN,Connect together
+JOKE,Funny remark
+JOLT,Sudden shock
+JUDO,Japanese martial art
+JUMP,Leap
+JUNK,Rubbish
+JURY,Court decision group
+JUST,Fair or only
+KALE,Leafy green vegetable
+KEEL,Ship's spine
+KEEN,Eager or sharp
+KEEP,Retain
+KELP,Large seaweed
+KICK,Strike with the foot
+KILN,Furnace for pottery
+KILO,One thousand
+KIND,Gentle or type
+KING,Male monarch
+KISS,Lip contact
+KITE,Wind-flown toy
+KIWI,New Zealand bird
+KNEE,Leg joint
+KNEW,Past of know
+KNIT,Create with yarn
+KNOB,Rounded protrusion
+KNOT,Tied loop
+KNOW,Have knowledge of
+LACE,Decorative openwork fabric
+LACK,Be without
+LADY,Polite female title
+LAID,Past tense of lay
+LAKE,Large inland water
+LAME,Weak or unable to walk
+LAMP,Light source
+LAND,Solid ground
+LANE,Narrow road
+LARD,Pig fat
+LARK,Small songbird
+LASH,Strike
+LAST,Final
+LATE,After expected time
+LAVA,Molten rock
+LAWN,Grassy area
+LAZY,Unwilling to work
+LEAD,Guide or metal element
+LEAF,Plant structure
+LEAK,Escape of fluid
+LEAN,Thin or incline
+LEAP,Jump
+LEFT,Opposite of right
+LEND,Give temporarily
+LENS,Curved glass
+LENT,Past of lend
+LESS,Smaller amount
+LEVY,Tax
+LIAR,One who lies
+LICE,Plural of louse
+LICK,Taste with tongue
+LIFE,Being alive
+LIFT,Raise up
+LIKE,Enjoy or similar to
+LILY,White flower
+LIMB,Arm or leg
+LIME,Citrus fruit
+LIMP,Walk unevenly
+LINE,Long thin mark
+LINK,Connection
+LINT,Soft fibers
+LION,Large African cat
+LIST,Written series
+LIVE,Be alive or reside
+LOAD,Cargo
+LOAF,Shaped bread
+LOAN,Borrowed money
+LOCK,Fastening device
+LOFT,Upper floor or attic
+LOGO,Visual brand mark
+LOIN,Side of body
+LONE,Solitary
+LONG,Extended in length
+LOOK,Direct eyes toward
+LOOM,Weaving device
+LOOP,Circular shape
+LOOT,Stolen goods
+LORE,Traditional knowledge
+LOSE,Fail to keep
+LOSS,State of losing
+LOST,Unable to find the way
+LOUD,High volume
+LOVE,Deep affection
+LUCK,Fortune
+LULL,Temporary calm
+LUMP,Solid mass
+LUNG,Breathing organ
+LURE,Tempt or bait
+LURK,Wait in hiding
+LUSH,Rich and green
+LUST,Intense desire
+MACE,Spice or weapon
+MADE,Past tense of make
+MAID,Female servant
+MAIL,Postal system
+MAIN,Chief
+MAKE,Create
+MALE,Masculine
+MALL,Shopping center
+MANE,Long hair of a horse
+MARE,Female horse
+MARK,Symbol or stain
+MASK,Face covering
+MAST,Tall ship pole
+MATE,Close friend
+MATH,Mathematics
+MAUL,Attack savagely
+MAZE,Labyrinth
+MEAL,Food occasion
+MEAN,Unkind or intend
+MEAT,Animal flesh food
+MEEK,Gentle and quiet
+MEET,Come together
+MELD,Blend
+MELT,Become liquid
+MEMO,Short note
+MEND,Repair
+MENU,List of food
+MESA,Flat-topped hill
+MESH,Net-like structure
+MICE,Small rodents
+MILD,Gentle
+MILE,Unit of distance
+MILK,White dairy liquid
+MILL,Grain grinding building
+MIME,Silent performance
+MIND,Brain
+MINE,Belonging to me
+MINT,Herb or coin factory
+MIRE,Muddy ground
+MISS,Fail to hit
+MIST,Light fog
+MITE,Tiny arachnid
+MITT,Baseball glove
+MOAN,Low sound of pain
+MOAT,Defensive ditch
+MOCK,Ridicule
+MODE,Method or fashion
+MOLD,Form or fungus
+MOLE,Burrowing animal
+MOLT,Shed feathers
+MONK,Religious man
+MOOD,Emotional state
+MOON,Earth's natural satellite
+MOOR,Open land
+MOOT,Debatable
+MOPE,Be gloomy
+MORE,Greater amount
+MOSS,Small green plant
+MOST,Greatest amount
+MOTH,Night-flying insect
+MOVE,Change position
+MUCH,Large amount
+MUCK,Dirt or manure
+MULE,Donkey-horse hybrid
+MUSE,Source of inspiration
+MUSH,Soft mass
+MUST,Necessity
+MUTE,Silent
+MYTH,Traditional story
+NAIL,Metal fastener
+NAME,Identifier
+NAPE,Back of the neck
+NAVY,Naval military force
+NEAR,Close by
+NEAT,Tidy
+NECK,Body part between head and torso
+NEED,Require
+NERD,Intellectual person
+NEST,Bird home
+NEWS,Recent events
+NEWT,Small amphibian
+NEXT,Immediately following
+NICE,Pleasant
+NINE,Number after eight
+NODE,Connection point
+NONE,Not any
+NOOK,Secluded corner
+NORM,Standard
+NOSE,Organ of smell
+NOTE,Written message
+NOUN,Person place or thing
+NUDE,Unclothed
+NUKE,Heat in microwave
+NULL,Having no value
+OBEY,Follow orders
+OBOE,Woodwind instrument
+ODDS,Probability ratio
+OGRE,Fearsome giant
+OHIO,Midwestern US state
+OILY,Slick with oil
+OKAY,All right
+OMEN,Prophetic sign
+OMIT,Leave out
+ONCE,One time
+ONLY,Solely
+ONTO,To a position on
+OOZE,Slow leak
+OPAL,Iridescent gemstone
+OPEN,Not closed
+OPUS,Musical work
+ORAL,By mouth
+ORCA,Killer whale
+OUCH,Sound of pain
+OURS,Belonging to us
+OUST,Drive out
+OVAL,Egg-shaped
+OVEN,Cooking appliance
+OVER,Above
+PACE,Speed of movement
+PACK,Bundle together
+PACT,Agreement
+PAGE,Sheet of paper
+PAID,Past tense of pay
+PAIL,Bucket
+PAIN,Ache
+PAIR,Two matching things
+PALE,Light in color
+PALM,Inner hand or tree
+PANG,Sharp pain
+PANT,Breathe heavily
+PARE,Trim away
+PARK,Recreation area
+PART,Piece
+PASS,Go by
+PAST,Time gone by
+PATE,Head
+PATH,Walking route
+PAVE,Cover with hard material
+PAWN,Chess piece
+PEAK,Mountain top
+PEAR,Fruit
+PEAT,Plant matter fuel
+PECK,Quick kiss
+PEEK,Quick look
+PEEL,Remove skin
+PEEP,Quick glance
+PEER,Look closely or equal
+PELT,Animal skin
+PERK,Benefit
+PERT,Lively
+PEST,Annoying creature
+PICK,Choose
+PIER,Waterside platform
+PIKE,Fish or weapon
+PILE,Stack
+PILL,Medicine tablet
+PINE,Evergreen tree
+PING,Short sharp sound
+PINK,Light red color
+PINT,Volume measure
+PIPE,Tube for fluids
+PITH,Spongy plant tissue
+PITY,Compassion for suffering
+PLAN,Organized scheme
+PLAY,Engage in fun
+PLEA,Earnest request
+PLOD,Walk heavily
+PLOP,Fall with dull sound
+PLOT,Plan or story outline
+PLOW,Farm tool
+PLUG,Block or connector
+PLUM,Purple stone fruit
+PLUS,Addition
+POEM,Verse composition
+POET,Verse writer
+POKE,Jab
+POLE,Long rod
+POLL,Vote count
+POND,Small body of water
+PONY,Small horse
+POOL,Swimming area
+POOR,Lacking money
+POPE,Catholic leader
+PORE,Skin opening
+PORK,Pig meat
+PORT,Harbor
+POSE,Position
+POSH,Elegant
+POST,Mail or upright pole
+POUR,Flow steadily
+POUT,Sulky expression
+PRAY,Communicate with deity
+PREP,Prepare
+PREY,Hunted animal
+PRIM,Formally neat
+PROD,Poke
+PROM,School dance
+PROP,Support
+PUCE,Brownish purple
+PUCK,Hockey disc
+PUFF,Short blast of air
+PULL,Draw toward
+PULP,Soft mass
+PUMA,Mountain lion
+PUMP,Device to move fluid
+PUNK,Rebellious youth
+PUNT,Boat or football kick
+PURE,Uncontaminated
+PURR,Cat sound
+PUSH,Apply force away
+QUAD,Four courtyard
+QUAY,Wharf
+QUIP,Witty remark
+QUIT,Stop doing
+QUIZ,Short test
+RACE,Running contest
+RACK,Frame for storage
+RAGE,Violent anger
+RAID,Sudden attack
+RAIL,Fence bar
+RAIN,Water droplets falling
+RAKE,Garden tool
+RAMP,Inclined surface
+RANG,Past tense of ring
+RANK,Position
+RANT,Speak angrily
+RARE,Uncommon
+RASH,Reckless
+RATE,Speed or cost
+RAZE,Demolish completely
+READ,Look at text
+REAL,Genuine
+REAM,Quantity of paper
+REAP,Harvest
+REAR,Back portion
+REED,Hollow plant stem
+REEF,Underwater rock formation
+REEK,Smell strongly
+REEL,Spool or stagger
+REIN,Control strap
+RELY,Depend on
+RENT,Payment for use
+REST,Relax
+RICE,Staple grain
+RICH,Wealthy
+RICK,Stack of hay
+RIDE,Travel on
+RIFE,Widespread
+RIFT,Split or crack
+RILE,Make angry
+RIND,Outer covering of fruit
+RING,Circular band
+RINK,Ice skating area
+RIOT,Public disturbance
+RIPE,Ready to eat
+RISE,Move upward
+RISK,Possibility of harm
+ROAD,Paved route
+ROAM,Wander freely
+ROAR,Loud cry of a lion
+ROBE,Long loose garment
+ROCK,Stone
+RODE,Past of ride
+ROLE,Part played
+ROLL,Move by rotating
+ROMP,Play energetically
+ROOF,Top of a building
+ROOK,Chess piece
+ROOM,Enclosed space
+ROOT,Plant anchor
+ROPE,Thick twisted cord
+ROSE,Flowering plant
+ROSY,Pink and cheerful
+ROTE,Mechanical repetition
+RUBY,Red gemstone
+RUDE,Impolite
+RUIN,Destroy
+RULE,Regulation
+RUNG,Step of a ladder
+RUNT,Small one of a litter
+RUSE,Deceptive trick
+RUSH,Move fast
+RUST,Iron oxidation
+SAFE,Secure or vault
+SAGA,Long story
+SAGE,Wise person or herb
+SAID,Past tense of say
+SAIL,Wind-catching cloth
+SAKE,Benefit
+SALE,Selling at reduced price
+SALT,Flavor and preservative
+SAME,Identical
+SAND,Fine rock particles
+SANE,Of sound mind
+SANG,Past tense of sing
+SANK,Past tense of sink
+SASH,Decorative band
+SAVE,Rescue or store
+SCAB,Wound crust
+SCAM,Fraudulent scheme
+SCAN,Look over quickly
+SCAR,Mark left by a wound
+SCUM,Surface residue
+SEAL,Closing device or marine mammal
+SEAM,Line where pieces join
+SEAT,Place to sit
+SECT,Religious subgroup
+SEED,Plant embryo
+SEEK,Search for
+SEEM,Appear
+SEEN,Past participle of see
+SELF,One's own person
+SELL,Exchange for money
+SEND,Dispatch
+SENT,Past of send
+SHAG,Thick pile
+SHAM,Fake
+SHED,Small outbuilding
+SHEW,Show archaic
+SHIN,Front of lower leg
+SHIP,Large sea vessel
+SHOD,Wearing shoes
+SHOE,Foot covering
+SHOO,Drive away
+SHOP,Store
+SHOT,Fired projectile
+SHOW,Display
+SHUN,Avoid deliberately
+SHUT,Close
+SICK,Ill
+SIDE,Edge or flank
+SIFT,Separate through mesh
+SIGH,Long exhale
+SIGN,Symbol or notice
+SILK,Fine smooth fabric
+SILL,Window ledge
+SILO,Grain storage tower
+SING,Produce musical sounds
+SINK,Descend or basin
+SIRE,Father
+SITE,Location
+SIZE,Dimensions
+SKEW,Slant
+SKID,Slide uncontrollably
+SKIM,Remove from surface
+SKIN,Outer body covering
+SKIP,Jump lightly
+SLAB,Flat thick piece
+SLAM,Shut forcefully
+SLAP,Strike with open hand
+SLAT,Thin strip
+SLAW,Cabbage salad
+SLED,Snow vehicle
+SLEW,Past of slay
+SLID,Past of slide
+SLIM,Thin
+SLIP,Slide accidentally
+SLOB,Untidy person
+SLOG,Work hard
+SLOP,Spilled liquid
+SLOT,Narrow opening
+SLOW,Not fast
+SLUG,Slow creature
+SLUM,Poor urban area
+SLUR,Speak unclearly
+SMOG,Polluted fog
+SMUG,Self-satisfied
+SNAG,Unexpected problem
+SNAP,Break suddenly
+SNIP,Cut with scissors
+SNOB,Socially superior person
+SNOW,Frozen precipitation
+SNUG,Cozy and comfortable
+SOAK,Saturate
+SOAP,Cleaning substance
+SOAR,Fly high
+SOCK,Foot garment
+SODA,Carbonated drink
+SOFA,Long cushioned seat
+SOFT,Not hard
+SOIL,Earth or dirt
+SOLD,Past of sell
+SOLE,Only one
+SOME,Unspecified amount
+SONG,Musical composition
+SOON,In a short time
+SOOT,Black residue
+SORE,Painful
+SORT,Arrange by type
+SOUL,Spiritual essence
+SOUP,Liquid food
+SOUR,Sharp taste
+SPAM,Unwanted email
+SPAN,Extent
+SPAR,Light fight
+SPAT,Small quarrel
+SPEC,Specification
+SPED,Past of speed
+SPEW,Eject forcefully
+SPIN,Rotate rapidly
+SPIT,Expel from mouth
+SPOT,Location or stain
+SPRY,Agile
+SPUD,Potato
+SPUN,Past of spin
+SPUR,Motivate
+STAB,Pierce with a knife
+STAG,Male deer
+STAR,Celestial body that shines
+STAY,Remain
+STEM,Plant stalk
+STEP,Footfall
+STEW,Slow-cooked dish
+STIR,Mix with circular motion
+STOP,Cease movement
+STOW,Pack away
+STUB,Short remaining piece
+STUD,Decorative nail
+STUN,Daze
+SUCH,Of that kind
+SUDS,Soap bubbles
+SUIT,Set of matching clothes
+SULK,Be moody
+SUNG,Past tense of sing
+SUNK,Past tense of sink
+SURE,Certain
+SURF,Ride ocean waves
+SWAB,Cotton stick
+SWAM,Past of swim
+SWAN,Large white waterbird
+SWAP,Exchange
+SWAT,Strike sharply
+SWAY,Rock side to side
+SWIG,Big gulp
+SWIM,Move through water
+SWUM,Past participle of swim
+TACK,Small nail
+TAIL,Rear appendage
+TAKE,Get hold of
+TALE,Story
+TALK,Speak
+TALL,Great height
+TAME,Not wild
+TANK,Large container
+TAPE,Adhesive strip
+TASK,Job to be done
+TAUT,Pulled tight
+TAXI,Vehicle for hire
+TEAK,Hard tropical wood
+TEAM,Group working together
+TEAR,Rip or eye drop
+TEEM,Overflow with
+TELL,Inform
+TEND,Look after
+TENS,Groups of ten
+TENT,Portable shelter
+TERM,Period or word
+TEST,Trial or examination
+THAN,Compared with
+THAT,Referring word
+THAW,Melt
+THEE,You archaic
+THEM,Those people
+THEN,At that time
+THEY,Those people
+THIN,Not thick
+THIS,The present thing
+THOU,You archaic
+THUD,Dull heavy sound
+THUG,Violent criminal
+THUS,In this way
+TICK,Check mark or insect
+TIDE,Rise and fall of sea
+TIDY,Neat
+TIER,Level
+TILE,Flat covering piece
+TILL,Until
+TILT,Lean to one side
+TIME,Measured duration
+TINE,Fork prong
+TINT,Slight color
+TINY,Very small
+TIRE,Exhaust
+TOAD,Warty amphibian
+TOIL,Work hard
+TOLD,Past of tell
+TOLL,Fee
+TOMB,Burial chamber
+TONE,Sound quality
+TONG,Asian gang
+TOOK,Past tense of take
+TOOL,Implement
+TOOT,Horn sound
+TORE,Past of tear
+TORN,Past participle of tear
+TOSS,Throw lightly
+TOUR,Journey
+TRAM,Streetcar
+TRAP,Device to catch animals
+TRAY,Flat carrying surface
+TREE,Woody plant
+TREK,Long difficult journey
+TRIM,Cut neatly
+TRIO,Group of three
+TRIP,Journey or stumble
+TROT,Jog pace
+TROY,Weight system
+TRUE,Correct
+TUBA,Large brass instrument
+TUBE,Hollow cylinder
+TUCK,Push into place
+TUFT,Bunch of fibers
+TUNA,Large ocean fish
+TUNE,Melody
+TURF,Grass-covered ground
+TURN,Rotate
+TUSK,Long elephant tooth
+TWIG,Small branch
+TWIN,Identical sibling
+TYPE,Category
+UGLY,Unpleasant to look at
+ULNA,Forearm bone
+UNDO,Reverse an action
+UNIT,Single item
+UPON,On top of
+URGE,Strongly encourage
+USED,Previously owned
+USER,One who uses
+VAIN,Conceited
+VANE,Wind direction indicator
+VARY,Change
+VASE,Flower container
+VAST,Very large
+VEER,Change direction
+VEIL,Thin covering
+VEIN,Blood vessel
+VENT,Opening for air
+VERB,Action word
+VERY,Extremely
+VEST,Sleeveless garment
+VIAL,Small bottle
+VIBE,Atmosphere
+VICE,Bad habit
+VIEW,Visual scene
+VINE,Climbing plant
+VISA,Travel document
+VOID,Empty space
+VOLE,Small rodent
+VOLT,Unit of electrical potential
+VOTE,Cast a ballot
+WADE,Walk through water
+WAFT,Drift through air
+WAGE,Worker's pay
+WAIF,Homeless child
+WAIL,Loud cry
+WAIT,Stay until
+WAKE,Stop sleeping
+WALK,Move on foot
+WALL,Vertical structure
+WAND,Magic stick
+WANE,Decrease
+WANT,Desire
+WARD,Hospital section
+WARM,Moderately hot
+WARN,Alert of danger
+WARP,Bend out of shape
+WARY,Cautious
+WASH,Clean with water
+WASP,Stinging insect
+WAVE,Hand gesture or ocean swell
+WAVY,With waves
+WEAK,Lacking strength
+WEAN,Accustom to go without
+WEAR,Have on the body
+WEED,Unwanted plant
+WEEK,Seven days
+WEEP,Cry
+WELD,Fuse metal
+WELL,In good health
+WENT,Past tense of go
+WEPT,Past of weep
+WERE,Past plural of be
+WEST,Direction of sunset
+WHAM,Impact sound
+WHAT,Question word
+WHEN,At what time
+WHET,Sharpen
+WHEW,Sigh of relief
+WHIM,Sudden fancy
+WHIP,Strike with a strap
+WHIR,Buzzing sound
+WHIT,Smallest amount
+WHIZ,Expert
+WHOM,Object form of who
+WHOP,Strike heavily
+WICK,Candle strand
+WIDE,Large from side to side
+WIFE,Married woman
+WILD,Not domesticated
+WILE,Trick
+WILL,Intention
+WILT,Droop
+WILY,Crafty
+WIND,Moving air
+WINE,Fermented grape drink
+WING,Bird's flying limb
+WINK,Close one eye briefly
+WIRE,Metal thread
+WISE,Having wisdom
+WISH,Desire
+WITH,Accompanying
+WOKE,Past of wake
+WOLF,Wild canine
+WOMB,Female reproductive organ
+WOOD,Tree material
+WOOL,Sheep hair fabric
+WORD,Language unit
+WORE,Past of wear
+WORK,Labor
+WORM,Burrowing invertebrate
+WORN,Damaged by use
+WRAP,Cover by winding
+WREN,Small brown bird
+WRIT,Legal order
+XRAY,Medical imaging beam
+YANK,Pull sharply
+YARD,Unit of length
+YARN,Spun thread
+YAWN,Open mouth from tiredness
+YEAH,Informal yes
+YEAR,Twelve months
+YELL,Shout
+YELP,Sharp cry
+YOGA,Mind-body exercise
+YOKE,Harness or connection
+YOLK,Yellow of an egg
+YORE,Long ago
+YOUR,Belonging to you
+YULE,Christmas
+ZEAL,Enthusiasm
+ZERO,Nothing
+ZEST,Enthusiasm or citrus peel
+ZINC,Metallic element
+ZONE,Designated area
+ZOOM,Move quickly
+
+ALDA,Alan of MASH
+ABBA,Dancing Queen group
+CHER,Believe singer
+ENYA,Orinoco Flow singer
+LUKE,Skywalker of Star Wars
+LEIA,Star Wars princess
+ELSA,Frozen queen
+OLAF,Frozen snowman
+BOND,Agent 007
+ROSS,Geller of Friends
+ETTA,At Last singer
+GERE,Pretty Woman star
+JUDY,Garland of Oz
+BING,Crosby of song
+YOKO,Lennon's widow
+OTIS,Singer Redding
+KIRK,Trek's Captain
+FORD,Actor Harrison
+RYAN,Actress Meg
+EXPO,Event right now
+CLUE,Board game movie
+JAWS,Classic shark film
+DALE,Chip's partner
+CHIP,Dale's partner
+DINO,Flintstones pet
+FRED,Flintstones dad
+BART,Simpson son
+LISA,Simpson daughter
+COCO,Pixar musical film
+MARS,Singer Bruno
+COKE,Classic soda brand
+BEAR,The Hulu chef show
+STAY,Rihanna hit song
+BOLT,Sprinter Usain
+ELON,Tesla's Musk
+META,Facebook parent name
+IDOL,American ___ show
+KATE,Winslet of Titanic
+ALEC,Baldwin of film
+PEPE,Le Pew of cartoons
+POGO,Classic comic strip
+SULU,Star Trek helmsman
+RENE,Actress Russo
+HUGH,Grant or Jackman
+MICK,Jagger of the Stones
+BONO,U2 lead singer
+YODA,Green Jedi master
+THOR,Hammer-wielding god
+HULK,Smashed-up Avenger
+LOKI,Marvel trickster god
+KISS,Rock band in face paint
+GENE,Kelly of Singin' in the Rain
+DEAN,James of East of Eden
+BRAD,Actor Pitt
+JUDE,Actor Law
+NEIL,Diamond or Armstrong
+NORA,Director Ephron
+GLEE,Musical TV series
+LOST,Mysterious island show
+NALA,Simba's mate
+LEGO,Interlocking toy brick
+SONY,Walkman or PlayStation maker
+EBAY,Auction website
+ETSY,Crafty website
+UBER,Ride-sharing app
+TINA,Fey or Turner
+LIZA,Minnelli of Cabaret
+REBA,Country star McEntire
+BELA,Lugosi of Dracula
+OZZY,The Prince of Darkness
+AXEL,Foley of Beverly Hills Cop
+BEBE,Neuwirth of Cheers
+CARY,Actor Grant
+DREW,Barrymore or Carey
+EDIE,Falco of The Sopranos
+FAYE,Dunaway of film
+GARY,Cooper or Oldman
+HOPE,Comedian Bob
+IMAN,Supermodel
+JOAN,Crawford or Rivers
+LANA,Singer Del Rey
+OMAR,Sharif of Zhivago
+SEAN,Connery or Penn
+VERA,Designer Wang
+NOEL,Christmas carol
+ZANE,Actor Billy
+TYRA,Banks of Top Model
+GIGI,Best Picture of 1958
+ELLA,Fitzgerald of jazz
+JONI,Singer Mitchell
+GALE,Dorothy's last name
+AMOS,Famous cookie man
+PASS,We must ____ this class
+OTTO,Director Preminger
+RITA,Hayworth of film
+MONK,Detective Adrian
+VEEP,Selina Meyer's show
+ERIN,Brockovich
+ANNA,Frozen princess
+ODIE,Garfield's dog
+SNOW,Jon of Thrones
+DORA,The Explorer
+DEVO,Whip It band
+INXS,Need You Tonight band
+KPOP,BTS genre
+IPOD,Apple music player
+OLGA,Gymnast Korbut
+NERO,Star Trek villain
+DALI,Artist Salvador
+ANDY,Warhol or Griffith
+RICK,Astley or Grimes
+HANS,Frozen villain
+TESS,Literature heroine
+IVAN,Drago of Rocky IV
+GAGA,Lady of pop
+SADE,Smooth Operator singer
+NINA,Simone of jazz
+SEAL,Kiss from a Rose singer
+EMMA,Stone or Watson
+WILL,Smith or Ferrell
+JACK,Titanic hero
+ROSE,Titanic heroine
+PAUL,McCartney or Newman
+STAN,Marvel legend Lee
+NICK,Nolte or Fury
+LENO,Late night Jay
+KANE,Citizen of film
+PECK,Gregory of film
+STYX,Renegade band
+KHAN,Star Trek villain
+PINK,So What singer
+BECK,Loser singer
+DUFF,Hilary or beer
+LIAM,Neeson or Hemsworth
+NASH,Graham of CSNY
+BABE,The movie pig
+RAID,___ of the Lost Ark
+HOTH,Star Wars ice planet
+DUNE,Arrakis film
+TOTO,Dorothy's dog
+LUCY,Ball of comedy
+DESI,Arnaz of comedy
+ELMO,Red Sesame Street muppet
+BERT,Ernie's roommate
+ABBY,Sesame Street fairy
+JOHN,Lennon or Wayne
+DAVE,Grohl of Foo Fighters
+KURT,Cobain or Russell
+BILL,Gates or Murray
+MARK,Zuckerberg or Hamill
+JEFF,Bezos or Bridges
+ELLY,May Clampett
+GRAN,Hillbillies matriarch
+ADAM,Sandler or West
+ALAN,Arkin or Rickman
+ALEX,Jeopardy host Trebek
+ALMA,Mrs. Hitchcock
+ANNE,Hathaway or Rice
+ARLO,Guthrie of folk
+BESS,First Lady Truman
+BUCK,Rogers or Owens
+BURT,Reynolds or Bacharach
+CHAD,Michael Murray
+CORY,Monteith of Glee
+DANA,Carvey of SNL
+DANE,Comedian Cook
+DICK,Van Dyke or Clark
+DIDI,Actress Conn
+DIRK,Benedict of A-Team
+DUKE,John Wayne's nickname
+EARL,James ___ Jones
+EDNA,Dame Everage
+ERIC,Clapton or Idle
+ERMA,Humorist Bombeck
+ESAI,Actor Morales
+EVAN,Rachel Wood
+EWOK,Fuzzy Star Wars creature
+FINN,Huckleberry or Star Wars hero
+GINA,Lollobrigida of film
+GLEN,Singer Campbell
+GREG,Actor Kinnear
+GWEN,Stefani of No Doubt
+HANK,Williams or Aaron
+IAGO,Aladdin's parrot
+IGGY,Singer Pop
+ILSA,Bergman in Casablanca
+IRON,___ Man of Marvel
+JAKE,Gyllenhaal or Tapper
+JANE,Fonda or Austen
+JEAN,Harlow of film
+JEDI,Star Wars knight
+JOSS,Director Whedon
+JUNE,Cleaver of TV
+KATY,Singer Perry
+KONG,Giant skull island ape
+KRIS,Jenner or Kristofferson
+KYLO,Ren of Star Wars
+LARA,Croft of Tomb Raider
+LENA,Horne or Dunham
+LILY,Actress Tomlin
+LOLA,Showgirl in Copacabana
+LONI,Actress Anderson
+LULU,To Sir with Love singer
+LYNN,Actress Redgrave
+MACY,Gray or department store
+MADS,Actor Mikkelsen
+MARY,Poppins or Tyler Moore
+MATT,Damon or Dillon
+MAME,Broadway musical
+MAYA,Angelou or Rudolph
+MILA,Actress Kunis
+MILO,Actor Ventimiglia
+MIMI,Actress Rogers
+MIKE,Myers or Tyson
+MORK,Robin Williams alien
+NOAH,Ark builder
+PHIL,Collins or Donahue
+POLO,Explorer Marco
+PUCK,Real World star
+REED,Actress Donna
+RUSS,Director Meyer
+SETH,Rogen or MacFarlane
+SHAQ,O'Neal of NBA
+TONY,Bennett or Soprano
+URSA,Superman II villain
+WALT,Disney or Whitman
+WARD,Beaver's dad
+ZEUS,Greek king of gods
+ALVA,Edison's middle name
+AMES,Leon of film
+ARNO,Cartoonist Peter
+ASIA,Heat of the Moment band
+ASTA,Thin Man dog
+BALE,Christian of Batman
+BARD,Shakespeare nickname
+BEAT,Ginsberg's group
+BERG,Director Ingmar
+BLUE,Man Group performers
+BOAT,Love ___ setting
+BORN,This Way singer's hit
+BRET,Michaels of Poison
+CAGE,Nicolas of film
+CAPE,Fear or Cod
+CASH,Johnny of country
+CLIO,Ad world award
+COOP,Gary's film nickname
+CUBA,Gooding Jr. of film
+DEPP,Johnny of film
+EGON,Spengler of Ghostbusters
+FAME,I'm Gonna Live Forever film
+FATE,Doctor of DC Comics
+FLIP,Wilson of comedy
+GORE,Vidal or Al
+HALE,Alan of Gilligan's
+HARP,Harpo's instrument
+HART,Kevin of comedy
+HERB,Alpert of the Brass
+HOLM,Ian of Rings
+INDY,Jones's nickname
+IRMA,La Douce role
+JILL,St. John of film
+JOEL,Coen brother
+JOEY,Tribbiani of Friends
+KYLE,MacLachlan of TV
+LADY,Tramp's partner
+LASS,Lassie dog
+LEON,The Professional film
+LORI,Singer of film
+LUNA,Lovegood of Hogwarts
+DAMN,____ it!
+MACE,Windu of Star Wars
+MARC,Anthony of song
+MAUI,Moana demigod
+NEMO,Finding clownfish
+NICO,Velvet Underground singer
+PAGE,Elliot of Juno
+PETE,Townshend of The Who
+POOH,Winnie the ___
+RAIN,Man movie
+RING,Lord of the ___
+ROAD,House movie
+ROCK,The ___ Johnson
+ROMY,High school reunion girl
+RORY,Gilmore girl
+RUTH,Babe of baseball
+SARA,Smile song
+SHAW,George Bernard
+SHEA,Former Mets stadium
+SIMS,Life simulation game
+SLIM,Shady's first name
+STAR,Trek or Wars
+SWAN,Lake or Black
+TACO,Bell of fast food
+TOBY,Keith of country
+TREK,Star franchise
+TROY,Bolton of musical
+XENA,Warrior Princess
+BABS,Streisand's nickname
+BEAM,Me up Scotty
+CLEO,Laine of jazz
+DEER,The Hunter
+MARV,Albert of sports
+MIRO,Artist Joan
+PEET,Amanda of film
+RAVE,Techno party
+RICO,Suave singer
+TIVO,DVR brand
+TRUE,Grit movie
+YURI,Gagarin of space
