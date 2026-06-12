@@ -63,6 +63,10 @@ Once a valid puzzle is found, `print_puzzle()` prints the grid and all clues wit
 - C++17 or later
 - A compiler with `std::filesystem` support (GCC 8+, Clang 7+, MSVC 2017+)
 
+### Flow Chart
+![Algorithm Flowchart](algorithm_flowchart%20(3).svg)
+
+
 ### Build
 ```bash
 g++ -std=c++17 -O2 -o crossword main.cpp algorithm.cpp dictionary.cpp
