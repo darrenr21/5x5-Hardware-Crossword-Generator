@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1400" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1a1a1a"/>
+    </marker>
+    <marker id="arrow-red" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#c53030"/>
+    </marker>
+    <marker id="arrow-green" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2f855a"/>
+    </marker>
+  </defs>
+
+  <!-- ===== TITLE ===== -->
+  <text x="700" y="55" text-anchor="middle" font-size="42" font-weight="bold" fill="#1a1a1a">
+    Crossword Generation Algorithm
+  </text>
+  <text x="700" y="95" text-anchor="middle" font-size="22" fill="#555">
+    Constraint Satisfaction Problem (CSP) + Recursive Backtracking
+  </text>
+
+  <!-- ===== START ===== -->
+  <ellipse cx="700" cy="160" rx="100" ry="36" fill="#2d3748" stroke="#1a1a1a" stroke-width="3"/>
+  <text x="700" y="170" text-anchor="middle" font-size="24" font-weight="bold" fill="white">START</text>
+
+  <!-- ===== STEP 1 ===== -->
+  <rect x="460" y="230" width="480" height="70" rx="8" fill="#e8f4f8" stroke="#2c5282" stroke-width="3"/>
+  <text x="700" y="275" text-anchor="middle" font-size="26" font-weight="bold" fill="#1a1a1a">
+    1. Pick Random Pattern
+  </text>
+
+  <!-- ===== STEP 2 ===== -->
+  <rect x="460" y="325" width="480" height="70" rx="8" fill="#e8f4f8" stroke="#2c5282" stroke-width="3"/>
+  <text x="700" y="370" text-anchor="middle" font-size="26" font-weight="bold" fill="#1a1a1a">
+    2. Scan for Word Slots
+  </text>
+
+  <!-- ===== STEP 3 ===== -->
+  <rect x="460" y="420" width="480" height="70" rx="8" fill="#e8f4f8" stroke="#2c5282" stroke-width="3"/>
+  <text x="700" y="465" text-anchor="middle" font-size="26" font-weight="bold" fill="#1a1a1a">
+    3. Build Position Index
+  </text>
+
+  <!-- ===== STEP 4 ===== -->
+  <rect x="460" y="515" width="480" height="70" rx="8" fill="#fff4e6" stroke="#c05621" stroke-width="3"/>
+  <text x="700" y="560" text-anchor="middle" font-size="26" font-weight="bold" fill="#1a1a1a">
+    4. Pick Most Constrained Slot
+  </text>
+
+  <!-- ===== STEP 5 ===== -->
+  <rect x="460" y="610" width="480" height="70" rx="8" fill="#fff4e6" stroke="#c05621" stroke-width="3"/>
+  <text x="700" y="655" text-anchor="middle" font-size="26" font-weight="bold" fill="#1a1a1a">
+    5. Try a Candidate Word
+  </text>
+
+  <!-- ===== DECISION: zero candidates? ===== -->
+  <polygon points="700,710 940,790 700,870 460,790" fill="#fef5e7" stroke="#975a16" stroke-width="3"/>
+  <text x="700" y="780" text-anchor="middle" font-size="24" font-weight="bold" fill="#1a1a1a">
+    Any slot with
+  </text>
+  <text x="700" y="810" text-anchor="middle" font-size="24" font-weight="bold" fill="#1a1a1a">
+    zero candidates?
+  </text>
+
+  <!-- ===== STEP 7 BACKTRACK ===== -->
+  <rect x="1010" y="755" width="260" height="70" rx="8" fill="#fed7d7" stroke="#c53030" stroke-width="3"/>
+  <text x="1140" y="800" text-anchor="middle" font-size="26" font-weight="bold" fill="#1a1a1a">
+    7. Backtrack
+  </text>
+
+  <!-- ===== DECISION: all slots filled? ===== -->
+  <polygon points="700,905 940,985 700,1065 460,985" fill="#e6fffa" stroke="#285e61" stroke-width="3"/>
+  <text x="700" y="980" text-anchor="middle" font-size="24" font-weight="bold" fill="#1a1a1a">
+    All slots
+  </text>
+  <text x="700" y="1010" text-anchor="middle" font-size="24" font-weight="bold" fill="#1a1a1a">
+    filled?
+  </text>
+
+  <!-- ===== "TOO MANY STEPS?" BOX ===== -->
+  <rect x="70" y="755" width="320" height="70" rx="8" fill="#fff5f5" stroke="#c53030" stroke-width="3" stroke-dasharray="7,4"/>
+  <text x="230" y="800" text-anchor="middle" font-size="26" font-weight="bold" fill="#c53030">
+    Too many steps?
+  </text>
+
+  <!-- ===== NEW ATTEMPT BOX ===== -->
+  <rect x="70" y="895" width="320" height="70" rx="8" fill="#fffbeb" stroke="#b7791f" stroke-width="3"/>
+  <text x="230" y="940" text-anchor="middle" font-size="26" font-weight="bold" fill="#1a1a1a">
+    New Attempt
+  </text>
+
+  <!-- ===== SUCCESS END ===== -->
+  <ellipse cx="700" cy="1170" rx="170" ry="48" fill="#2f855a" stroke="#1a4731" stroke-width="3"/>
+  <text x="700" y="1180" text-anchor="middle" font-size="28" font-weight="bold" fill="white">
+    PUZZLE COMPLETE ✓
+  </text>
+
+  <!-- ===== FAIL END ===== -->
+  <ellipse cx="230" cy="1170" rx="130" ry="45" fill="#9b2c2c" stroke="#63171b" stroke-width="3"/>
+  <text x="230" y="1180" text-anchor="middle" font-size="24" font-weight="bold" fill="white">FAIL</text>
+
+  <!-- ============================================== -->
+  <!-- ========== ARROWS / EDGES ==================== -->
+  <!-- ============================================== -->
+
+  <!-- START → 1 -->
+  <line x1="700" y1="196" x2="700" y2="228" stroke="#1a1a1a" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- 1 → 2 -->
+  <line x1="700" y1="300" x2="700" y2="323" stroke="#1a1a1a" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- 2 → 3 -->
+  <line x1="700" y1="395" x2="700" y2="418" stroke="#1a1a1a" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- 3 → 4 -->
+  <line x1="700" y1="490" x2="700" y2="513" stroke="#1a1a1a" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- 4 → 5 -->
+  <line x1="700" y1="585" x2="700" y2="608" stroke="#1a1a1a" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- 5 → zero? diamond -->
+  <line x1="700" y1="680" x2="700" y2="708" stroke="#1a1a1a" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- zero? YES → Backtrack (right) -->
+  <line x1="940" y1="790" x2="1008" y2="790" stroke="#c53030" stroke-width="3" marker-end="url(#arrow-red)"/>
+  <text x="974" y="778" text-anchor="middle" font-size="20" font-weight="bold" fill="#c53030">YES</text>
+
+  <!-- Backtrack → loops back to step 5 -->
+  <path d="M 1140 755 Q 1140 645 944 645" fill="none" stroke="#c53030" stroke-width="3" marker-end="url(#arrow-red)"/>
+
+  <!-- zero? NO → all filled? -->
+  <line x1="700" y1="870" x2="700" y2="903" stroke="#1a1a1a" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="730" y="890" font-size="20" font-weight="bold" fill="#2f855a">NO</text>
+
+  <!-- all filled? YES → SUCCESS -->
+  <line x1="700" y1="1065" x2="700" y2="1120" stroke="#2f855a" stroke-width="4" marker-end="url(#arrow-green)"/>
+  <text x="730" y="1105" font-size="20" font-weight="bold" fill="#2f855a">YES</text>
+
+  <!-- all filled? NO → loop back to step 4 (far right) -->
+  <path d="M 940 985 L 1320 985 L 1320 550 L 944 550" fill="none" stroke="#1a1a1a" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="910" y="975" font-size="20" font-weight="bold" fill="#1a1a1a">NO</text>
+
+  <!-- zero? → Too many steps? (left) -->
+  <path d="M 460 790 L 393 790" stroke="#c53030" stroke-width="3" stroke-dasharray="6,4" marker-end="url(#arrow-red)"/>
+
+  <!-- Too many steps? → New Attempt -->
+  <line x1="230" y1="825" x2="230" y2="893" stroke="#c53030" stroke-width="3" marker-end="url(#arrow-red)"/>
+
+  <!-- New Attempt → loops back to step 1 (far left) -->
+  <path d="M 70 930 Q 25 930 25 265 Q 25 248 458 253" fill="none" stroke="#b7791f" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- New Attempt → FAIL -->
+  <line x1="230" y1="965" x2="230" y2="1122" stroke="#9b2c2c" stroke-width="3" stroke-dasharray="6,4" marker-end="url(#arrow-red)"/>
+
+  <!-- ===== LEGEND ===== -->
+  <g transform="translate(990, 130)">
+    <rect x="0" y="0" width="330" height="215" fill="white" stroke="#888" stroke-width="2" rx="6"/>
+    <text x="165" y="35" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">Legend</text>
+
+    <rect x="20" y="55" width="34" height="24" fill="#e8f4f8" stroke="#2c5282" stroke-width="2"/>
+    <text x="66" y="74" font-size="17" fill="#1a1a1a">Setup (once per run)</text>
+
+    <rect x="20" y="90" width="34" height="24" fill="#fff4e6" stroke="#c05621" stroke-width="2"/>
+    <text x="66" y="109" font-size="17" fill="#1a1a1a">Recursive core</text>
+
+    <polygon points="20,125 54,125 54,149 20,149" fill="#fef5e7" stroke="#975a16" stroke-width="2"/>
+    <text x="66" y="143" font-size="17" fill="#1a1a1a">Decision point</text>
+
+    <rect x="20" y="160" width="34" height="24" fill="#fff5f5" stroke="#c53030" stroke-width="2" stroke-dasharray="4,3"/>
+    <text x="66" y="179" font-size="17" fill="#1a1a1a">Timeout safety net</text>
+
+    <line x1="20" y1="200" x2="54" y2="200" stroke="#c53030" stroke-width="3"/>
+    <text x="66" y="206" font-size="17" fill="#1a1a1a">Backtrack / failure</text>
+  </g>
+
+  <!-- ===== PERFORMANCE FOOTER ===== -->
+  <rect x="70" y="1260" width="1260" height="110" rx="8" fill="#f7fafc" stroke="#4a5568" stroke-width="2"/>
+  <text x="700" y="1295" text-anchor="middle" font-size="22" font-weight="bold" fill="#1a1a1a">
+    Performance — ESP32-WROVER, 60 trials
+  </text>
+
+  <g transform="translate(140, 1335)">
+    <text x="0" y="0" font-size="20" font-weight="bold" fill="#2c5282">Avg:</text>
+    <text x="80" y="0" font-size="20" fill="#1a1a1a">4.0 s</text>
+
+    <text x="200" y="0" font-size="20" font-weight="bold" fill="#2c5282">Range:</text>
+    <text x="305" y="0" font-size="20" fill="#1a1a1a">0.13 – 30 s</text>
+
+    <text x="530" y="0" font-size="20" font-weight="bold" fill="#2c5282">Success:</text>
+    <text x="660" y="0" font-size="20" fill="#1a1a1a">100%</text>
+
+    <text x="800" y="0" font-size="20" font-weight="bold" fill="#2f855a">EN:</text>
+    <text x="860" y="0" font-size="20" fill="#1a1a1a">5.8s</text>
+
+    <text x="940" y="0" font-size="20" font-weight="bold" fill="#2f855a">ES:</text>
+    <text x="1000" y="0" font-size="20" fill="#1a1a1a">2.4s</text>
+
+    <text x="1080" y="0" font-size="20" font-weight="bold" fill="#2f855a">DE:</text>
+    <text x="1140" y="0" font-size="20" fill="#1a1a1a">3.9s</text>
+  </g>
+</svg>
